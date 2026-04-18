@@ -64,7 +64,7 @@ async function processFile(filePath) {
     console.log(`🚀 Uploading ${validData.length} records to Supabase...`);
     const { error } = await supabase
       .from('fiqh_rulings')
-      .upsert(validData, { onConflict: 'module,topic,title' });
+      .upsert(validData, { onConflict: 'module,topic,title,source_book' });
 
     if (error) {
       console.error(`❌ Database error:`, error.message);

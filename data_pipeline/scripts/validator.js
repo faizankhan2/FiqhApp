@@ -7,14 +7,19 @@ const rulingSchema = z.object({
   module: z.string().min(3, "Module must be at least 3 characters"),
   topic: z.string().min(2, "Topic must be at least 2 characters"),
   title: z.string().min(2, "Title must be at least 2 characters"),
-  action: z.enum(["Fard", "Wajib", "Sunnah", "Mandub", "Mustahab", "Mubah", "Makruh", "Haram", "Mufsid"]),
+  action: z.enum(["Fard", "Wajib", "Sunnah", "Mandub", "Mustahab", "Mubah", "Makruh", "Haram", "Mufsid"]).nullable(),
   short_rule: z.string().max(280, "Short rule should be concise (max 280 chars)"),
+  // Mandatory Descriptive Fields
   details: z.string().min(10, "Details must be descriptive"),
   
   // madhhab_applicability is a text array (_text) in the DB
   madhhab_applicability: z.array(z.string()).min(1, "At least one Madhhab must be specified"),
   
-  // Situational & Premium UI Fields
+  // Situational & Peaceful Scholar UX Fields
+  quran_hadith_evidence: z.string().nullable(),
+  spiritual_wisdom: z.string().nullable(),
+  actionable_steps: z.array(z.string()).nullable(),
+  
   scenario_tags: z.array(z.string()).optional().nullable(),
   arabic_terminology: z.string().optional().nullable(),
   remedy_or_consequence: z.string().optional().nullable(),

@@ -10,7 +10,18 @@ The project follows a strict separation of concerns to ensure scalability and ma
 *   **Backend (Supabase)**: A Postgres-based backend providing secure data storage, authentication, and real-time capabilities.
 *   **Mobile Interface (Future)**: An Expo-powered React Native application designed for high-density, high-velocity information consumption on mobile devices.
 
-## 3. Agent Directives (Core Rules of Engagement)
+## 3. Data Schema (Peaceful Scholar UX)
+Our data model supports the "Peaceful Scholar" aesthetic with fields designed for comprehensive spiritual and practical guidance:
+
+*   **Core Fields**: `module`, `topic`, `title`, `action`, `short_rule` (Level 1: Quick Answer), `details`.
+*   **Scriptural & Spiritual (Level 3: Evidence & Heart)**:
+    *   `quran_hadith_evidence`: Scriptural backing for Level 3 depth.
+    *   `spiritual_wisdom`: Contextual insights into the "Why" for Level 3 depth.
+*   **Practical Guidance (Level 2: The How-To)**:
+    *   `actionable_steps`: A `TEXT[]` array providing the step-by-step checklist for Level 2 depth.
+*   **Metadata**: `madhhab_applicability` (Array), `source_book`, `author`, `volume_page`, `ui_icon_concept`.
+
+## 4. Agent Directives (Core Rules of Engagement)
 As the AI development partner for FiqhApp, the following rules are non-negotiable:
 
 *   **Structural Planning First**: Always propose structural designs and architectural implementation plans before writing execution code.

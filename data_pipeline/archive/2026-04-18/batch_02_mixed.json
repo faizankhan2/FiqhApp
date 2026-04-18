@@ -1,0 +1,110 @@
+[
+{
+"module": "Purification",
+"topic": "Vessels & Utensils",
+"title": "Using Gold and Silver Vessels",
+"action": "Haram",
+"short_rule": "It is unlawful to use vessels made of gold and silver for purification, eating, or other purposes.",
+"details": "It is not lawful to use gold & silver vessels in purification or otherwise, like eating & makeup. That is because of the statement of the Messenger of Allah: 'Do not drink in gold or silver vessels and do not eat in dishes made of them, for they are for them (unbelievers) in this life and for you in the Hereafter.'",
+"madhhab_applicability": [
+"Hanbali"
+],
+"ui_icon_concept": "gold cup",
+"scenario_tags": [
+"eating",
+"purification",
+"utensils"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": null,
+"source_book": "Umdat al-Fiqh",
+"author": "Ibn Qudamah al-Maqdisi",
+"volume_page": "42"
+},
+{
+"module": "Prayer",
+"topic": "Etiquettes of Walking to Prayer",
+"title": "Entering the Masjid",
+"action": "Mustahab",
+"short_rule": "It is recommended to enter the masjid putting the right foot forward and reciting the designated supplication.",
+"details": "And when he arrives at the masjid, he should put forward his right foot, and say: 'In the name of Allah, and peace and blessings be upon the Messenger of Allah. O Allah, forgive my sins and open for me the gates of your mercy.'",
+"madhhab_applicability": [
+"Hanbali"
+],
+"ui_icon_concept": "mosque door",
+"scenario_tags": [
+"mosque",
+"supplication",
+"walking"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": null,
+"source_book": "Umdat al-Fiqh",
+"author": "Ibn Qudamah al-Maqdisi",
+"volume_page": "137"
+},
+{
+"module": "Fasting",
+"topic": "Breaking the Fast",
+"title": "Hastening the Iftar",
+"action": "Sunnah",
+"short_rule": "It is recommended to hasten to break the fast as soon as the time for the Sunset Prayer has begun.",
+"details": "The first recommended action is that one should hasten to break the fast once one is sure that the time for the Sunset Prayer has begun and the time for fasting has ended. It is best to break the fast on a few dates or on water.",
+"madhhab_applicability": [
+"Shafi'i"
+],
+"ui_icon_concept": "dates",
+"scenario_tags": [
+"ramadan",
+"iftar",
+"sunset"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": null,
+"source_book": "The Accessible Conspectus",
+"author": "Abu Shuja' al-Asfahani",
+"volume_page": "132"
+},
+{
+"module": "Purification",
+"topic": "Wudu",
+"title": "Passing the Hand over Limbs",
+"action": "Wajib",
+"short_rule": "It is mandatory to actively pass the hand over the washed body parts during ablution and to do the actions in immediate succession.",
+"details": "The wajibs of wet ablution are seven and they are: (1) passing (the underside of) one's hand (over the washed part), (2) doing one action of ablution immediately after the other (without a large break)...",
+"madhhab_applicability": [
+"Maliki"
+],
+"ui_icon_concept": "hand rubbing",
+"scenario_tags": [
+"ablution",
+"washing"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "If omitted, the ablution is incomplete and must be repeated or corrected based on the gap time.",
+"source_book": "al-Murshid al-Mu'in",
+"author": "Ibn 'Ashir",
+"volume_page": "8"
+},
+{
+"module": "Zakat",
+"topic": "Distribution of Zakat",
+"title": "Enriching a Single Recipient",
+"action": "Makruh",
+"short_rule": "It is disliked to give a single recipient an amount of Zakat that makes them reach the minimum zakatable wealth threshold.",
+"details": "It is disliked to give an amount of wealth to an eligible recipient such that he would then own the nisab [and hence no longer be eligible to receive zakat in the future]. It is preferred, however, to give enough to a recipient such that he need not ask for money for food.",
+"madhhab_applicability": [
+"Hanafi"
+],
+"ui_icon_concept": "money bag",
+"scenario_tags": [
+"charity",
+"wealth distribution"
+],
+"arabic_terminology": "niṣāb",
+"remedy_or_consequence": null,
+"source_book": "Ascent to Felicity",
+"author": "Abu 'l-Ikhlas al-Shurunbulali",
+"volume_page": "141"
+}
+]

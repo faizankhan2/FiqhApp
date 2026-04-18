@@ -1,0 +1,40 @@
+[
+  {
+    "module": "Taharah",
+    "topic": "Wudu",
+    "title": "Intention (Niyyah)",
+    "action": "Fard",
+    "short_rule": "The intention to perform Wudu for prayer is a required spiritual act before starting.",
+    "details": "According to the Shafi'i school, the intention must be made at the moment the water first touches the face. It is not merely a thought but a purposeful act of the heart.",
+    "madhhab_applicability": ["Shafi'i"],
+    "source_book": "Al-Umm",
+    "author": "Imam Ash-Shafi'i",
+    "volume_page": "Vol 1, p. 14"
+  },
+  {
+    "module": "Salah",
+    "topic": "Prayer Times",
+    "title": "Asr Prayer Time",
+    "action": "Fard",
+    "short_rule": "Asr prayer begins when the shadow of an object is twice its length.",
+    "details": "In the Hanafi school (dominant opinion), the time for Asr starts when the shadow of an object becomes twice its size, excluding the shadow at zenith. Other schools start Asr when the shadow equals the object's size.",
+    "madhhab_applicability": ["Hanafi"],
+    "source_book": "Al-Hidayah",
+    "author": "Burhan al-Din al-Marghinani",
+    "volume_page": "Vol 1, p. 45"
+  },
+  {
+    "module": "Salah",
+    "topic": "Travelers",
+    "title": "Shortening Prayer (Qasr)",
+    "action": "Sunnah",
+    "short_rule": "Travelers may shorten the 4-rak'at prayers to 2 rak'at during their journey.",
+    "arabic_terminology": "قصر الصلاة",
+    "details": "When traveling a distance of approximately 48 miles or more, it is a Sunnah Mu'akkadah to shorten the Dhuhr, Asr, and Isha prayers.",
+    "madhhab_applicability": ["Hanafi"],
+    "scenario_tags": ["traveling", "voyage", "distance"],
+    "source_book": "Al-Hidayah",
+    "author": "Al-Marghinani",
+    "remedy_or_consequence": "If a traveler prays the full 4 rak'at intentionally, they have acted contrary to the Sunnah, though the prayer is valid if the first sitting was performed."
+  }
+]

@@ -1,0 +1,446 @@
+[
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Excretions from the Two Openings",
+"action": null,
+"short_rule": "Anything that exits from the front or rear passages nullifies Wudu.",
+"details": "Wudu is nullified by anything that exits from the two openings (penis/vagina, and anus). This includes the appearance of filth at the tip or edge of the opening.",
+"madhhab_applicability": [
+"Hanafi"
+],
+"ui_icon_concept": "toilet",
+"scenario_tags": [
+"excretion",
+"restroom"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "Ascent to Felicity",
+"author": "Abu 'l-Ikhlas al-Shurunbulali",
+"volume_page": "45"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Flowing Filth from the Body",
+"action": null,
+"short_rule": "Filth like blood or pus that flows from a wound nullifies Wudu.",
+"details": "Filth that flows from other than the two openings, such as blood or pus, nullifies Wudu. The filth must physically flow beyond the point of exit to a place that normally must be cleaned.",
+"madhhab_applicability": [
+"Hanafi"
+],
+"ui_icon_concept": "blood drop",
+"scenario_tags": [
+"bleeding",
+"injury",
+"sickness"
+],
+"arabic_terminology": "najis",
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "Ascent to Felicity",
+"author": "Abu 'l-Ikhlas al-Shurunbulali",
+"volume_page": "45"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Vomiting a Mouthful",
+"action": null,
+"short_rule": "Vomiting a mouthful or more nullifies Wudu.",
+"details": "Vomiting an amount equal to a mouthful or more breaks one's Wudu. A mouthful is defined as an amount the mouth cannot withhold without strain.",
+"madhhab_applicability": [
+"Hanafi"
+],
+"ui_icon_concept": "vomiting face",
+"scenario_tags": [
+"sickness",
+"vomiting"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "Ascent to Felicity",
+"author": "Abu 'l-Ikhlas al-Shurunbulali",
+"volume_page": "46"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Sleeping in an Unsupported Position",
+"action": null,
+"short_rule": "Sleeping without the buttocks firmly planted on the ground nullifies Wudu.",
+"details": "Sleeping in a position such that the buttocks are not firmly planted onto the ground, such as while lying down or leaning on one's side, nullifies Wudu.",
+"madhhab_applicability": [
+"Hanafi"
+],
+"ui_icon_concept": "sleep",
+"scenario_tags": [
+"sleep",
+"resting"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "Ascent to Felicity",
+"author": "Abu 'l-Ikhlas al-Shurunbulali",
+"volume_page": "46"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Loss of Consciousness or Sanity",
+"action": null,
+"short_rule": "Loss of consciousness, insanity, or drunkenness completely nullifies Wudu.",
+"details": "Wudu is completely invalidated by the loss of consciousness, insanity, or drunkenness.",
+"madhhab_applicability": [
+"Hanafi"
+],
+"ui_icon_concept": "dizzy",
+"scenario_tags": [
+"fainting",
+"intoxication",
+"insanity"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "Ascent to Felicity",
+"author": "Abu 'l-Ikhlas al-Shurunbulali",
+"volume_page": "46"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Laughing Out Loud in Prayer",
+"action": null,
+"short_rule": "An adult laughing out loud during the ritual prayer nullifies their Wudu.",
+"details": "Laughing out loud, by an adult, while performing the ritual prayer (salat) nullifies ablution.",
+"madhhab_applicability": [
+"Hanafi"
+],
+"ui_icon_concept": "laughing face",
+"scenario_tags": [
+"prayer",
+"laughing"
+],
+"arabic_terminology": "salat",
+"remedy_or_consequence": "Must perform Wudu again and repeat the prayer.",
+"source_book": "Ascent to Felicity",
+"author": "Abu 'l-Ikhlas al-Shurunbulali",
+"volume_page": "46"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Direct Contact between Genitalia",
+"action": null,
+"short_rule": "Contact between an erect penis and vagina without a thick barrier nullifies Wudu.",
+"details": "Direct contact between an erect penis and vagina without a thick cloth acting as a barrier breaks the ablution. Direct skin contact elsewhere does not.",
+"madhhab_applicability": [
+"Hanafi"
+],
+"ui_icon_concept": "intimacy",
+"scenario_tags": [
+"intimacy",
+"touching"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "Ascent to Felicity",
+"author": "Abu 'l-Ikhlas al-Shurunbulali",
+"volume_page": "46"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Normal Excretions",
+"action": null,
+"short_rule": "Urinating, flatulating, and the ejection of feces break Wudu.",
+"details": "The regular passing of urine, feces, and flatulence are fundamental acts that break ablution.",
+"madhhab_applicability": [
+"Maliki"
+],
+"ui_icon_concept": "toilet",
+"scenario_tags": [
+"restroom",
+"excretion"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "al-Murshid al-Mu'in",
+"author": "Ibn 'Ashir",
+"volume_page": "Stanza 72-73"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Uncontrolled & Other Emissions",
+"action": null,
+"short_rule": "Pre-seminal discharge, post-urinary discharge, and rare uncontrolled emissions break Wudu.",
+"details": "Ablution is broken by uncontrolled emissions when they occur rarely, as well as pre-seminal discharge and post-urinary discharge.",
+"madhhab_applicability": [
+"Maliki"
+],
+"ui_icon_concept": "water drop",
+"scenario_tags": [
+"emissions",
+"illness"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "al-Murshid al-Mu'in",
+"author": "Ibn 'Ashir",
+"volume_page": "Stanza 72-73"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Loss of Intellect",
+"action": null,
+"short_rule": "Heavy sleep, drunkenness, fainting, or possession by jinn breaks Wudu.",
+"details": "The loss of normal intellect through heavy sleep, drunkenness, fainting, or possession by jinn breaks the state of ablution.",
+"madhhab_applicability": [
+"Maliki"
+],
+"ui_icon_concept": "sleep",
+"scenario_tags": [
+"sleep",
+"intoxication",
+"fainting"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "al-Murshid al-Mu'in",
+"author": "Ibn 'Ashir",
+"volume_page": "Stanza 73"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Lustful Physical Contact",
+"action": null,
+"short_rule": "Caressing or kissing with normal sensual pleasure or desiring such pleasure breaks Wudu.",
+"details": "Caressing and kissing break Wudu if one finds normal sensual pleasure in it or if one desires such pleasure during the act.",
+"madhhab_applicability": [
+"Maliki"
+],
+"ui_icon_concept": "kiss",
+"scenario_tags": [
+"intimacy",
+"touching"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "al-Murshid al-Mu'in",
+"author": "Ibn 'Ashir",
+"volume_page": "Stanza 74"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Direct Contact with Genitalia",
+"action": null,
+"short_rule": "A man touching his penis or a woman gently inserting her fingers into her vagina breaks Wudu.",
+"details": "Ablution is broken by direct contact with the genitalia, such as a woman gently inserting her finger(s) or hand in her vagina, or a man touching his penis.",
+"madhhab_applicability": [
+"Maliki"
+],
+"ui_icon_concept": "hand touch",
+"scenario_tags": [
+"touching",
+"private parts"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "al-Murshid al-Mu'in",
+"author": "Ibn 'Ashir",
+"volume_page": "Stanza 75"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Doubt Regarding Purity",
+"action": null,
+"short_rule": "Doubting whether one has committed an act that breaks purity nullifies Wudu.",
+"details": "Simply doubting about committing an act which makes one lose pureness is sufficient to break the ablution.",
+"madhhab_applicability": [
+"Maliki"
+],
+"ui_icon_concept": "question mark",
+"scenario_tags": [
+"doubt",
+"forgetfulness"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "al-Murshid al-Mu'in",
+"author": "Ibn 'Ashir",
+"volume_page": "Stanza 75"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Apostasy",
+"action": null,
+"short_rule": "Disbelieving and becoming an apostate breaks ritual purity.",
+"details": "Disbelieving for he who becomes an apostate after being Muslim breaks the state of ablution.",
+"madhhab_applicability": [
+"Maliki"
+],
+"ui_icon_concept": "broken link",
+"scenario_tags": [
+"apostasy",
+"disbelief"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu upon returning to Islam.",
+"source_book": "al-Murshid al-Mu'in",
+"author": "Ibn 'Ashir",
+"volume_page": "Stanza 75"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Exits from Private Parts",
+"action": null,
+"short_rule": "Whatever exits from the private parts nullifies Wudu.",
+"details": "Wudu is nullified by what exits from the private parts. For the majority of Hanbalis, this even includes worms and stones exiting the passages.",
+"madhhab_applicability": [
+"Hanbali"
+],
+"ui_icon_concept": "toilet drop",
+"scenario_tags": [
+"excretion",
+"restroom"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "Umdat al-Fiqh",
+"author": "Ibn Qudamah al-Maqdisi",
+"volume_page": "69"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Voluminous Impure Discharges",
+"action": null,
+"short_rule": "Impure discharges like blood or pus from elsewhere in the body nullify Wudu if they are voluminous.",
+"details": "Impure discharges from elsewhere in the body, such as blood, pus (qayh), and serosanguineous discharge (sadeed), nullify Wudu if they are voluminous enough to be repulsing.",
+"madhhab_applicability": [
+"Hanbali"
+],
+"ui_icon_concept": "blood drop",
+"scenario_tags": [
+"bleeding",
+"injury",
+"sickness"
+],
+"arabic_terminology": "qayh",
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "Umdat al-Fiqh",
+"author": "Ibn Qudamah al-Maqdisi",
+"volume_page": "69"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Loss of Intellect",
+"action": null,
+"short_rule": "Loss of intellect nullifies Wudu, except for light sleep while sitting or standing.",
+"details": "Loss of intellect, including sleep, coma, insanity, or intoxication, nullifies Wudu. An exception is made for light sleep while sitting or standing.",
+"madhhab_applicability": [
+"Hanbali"
+],
+"ui_icon_concept": "sleep",
+"scenario_tags": [
+"sleep",
+"fainting"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "Umdat al-Fiqh",
+"author": "Ibn Qudamah al-Maqdisi",
+"volume_page": "69"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Touching the Genitals",
+"action": null,
+"short_rule": "Touching the penis or female external sexual organs with one's hands nullifies Wudu.",
+"details": "Touching the penis with one's hands nullifies Wudu. This rule also applies to touching a woman's external sexual organs, whether touching one's own or another's.",
+"madhhab_applicability": [
+"Hanbali"
+],
+"ui_icon_concept": "hand touch",
+"scenario_tags": [
+"touching",
+"private parts"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "Umdat al-Fiqh",
+"author": "Ibn Qudamah al-Maqdisi",
+"volume_page": "69"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Lustful Skin Contact with Women",
+"action": null,
+"short_rule": "A man's skin touching the skin of a woman with lustful desire nullifies Wudu.",
+"details": "If a man's skin touches the skin of a woman with lustful desire, it nullifies his Wudu.",
+"madhhab_applicability": [
+"Hanbali"
+],
+"ui_icon_concept": "touch",
+"scenario_tags": [
+"intimacy",
+"touching"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "Umdat al-Fiqh",
+"author": "Ibn Qudamah al-Maqdisi",
+"volume_page": "70"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Apostasy from Islam",
+"action": null,
+"short_rule": "Apostasy from Islam completely nullifies Wudu.",
+"details": "Renouncing Islam and becoming an apostate nullifies minor ablution.",
+"madhhab_applicability": [
+"Hanbali"
+],
+"ui_icon_concept": "broken link",
+"scenario_tags": [
+"apostasy",
+"disbelief"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu again upon returning to Islam.",
+"source_book": "Umdat al-Fiqh",
+"author": "Ibn Qudamah al-Maqdisi",
+"volume_page": "70"
+},
+{
+"module": "Purification",
+"topic": "Nullifiers of Wudu",
+"title": "Eating Camel Meat",
+"action": null,
+"short_rule": "Consuming the meat of a camel nullifies Wudu.",
+"details": "Eating camel's meat nullifies Wudu. This is a distinctive position (mufradat) of the Hanbali school, based on a specific prophetic command.",
+"madhhab_applicability": [
+"Hanbali"
+],
+"ui_icon_concept": "camel",
+"scenario_tags": [
+"eating", "camel meat"
+],
+"arabic_terminology": null,
+"remedy_or_consequence": "Must perform Wudu again.",
+"source_book": "Umdat al-Fiqh",
+"author": "Ibn Qudamah al-Maqdisi",
+"volume_page": "71"
+}
+]

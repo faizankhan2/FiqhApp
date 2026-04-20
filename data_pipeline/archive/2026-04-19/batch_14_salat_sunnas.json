@@ -1,0 +1,129 @@
+[
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Emphasized Sunnas of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "Placement of the Hands (Qabd vs. Sadl)",
+    "action": "Sunnah",
+    "short_rule": "Hanafis and Hanbalis recommend placing the right hand over the left, while Malikis recommend leaving the hands dangling at the sides.",
+    "details": "According to the Hanafi school, it is an emphasized Sunnah for men to place the right hand over the left underneath the navel, while women place them on the chest. The Hanbali school similarly recommends placing them underneath the navel. In contrast, the Maliki school categorizes leaving the hands to dangle at the sides (Sadl) during the standing postures as a recommended act (Mandub).",
+    "actionable_steps": [
+      "If following the Hanafi or Hanbali schools, place your right hand over your left hand while standing in prayer.",
+      "If you are a woman following Hanafi fiqh, place your hands on your chest.",
+      "If following the Maliki school, leave your hands dangling freely by your sides."
+    ],
+    "quran_hadith_evidence": "Derived from varying authentic reports describing the Prophet's physical posture in prayer, as well as the established continuous practice ('Amal) of the people of Madina.",
+    "spiritual_wisdom": "Placing the hands together symbolizes the humility and submissiveness of a servant standing before their Lord, whereas letting them hang freely reflects a natural, unforced state of complete surrender to the Divine.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "accessibility_new",
+    "scenario_tags": [
+      "Standing Posture",
+      "Hand Placement"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 163-164; Murshid: Line 126; Umdah: 149"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Emphasized Sunnas of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "Reciting the Basmala and Ta'awwudh",
+    "action": "Mustahab",
+    "short_rule": "Hanafis recommend reciting the Basmala and Ta'awwudh silently, while Malikis strongly dislike reciting them in obligatory prayers.",
+    "details": "In the Hanafi school, silently reciting the seeking of refuge (Ta'awwudh) and the Basmala before the Fatiha is classified as an emphasized Sunnah. The Maliki school, however, states that it is disliked (Makruh) to recite either the Bismillah or the 'A'udhubillah before the recitation in mandatory (Wajib/Fard) prayers.",
+    "actionable_steps": [
+      "Silently seek refuge in Allah and recite the Basmala before reciting Al-Fatiha if adhering to the Hanafi school.",
+      "Omit the Basmala and Ta'awwudh entirely when praying obligatory prayers if following the Maliki school."
+    ],
+    "quran_hadith_evidence": "Based on differences in prioritizing specific verbal reports of the Prophet's silent recitations versus the communal transmitted practice of Madina.",
+    "spiritual_wisdom": "Seeking refuge prepares and purifies the heart to receive the words of Allah, while omitting it (as in the Maliki view) highlights the purity of beginning the prayer abruptly and directly with absolute praise (Alhamdulillah).",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "menu_book",
+    "scenario_tags": [
+      "Commencing Recitation",
+      "Silent Supplications"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in",
+    "author": "Al-Shurunbulali, Ibn 'Ashir",
+    "volume_page": "Ascent: 164-165; Murshid: Line 135"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Emphasized Sunnas of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "Saying 'Amin' After Al-Fatiha",
+    "action": "Sunnah",
+    "short_rule": "Hanafis rule that 'Amin' is said silently by everyone, whereas Malikis state the Imam does not say it during loud prayers.",
+    "details": "According to the Hanafi school, it is an emphasized Sunnah for the Imam, the follower, and the one praying alone to say 'Amin' silently after completing Al-Fatiha. The Maliki school considers saying 'Amin' a recommended act (Mandub) for the follower and the person praying alone, but explicitly exempts the Imam from saying it during prayers that require out-loud recitation.",
+    "actionable_steps": [
+      "Say 'Amin' silently after Al-Fatiha is completed.",
+      "If you are leading the prayer (Imam) in a loud prayer and following the Maliki school, refrain from saying 'Amin'."
+    ],
+    "quran_hadith_evidence": "Derived from the Prophet's instruction: 'When the Imam says Amin, say Amin', with schools differing on whether the Imam's 'Amin' is vocalized or implied.",
+    "spiritual_wisdom": "'Amin' acts as a collective seal upon the ultimate supplication for divine guidance found in Al-Fatiha, unifying the congregation's plea.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "forum",
+    "scenario_tags": [
+      "Recitation",
+      "Congregational Prayer"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in",
+    "author": "Al-Shurunbulali, Ibn 'Ashir",
+    "volume_page": "Ascent: 164-165; Murshid: Line 124"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Emphasized Sunnas of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "The Tawarruk Sitting Posture",
+    "action": "Sunnah",
+    "short_rule": "Hanbalis prescribe the Tawarruk posture only in the final sitting of prayers with two tashahhuds, while Shafi'is prescribe it for all final sittings.",
+    "details": "The Hanbali school stipulates that a worshipper should only adopt the Tawarruk posture (laying the left foot on its side and making it come out from underneath the erect right leg) during the last sitting of a prayer that has two tashahhuds (like Zuhr or Maghrib). In contrast, the Shafi'i school prescribes the Tawarruk position for all final tashahhuds, regardless of whether the prayer consists of two units (like Fajr) or more.",
+    "actionable_steps": [
+      "Sit in the standard Iftirash posture for all sittings until the final one.",
+      "Adopt the Tawarruk posture only during the final sitting of a 3 or 4-rak'ah prayer if following the Hanbali school.",
+      "Adopt the Tawarruk posture for the final sitting of any prayer if following the Shafi'i school."
+    ],
+    "quran_hadith_evidence": "Based on nuanced tracking by different Companions (such as Abu Humaid as-Sa'idi) regarding how the Prophet distinguished his sitting posture in the final rak'ah of longer prayers.",
+    "spiritual_wisdom": "Distinguishing the final sitting posture provides a physical reminder to the worshipper that the prayer is concluding, anchoring their presence of mind before the final greeting.",
+    "madhhab_applicability": [
+      "Hanbali",
+      "Shafi'i"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "airline_seat_recline_normal",
+    "scenario_tags": [
+      "Sitting Postures",
+      "Final Tashahhud"
+    ],
+    "source_book": "Umdah al-Fiqh",
+    "author": "Ibn Qudamah",
+    "volume_page": "162-163"
+  }
+]

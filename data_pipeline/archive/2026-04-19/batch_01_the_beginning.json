@@ -1,0 +1,225 @@
+[
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Ablution (Wudu')",
+    "ritual_type": "Wudu",
+    "ritual_phase": "Method",
+    "title": "Hanafi Obligatory Integrals of Wudu",
+    "action": "Fard",
+    "short_rule": "The four obligatory acts of ablution are washing the face, arms, wiping a fourth of the head, and washing the feet.",
+    "details": "According to the Hanafi school, the obligatory integrals (Fard) of Wudu are limited strictly to four acts: washing the face (from the hairline to the chin, and ear to ear), washing the two arms up to and including the elbows, wiping at least one-fourth of the head, and washing the feet up to and including the ankles. Intention and maintaining sequence are not classified as Fard in this school.",
+    "actionable_steps": [
+      "Wash the entire face thoroughly.",
+      "Wash both arms including the elbows.",
+      "Wipe a minimum of one-fourth of the head.",
+      "Wash both feet up to and including the ankles."
+    ],
+    "quran_hadith_evidence": "Based directly on the explicit command in Quran 5:6.",
+    "spiritual_wisdom": "Ensures the foundational bodily cleanliness required to stand before Allah in prayer without burdening the believer with excessive absolute obligations.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "water_drop_4",
+    "scenario_tags": [
+      "Basic Wudu",
+      "Minimum Requirements"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "90-93"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Ablution (Wudu')",
+    "ritual_type": "Wudu",
+    "ritual_phase": "Method",
+    "title": "Maliki Wajib Acts of Wudu",
+    "action": "Wajib",
+    "short_rule": "The seven mandatory acts include intention, rubbing the limbs, and continuity.",
+    "details": "The Maliki school identifies seven wajibs (mandatory acts) for wet ablution. In addition to washing the face, washing the arms to the elbows, wiping the head, and washing the feet, the school uniquely mandates rubbing the limbs (dalk), performing the actions consecutively without a large break (muwalat), and formulating the intention at the start.",
+    "actionable_steps": [
+      "Formulate the intention at the beginning of the ablution.",
+      "Wash the face, arms, and feet while actively rubbing them with the hand.",
+      "Wipe the entire head.",
+      "Ensure all washing and wiping actions are done continuously without interruption."
+    ],
+    "quran_hadith_evidence": "Derived from the holistic practice and continuous actions of the Prophet's Wudu.",
+    "spiritual_wisdom": "Rubbing and continuity ensure mindfulness and thoroughness in physical and spiritual purification, preventing it from becoming a thoughtless routine.",
+    "madhhab_applicability": [
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "hand_rubbing",
+    "scenario_tags": [
+      "Maliki Wudu",
+      "Active Washing"
+    ],
+    "source_book": "al-Murshid al-Mu'in",
+    "author": "Ibn 'Ashir",
+    "volume_page": "Lines 57-59"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Ablution (Wudu')",
+    "ritual_type": "Wudu",
+    "ritual_phase": "Method",
+    "title": "Hanbali Mandatory Acts of Wudu",
+    "action": "Wajib",
+    "short_rule": "Mandates intention, sequence, continuity, and wiping the entire head.",
+    "details": "In the Hanbali school, the mandatory acts involve making the intention, washing each part once, wiping the entire head (including the ears), strictly following the scriptural sequence (tartib), and maintaining continuity so that no part dries before the next part is washed.",
+    "actionable_steps": [
+      "Make intention prior to beginning.",
+      "Wash the required parts exactly in the sequence mentioned in the Quran.",
+      "Wipe the entire head, and wipe the ears as they are considered part of the head.",
+      "Perform the ablution rapidly enough that water does not dry between steps."
+    ],
+    "quran_hadith_evidence": "O you who believe! When you intend to offer As-Salat, wash your faces and your hands (forearms) up to the elbows, rub (by passing wet hands over) your heads, and (wash) your feet up to ankles… (Quran 5:6)",
+    "spiritual_wisdom": "Adhering to sequence and continuity reflects obedience to the divine order of the command and prevents distraction.",
+    "madhhab_applicability": [
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "list_numbered",
+    "scenario_tags": [
+      "Hanbali Wudu",
+      "Sequential Washing"
+    ],
+    "source_book": "Umdah al-Fiqh",
+    "author": "Ibn Qudamah al-Maqdisi",
+    "volume_page": "61-62"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Ablution (Wudu')",
+    "ritual_type": "Wudu",
+    "ritual_phase": "Etiquettes",
+    "title": "Emphasized Sunnahs of Wudu",
+    "action": "Sunnah",
+    "short_rule": "Shared recommended practices across the schools of thought.",
+    "details": "Across the schools, key Sunnah acts include saying Bismillah, washing the hands up to the wrists initially, rinsing the mouth and sniffing water into the nose thoroughly, running wet fingers through the beard and between the fingers/toes, washing the valid parts three times, and starting with the right limbs before the left.",
+    "actionable_steps": [
+      "Say Bismillah.",
+      "Wash hands to the wrists three times.",
+      "Rinse mouth and sniff water into the nose three times.",
+      "Run wet fingers through a thick beard and between toes.",
+      "Wash the right limb before the left.",
+      "Wash all valid parts three times instead of just once."
+    ],
+    "quran_hadith_evidence": "If it were not a burden on my nation, I would have commanded them to use the toothstick before every prayer.",
+    "spiritual_wisdom": "Emulating the precise auxiliary actions of the Prophet brings extra blessings, inner light, and prepares the heart for a focused prayer.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "sparkles",
+    "scenario_tags": [
+      "Optimal Wudu",
+      "Prophetic Sunnah"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Various"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Ablution (Wudu')",
+    "ritual_type": "Wudu",
+    "ritual_phase": "Invalidators",
+    "title": "Consuming Camel's Meat",
+    "action": null,
+    "short_rule": "Hanbalis consider eating camel's meat a nullifier of Wudu, while others do not.",
+    "details": "The Hanbali school uniquely rules that eating camel's meat invalidates wudu. This is contrary to the majority of scholars (Hanafi, Maliki, Shafi'i) who do not consider the consumption of camel meat to be a nullifier.",
+    "actionable_steps": [
+      "If following the Hanbali school, perform wudu after consuming camel meat."
+    ],
+    "quran_hadith_evidence": "The Prophet was asked: should we make wudu after eating camel's meat? He said yes, make wudu after eating their meat. (Muslim)",
+    "spiritual_wisdom": "Demonstrates absolute submission to the specific commands of the Prophet even if the underlying rational reason is not completely apparent to the believer.",
+    "madhhab_applicability": [
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "camel",
+    "scenario_tags": [
+      "Nullifiers",
+      "Dietary Considerations"
+    ],
+    "source_book": "Umdah al-Fiqh",
+    "author": "Ibn Qudamah al-Maqdisi",
+    "volume_page": "71"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Ablution (Wudu')",
+    "ritual_type": "Wudu",
+    "ritual_phase": "Invalidators",
+    "title": "Bleeding and Vomiting",
+    "action": null,
+    "short_rule": "Flowing blood and vomiting a mouthful nullify wudu for Hanafis and Hanbalis, but not for Malikis.",
+    "details": "According to the Hanafi school, flowing blood, pus, or vomiting a mouthful directly invalidates wudu. The Hanbali school similarly considers voluminous or repulsive impure discharges (like blood and pus) from the body as nullifiers. However, the Maliki school generally does not consider bleeding or vomiting as invalidators of wudu.",
+    "actionable_steps": [
+      "Perform wudu if blood flows from a wound or if you vomit a mouthful (if following Hanafi or Hanbali rulings)."
+    ],
+    "quran_hadith_evidence": "Derived from broader scholarly deduction regarding what constitutes an impure discharge leaving the body.",
+    "spiritual_wisdom": "Physical exits of bodily impurities interrupt the state of physical equilibrium and spiritual readiness required for the prayer.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "blood_drop",
+    "scenario_tags": [
+      "Nullifiers",
+      "Injury",
+      "Illness"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 106-108, Umdah: 69-70"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Ablution (Wudu')",
+    "ritual_type": "Wudu",
+    "ritual_phase": "Invalidators",
+    "title": "Touching the Private Parts",
+    "action": null,
+    "short_rule": "Touching the private parts directly nullifies Wudu in the Hanbali school, but not directly in the Hanafi school.",
+    "details": "In the Hanbali school, touching the penis with the hands nullifies wudu. In the Hanafi school, direct skin contact with someone of the opposite gender or direct skin contact with the genitalia does not nullify wudu, unless there is direct contact between an erect penis and vagina without a barrier.",
+    "actionable_steps": [
+      "Perform wudu if you touch your private parts barehanded (if following the Hanbali school)."
+    ],
+    "quran_hadith_evidence": "Whoever touches his sexual organ, may not pray until he makes wudu. (Hadith reported by the five, authenticated)",
+    "spiritual_wisdom": "Maintaining the utmost physical dignity, purity, and psychological separation from base desires when preparing to stand before Allah.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "hand_touch",
+    "scenario_tags": [
+      "Nullifiers",
+      "Physical Contact"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 109, Umdah: 70"
+  }
+]

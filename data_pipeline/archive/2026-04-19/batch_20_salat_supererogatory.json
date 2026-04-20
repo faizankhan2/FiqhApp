@@ -1,0 +1,162 @@
+[
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Supererogatory Prayers",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "Structure and Length of the Witr Prayer",
+    "action": null,
+    "short_rule": "Hanbalis permit Witr to be between one and eleven rak'ahs, whereas Hanafis stipulate the recitation of Qunut as mandatory.",
+    "details": "The Hanbali school states that the Witr prayer can be a minimum of one rak'ah and a maximum of eleven rak'ahs, with the optimal minimum being two rak'ahs followed by a tasleem and then a single rak'ah. The Hanafi school categorizes reciting the Qunut supplication specifically in the Witr prayer as a mandatory requisite (Wajib), which must not be omitted.",
+    "actionable_steps": [
+      "Pray the Witr prayer between 'Isha and Fajr.",
+      "If following the Hanbali school, pray an odd number of rak'ahs between one and eleven.",
+      "If following the Hanafi school, ensure the Qunut supplication is recited as a mandatory act."
+    ],
+    "quran_hadith_evidence": "The Prophet (peace be upon him) prayed Witr as one, three, five, seven, or nine rak'ahs in various authentic reports.",
+    "spiritual_wisdom": "Ending the night's worship with an odd-numbered prayer reflects the oneness of Allah, serving as a spiritual seal for the daily prayers.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "nights_stay",
+    "scenario_tags": [
+      "Night Prayer",
+      "Witr"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 143; Umdah: 198"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Supererogatory Prayers",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "Number of Emphasized Routine Sunnah Prayers",
+    "action": "Sunnah",
+    "short_rule": "Hanbalis emphasize ten rak'ahs of routine Sunnahs daily, while Hanafis emphasize specific four-rak'ah prayers before Zuhr and Jumu'ah.",
+    "details": "The Hanbali school emphasizes ten rak'ahs of routine Sunnah prayers daily: two before Zuhr, two after it, two after Maghrib, two after Isha, and two before Fajr. The Hanafi school emphasizes four rak'ahs before Zuhr, before Jumu'ah, and after Jumu'ah, stipulating that these four-rak'ah prayers must be performed with a single set of salams. Separating them renders them mere voluntary prayers.",
+    "actionable_steps": [
+      "Pray two rak'ahs before Fajr, and two after Maghrib and Isha.",
+      "If following Hanbali fiqh, pray two rak'ahs before and after Zuhr.",
+      "If following Hanafi fiqh, pray four rak'ahs before Zuhr and Jumu'ah with one continuous set of salams."
+    ],
+    "quran_hadith_evidence": "Based on the report of Ibn 'Umar who remembered ten rak'ahs from the Messenger of Allah, and varying reports regarding the four rak'ahs of Zuhr.",
+    "spiritual_wisdom": "Routine Sunnah prayers act as a spiritual buffer, making up for deficiencies in the obligatory prayers and drawing the servant closer to Allah throughout the day.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "format_list_numbered",
+    "scenario_tags": [
+      "Daily Prayers",
+      "Sunnah"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 180; Umdah: 196"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Supererogatory Prayers",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "The Night Vigil of Ramadan (Tarawih)",
+    "action": "Sunnah",
+    "short_rule": "Tarawih is an emphasized Sunnah of twenty rak'ahs performed in congregation during Ramadan.",
+    "details": "Across the Hanafi, Maliki, and Hanbali schools, the Tarawih prayer is classified as an emphasized Sunnah. The Hanafi and Hanbali texts explicitly state it is performed as twenty rak'ahs after the Isha prayer during Ramadan. The Hanafi school emphasizes that it is a Sunnah to complete the recitation of the entire Quran over the month, but the imam should recite shorter surahs if a lengthy recitation burdens the congregation.",
+    "actionable_steps": [
+      "Pray twenty rak'ahs of Tarawih in congregation after the Isha prayer during Ramadan.",
+      "Imams should gauge the congregation's capacity and recite shorter surahs if needed to prevent undue hardship."
+    ],
+    "quran_hadith_evidence": "Established by the continuous practice of the Companions, notably 'Umar who formally gathered the Muslims to pray twenty rak'ahs in congregation.",
+    "spiritual_wisdom": "The communal vigil animates the nights of Ramadan, fostering a collective spirit of devotion, patience, and profound connection with the Quran.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "star",
+    "scenario_tags": [
+      "Ramadan",
+      "Night Prayer",
+      "Congregation"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 181-182; Murshid: Verse 144; Umdah: 201"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Supererogatory Prayers",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "Structure of the Solar Eclipse Prayer (Kusuf)",
+    "action": "Sunnah",
+    "short_rule": "Hanbalis perform the Eclipse prayer with four bowings in two rak'ahs, while Hanafis perform it like a normal voluntary prayer with two bowings.",
+    "details": "According to the Hanbali school, the Eclipse (Kusuf) prayer consists of two rak'ahs, but each rak'ah contains two standing recitations and two bowings (ruku'), making a total of four bowings and four prostrations. The Hanafi school prescribes a standard two-rak'ah prayer (with one bowing per rak'ah) similar to any voluntary prayer, followed by an extended supplication by the imam.",
+    "actionable_steps": [
+      "Gather in congregation anxiously when a solar eclipse occurs.",
+      "If following Hanbali fiqh, perform two bowings per rak'ah.",
+      "If following Hanafi fiqh, perform standard rak'ahs with prolonged recitation and bowing, followed by a long supplication."
+    ],
+    "quran_hadith_evidence": "Derived from differing transmissions of how the Prophet performed the prayer during the solar eclipse following the death of his son Ibrahim.",
+    "spiritual_wisdom": "Eclipses are cosmic signs of Allah's majesty; the prayer redirects human anxiety away from superstition and towards seeking divine mercy through prolonged submission.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "brightness_4",
+    "scenario_tags": [
+      "Eclipse",
+      "Congregational Prayer"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 199; Umdah: 201-202"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Supererogatory Prayers",
+    "ritual_type": "Salah",
+    "ritual_phase": "Conditions",
+    "title": "Ruling on the Prostration of Recital (Sajdat al-Tilawa)",
+    "action": null,
+    "short_rule": "Hanafis consider the prostration of recital mandatory (Wajib), whereas Hanbalis and Malikis consider it a recommended Sunnah.",
+    "details": "There are fourteen verses of prostration in the Quran. The Hanafi school considers performing a prostration upon reciting or hearing these verses to be mandatory (Wajib), and failing to do so entails sin. The Hanbali school and the majority consider it a highly preferable Sunnah, but not a strict obligation.",
+    "actionable_steps": [
+      "Perform a prostration when reciting or hearing a verse of Sajdah.",
+      "If following the Hanafi school, treat this prostration as mandatory and ensure it is not omitted."
+    ],
+    "quran_hadith_evidence": "Based on the Prophet's practice of prostrating when reciting certain verses, which some scholars interpreted as a command and others as a commendable practice.",
+    "spiritual_wisdom": "Physically bowing down upon hearing verses of prostration embodies immediate, physical compliance with divine commands, distinguishing the believer from the arrogant.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "book",
+    "scenario_tags": [
+      "Quran Recitation",
+      "Prostration"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 186; Umdah: 205"
+  }
+]

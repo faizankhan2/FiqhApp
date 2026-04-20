@@ -1,7 +1,7 @@
-require('dotenv').config({ path: '../../.env' });
+const path = require('path');
+require('dotenv').config({ path: path.resolve(__dirname, '../../.env') });
 const { createClient } = require('@supabase/supabase-js');
 const fs = require('fs');
-const path = require('path');
 const { validateRulings } = require('./validator');
 
 // Initialize Supabase Client - Prioritize Service Role Key for Pipeline access
@@ -49,7 +49,7 @@ async function processFile(filePath) {
     const fileContent = fs.readFileSync(filePath, 'utf8');
     const rawData = JSON.parse(fileContent);
 
-    // 1. Validation Layer (Aligned with Supabase)
+    // 1. Validation Layer (Aligned with Production Schema)
     const { isValid, validData, errors } = validateRulings(rawData);
 
     if (!isValid) {

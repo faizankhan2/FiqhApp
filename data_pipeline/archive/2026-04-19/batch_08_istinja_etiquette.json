@@ -1,0 +1,131 @@
+[
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Cleaning After Relieving Oneself (Istinja')",
+    "ritual_type": "General",
+    "ritual_phase": "Method",
+    "title": "Minimum Number of Wipes",
+    "action": null,
+    "short_rule": "Hanbalis require a minimum of three wipes, whereas Hanafis consider wiping three times to be recommended.",
+    "details": "In the Hanbali school, using less than three wipes (with stones or tissue) is insufficient even if the filth is completely removed. The Hanafi school, however, states that while it is recommended to wipe three times (or an odd number), the primary requirement is simply the removal of the filth, making the specific number of wipes a recommended act rather than a strict obligation.",
+    "actionable_steps": [
+      "Wipe at least three times if following the Hanbali school.",
+      "Ensure the area is completely clean, regardless of the number of wipes, though aiming for three is optimal across schools."
+    ],
+    "quran_hadith_evidence": "When you go to defecate, purify yourself with three stones, for they will suffice you. (Abu Dawud, Ahmad, an-Nasa'i)",
+    "spiritual_wisdom": "Emphasizes thoroughness in physical purity, ensuring that the believer is completely clean and mindful before approaching acts of worship.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "format_list_numbered",
+    "scenario_tags": [
+      "Using the Lavatory",
+      "Toilet Etiquette",
+      "Absence of Water"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 66 (footnote 174); Umdah: 49"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Cleaning After Relieving Oneself (Istinja')",
+    "ritual_type": "General",
+    "ritual_phase": "Etiquettes",
+    "title": "Facing or Giving the Back to the Qiblah",
+    "action": null,
+    "short_rule": "Hanbalis permit facing or giving the back to the Qiblah indoors but not outdoors, while Hanafis maintain a general prohibition.",
+    "details": "The Hanbali school strictly prohibits facing or turning one's back to the Qiblah while relieving oneself outdoors, but explicitly permits it indoors. The Hanafi text generally advises against sitting facing the Qiblah or with one's back toward it, maintaining it as a general standard of etiquette regardless of location.",
+    "actionable_steps": [
+      "Avoid facing or giving your back to the Qiblah when relieving yourself outdoors.",
+      "If indoors, the Hanbali school permits it, though avoiding it when possible remains a good etiquette to uphold."
+    ],
+    "quran_hadith_evidence": "Do not face the qiblahh, while defecating or urinating, and do not give your backs to it. (Agreed Upon)",
+    "spiritual_wisdom": "Instills a continuous sense of reverence and respect for the Ka'ba, maintaining physical and spiritual orientation towards the sacred even in mundane human moments.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "explore",
+    "scenario_tags": [
+      "Using the Lavatory",
+      "Direction",
+      "Outdoors"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 67; Umdah: 48"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Cleaning After Relieving Oneself (Istinja')",
+    "ritual_type": "Wudu",
+    "ritual_phase": "Pre-requisites",
+    "title": "Istibra' (Emptying the Urethra)",
+    "action": "Wajib",
+    "short_rule": "Men are strictly required to ensure no drops of urine remain in the urethra before ablution.",
+    "details": "The Hanafi school categorizes Istibra' (ensuring no drops of urine remain) as an absolute obligation (Fard) for men before performing Wudu, using methods like walking or clearing the throat. The Maliki school explicitly lists properly discharging the waste openings and shaking the penis as a Wajib act, warning against doing it too harshly. The Hanbali text mentions milking the penis from root to tip three times and shaking it, though some Hanbali scholars note this might cause further dribbling.",
+    "actionable_steps": [
+      "Ensure all urine has completely exited the urethra before commencing Wudu.",
+      "Use comfortable methods like walking, clearing the throat, or gentle squeezing to verify emptiness.",
+      "Avoid harsh or obsessive squeezing which may cause harm or continuous dribbling."
+    ],
+    "quran_hadith_evidence": "Derived from the necessity of complete purification from filth, as any emerging drop of urine would immediately invalidate the subsequent Wudu.",
+    "spiritual_wisdom": "Cultivates mindfulness of one's physical state and protects the validity of the ritual prayer from hidden impurities and obsessive doubts.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "Male"
+    ],
+    "ui_icon_concept": "water_drop",
+    "scenario_tags": [
+      "Using the Lavatory",
+      "Men's Fiqh",
+      "Purity Maintenance"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 66; Murshid: Line 76; Umdah: 48"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Cleaning After Relieving Oneself (Istinja')",
+    "ritual_type": "General",
+    "ritual_phase": "Etiquettes",
+    "title": "Using the Right Hand for Cleaning",
+    "action": "Makruh",
+    "short_rule": "It is prohibitively disliked or forbidden to use the right hand to touch the private parts or clean oneself.",
+    "details": "There is cross-school agreement on the prohibition or strong dislike of using the right hand in the lavatory. The Hanbali school states one should not touch the penis or wipe with the right hand. The Hanafi school classifies using the right hand for cleaning oneself (Istinja) as prohibitively disliked (makruh tahriman).",
+    "actionable_steps": [
+      "Use the left hand exclusively for wiping and washing private parts.",
+      "Avoid touching the private parts with the right hand while relieving yourself."
+    ],
+    "quran_hadith_evidence": "Let no one of you touch his penis with the right hand while urinating. (Agreed Upon)",
+    "spiritual_wisdom": "Assigning the right hand for noble and clean tasks (like eating and greeting) and the left for removing impurities establishes a physical manifestation of dignity, balance, and order in a Muslim's daily life.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "do_not_touch",
+    "scenario_tags": [
+      "Using the Lavatory",
+      "Hygiene"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 67 (footnote 178); Umdah: 48"
+  }
+]

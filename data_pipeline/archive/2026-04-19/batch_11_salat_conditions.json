@@ -1,0 +1,133 @@
+[
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Conditions (Shara'it) of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Conditions",
+    "title": "Extent of a Woman's Nakedness ('Awra)",
+    "action": "Fard",
+    "short_rule": "Hanafis exempt the feet from a woman's nakedness in prayer, while Hanbalis and Malikis require covering everything except the face and hands.",
+    "details": "To fulfill the condition of covering the nakedness ('Awra) for a valid prayer, the Hanbali and Maliki schools state that a free woman's entire body must be covered, exempting only her face and hands. The Hanafi school additionally exempts the feet, meaning her prayer is valid if her feet are exposed.",
+    "actionable_steps": [
+      "Cover the entire body except the face and hands for ritual prayer.",
+      "If following the Hanafi school, exposing the feet does not invalidate the prayer."
+    ],
+    "quran_hadith_evidence": "Based on differing interpretations of the Quranic injunction regarding 'adornment' and what is customarily apparent of a woman's body.",
+    "spiritual_wisdom": "Proper attire in prayer reflects utmost modesty, dignity, and reverence when standing directly before the Divine presence.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "Female"
+    ],
+    "ui_icon_concept": "checkroom",
+    "scenario_tags": [
+      "Women's Fiqh",
+      "Prayer Attire",
+      "Modesty"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh, al-Murshid al-Mu'in",
+    "author": "Al-Shurunbulali, Ibn Qudamah, Ibn 'Ashir",
+    "volume_page": "Ascent: 163-164; Umdah: 129; Murshid: Verse 108"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Conditions (Shara'it) of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Conditions",
+    "title": "Classification of the Opening Takbir (Tahrima)",
+    "action": "Fard",
+    "short_rule": "Most schools classify the opening Takbir as a pillar (integral) of the prayer, while the primary Hanafi position classifies it as a prerequisite condition.",
+    "details": "In the Hanbali and Maliki schools, the opening Takbir (Takbirat al-Ihram) is strictly classified as a pillar or mandatory integral (rukn/wajib) of the prayer itself. In the Hanafi school, Imam Abu Hanifa and Imam Abu Yusuf classify it as a prerequisite condition (shart) that precedes the prayer, though Imam Muhammad agrees with the majority that it is an integral.",
+    "actionable_steps": [
+      "Pronounce the opening Takbir to commence the prayer.",
+      "Ensure the Takbir is directly connected to the intention without any intervening worldly action or speech."
+    ],
+    "quran_hadith_evidence": "Derived from the Prophet's instruction: 'The key to prayer is purification, its consecration (tahrim) is the takbir, and its termination is the taslim.'",
+    "spiritual_wisdom": "The Takbir serves as the definitive boundary separating the mundane world from the sacred state of direct communion with Allah.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "record_voice_over",
+    "scenario_tags": [
+      "Commencing Prayer",
+      "Legal Classification"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh, al-Murshid al-Mu'in",
+    "author": "Al-Shurunbulali, Ibn Qudamah, Ibn 'Ashir",
+    "volume_page": "Ascent: 165; Umdah: 172; Murshid: Verse 100"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Conditions (Shara'it) of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Conditions",
+    "title": "Omitting Conditions out of Forgetfulness or Inability",
+    "action": null,
+    "short_rule": "Malikis excuse the omission of facing the Qibla, removing filth, and covering the 'Awra if one forgets or is unable, while ritual purity remains absolute.",
+    "details": "The Maliki school uniquely stipulates that facing the Qibla, ensuring physical purity from filth, and covering the nakedness are conditions only if the worshipper 'remembers and is able'. If one prays while forgetting to cover properly or with physical filth, the prayer is valid, though repeating it within the time is recommended. Ritual purity (Wudu/Ghusl), however, is an absolute condition. The Hanbali school also explicitly excuses praying with physical impurity if one was unaware or forgot about it until the prayer ended.",
+    "actionable_steps": [
+      "Strive to fulfill all conditions, including purity of clothes and covering, before praying.",
+      "If following the Maliki school, you may optionally repeat a prayer within its time if you realize you prayed with physical filth or an uncovered 'Awra by mistake.",
+      "Do not repeat the prayer if you were entirely unable to fulfill these specific conditions (e.g., lacking pure clothes)."
+    ],
+    "quran_hadith_evidence": "Based on the Quranic principle: 'Allah does not burden a soul beyond that it can bear' (2:286).",
+    "spiritual_wisdom": "Demonstrates the Sacred Law's balance between upholding majestic reverence for the prayer and alleviating genuine human forgetfulness and physical inability.",
+    "madhhab_applicability": [
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "memory",
+    "scenario_tags": [
+      "Forgetfulness",
+      "Physical Impurity",
+      "Inability"
+    ],
+    "source_book": "al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Murshid: Verses 106-107; Umdah: 131"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Conditions (Shara'it) of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Conditions",
+    "title": "Guessing the Qibla Direction in a City vs. Travelling",
+    "action": "Wajib",
+    "short_rule": "Hanbalis require repeating the prayer if a person guesses the Qibla incorrectly while in a city, but excuse it during travel.",
+    "details": "When the exact direction of the Qibla is unknown, a person must use reasoning (ijtihad). The Hanbali school states that if a person makes an educated guess while in a city or town and later realizes they erred, they must make up the prayer, as they should have utilized community resources like asking residents or looking for mosques. If they err while travelling, no makeup is required. The Hanafi school generally validates the prayer based on an educated guess even if later discovered to be wrong, regardless of location, provided the guess was made before praying.",
+    "actionable_steps": [
+      "Actively seek the Qibla direction by asking locals or checking mosques if in a town.",
+      "Make an educated guess if traveling, isolated, or unable to verify the direction.",
+      "If following Hanbali fiqh, repeat the prayer if you guessed wrong while in an inhabited area."
+    ],
+    "quran_hadith_evidence": "Wherever you turn, there is the Face of Allah. (Quran 2:115)",
+    "spiritual_wisdom": "Encourages believers to utilize all available community resources to fulfill divine commands correctly, while granting broad leniency when isolated or in the wilderness.",
+    "madhhab_applicability": [
+      "Hanbali",
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "explore",
+    "scenario_tags": [
+      "Travel",
+      "Finding Qibla",
+      "Uncertainty"
+    ],
+    "source_book": "Umdah al-Fiqh, Ascent to Felicity",
+    "author": "Ibn Qudamah, Al-Shurunbulali",
+    "volume_page": "Umdah: 133; Ascent: 164-165"
+  }
+]

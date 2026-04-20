@@ -1,0 +1,160 @@
+[
+  {
+    "module": "Funerals (Janaza)",
+    "topic": "Funerals and Burial",
+    "ritual_type": "General",
+    "ritual_phase": "Method",
+    "title": "The Sunnah Shroud for a Man",
+    "action": "Sunnah",
+    "short_rule": "Hanafis recommend a long shirt as part of the male shroud, whereas Hanbalis recommend three simple sheets without a shirt.",
+    "details": "According to the Hanafi school, the optimal sunnah shroud for a man consists of three pieces: a long shirt (qamis), an inner shroud (izar), and an outer shroud (lifafa). In contrast, the Hanbali school states that the sunnah is to use three white sheets of cloth without a shirt or turban, although using a shirt and wraps is also permissible without harm.",
+    "actionable_steps": [
+      "Wash and dry the body.",
+      "If following the Hanafi school, use a shirt (qamis) as one of the three pieces.",
+      "If following the Hanbali school, preferably use three solid sheets to wrap the body without a sewn shirt."
+    ],
+    "quran_hadith_evidence": "The Messenger of Allah was shrouded in three pieces of new white sheets of cloth from Yemen without a shirt or a turban. (Agreed Upon)",
+    "spiritual_wisdom": "The simplicity of the shroud reminds the living of the equality of all souls before Allah, leaving behind worldly wealth and status.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "Male"
+    ],
+    "ui_icon_concept": "checkroom",
+    "scenario_tags": [
+      "Preparing the Deceased",
+      "Shrouding"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 202-203; Umdah: 284-285"
+  },
+  {
+    "module": "Funerals (Janaza)",
+    "topic": "Funerals and Burial",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "Recitation of Al-Fatihah in the Funeral Prayer",
+    "action": null,
+    "short_rule": "Hanbalis require reciting Al-Fatihah as Quranic recitation, while Hanafis strictly forbid it as Quranic recitation but allow it if intended as a supplication.",
+    "details": "In the Hanbali school, it is prescribed to recite Surah Al-Fatihah after the first takbir of the funeral prayer. The Hanafi school rules that reciting Al-Fatihah with the intention of reciting the Quran is prohibitively disliked (makruh tahriman). Hanafis only permit reciting it if the worshipper's intention is purely to make a supplication (du'a).",
+    "actionable_steps": [
+      "Make the first takbir.",
+      "If following Hanbali fiqh, recite Al-Fatihah.",
+      "If following Hanafi fiqh, praise Allah (Sana), or if reciting Al-Fatihah, strictly intend it as a supplication, not as Quranic recitation."
+    ],
+    "quran_hadith_evidence": "The funeral prayer is primarily an act of intercession and supplication for the deceased rather than standard ritual worship.",
+    "spiritual_wisdom": "The differing approaches emphasize whether the funeral prayer is a standard ritual prayer requiring Quranic recitation, or a unique, dedicated moment of urgent intercession for the departed soul.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "menu_book",
+    "scenario_tags": [
+      "Funeral Prayer",
+      "Recitation"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 205 (footnote 448); Umdah: 286"
+  },
+  {
+    "module": "Funerals (Janaza)",
+    "topic": "Funerals and Burial",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "Concluding the Funeral Prayer with Salam",
+    "action": null,
+    "short_rule": "Hanbalis and Malikis conclude the funeral prayer with a single salam.",
+    "details": "To end the funeral prayer, the Hanbali school specifies making a single tasleem to the right side. The Maliki school also dictates a single, quietly uttered salam by the followers to conclude the prayer.",
+    "actionable_steps": [
+      "Complete the fourth takbir and the final supplication.",
+      "If following Hanbali or Maliki fiqh, conclude the prayer with a single salam to the right."
+    ],
+    "quran_hadith_evidence": "Based on differing transmissions of the Companions' practices during funeral prayers.",
+    "spiritual_wisdom": "The singular salam reflects the brevity and focused nature of the funeral prayer, minimizing standard ritual actions to emphasize swift intercession for the deceased.",
+    "madhhab_applicability": [
+      "Hanbali",
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "waving_hand",
+    "scenario_tags": [
+      "Funeral Prayer",
+      "Tasleem"
+    ],
+    "source_book": "al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Murshid: Line 141; Umdah: 288"
+  },
+  {
+    "module": "Funerals (Janaza)",
+    "topic": "Funerals and Burial",
+    "ritual_type": "Salah",
+    "ritual_phase": "Conditions",
+    "title": "Funeral Prayer for the Battlefield Martyr",
+    "action": null,
+    "short_rule": "Hanbalis rule that a battlefield martyr is neither washed nor prayed over, whereas Hanafis maintain the funeral prayer is still performed.",
+    "details": "According to the Hanbali school, a martyr who dies in battle is buried in his clothes without being washed, and no funeral prayer is offered for him. The Hanafi school agrees that the battlefield martyr is not washed (unless his death was prolonged, meaning he survived long enough to pray or eat), but explicitly states that the funeral prayer must still be performed over his body.",
+    "actionable_steps": [
+      "Do not wash a martyr who dies immediately in battle.",
+      "If following the Hanbali school, proceed directly to burial without the funeral prayer.",
+      "If following the Hanafi school, perform the funeral prayer over the martyr before burial."
+    ],
+    "quran_hadith_evidence": "The Hanbali ruling is based on the Prophet's instruction to bury the martyrs of Uhud without washing them or praying over them (Bukhari).",
+    "spiritual_wisdom": "The martyr is considered spiritually alive and purified by their ultimate sacrifice, removing the need for customary purification rituals and intercession prayers from the living.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "security",
+    "scenario_tags": [
+      "Martyrdom",
+      "Battlefield Burial"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 207-208; Umdah: 291"
+  },
+  {
+    "module": "Funerals (Janaza)",
+    "topic": "Funerals and Burial",
+    "ritual_type": "General",
+    "ritual_phase": "Pre-requisites",
+    "title": "Right to Lead the Funeral Prayer and Wash the Body",
+    "action": null,
+    "short_rule": "Hanbalis prioritize the person appointed in the deceased's will over the immediate family, except for the political leader who precedes all in prayer.",
+    "details": "The Hanbali school dictates that the person most entitled to wash the deceased, pray over him, and bury him is the individual explicitly appointed in the deceased's legacy or will. If no one is appointed, the right falls to the father, then the grandfather, then the closest male kin. However, for the funeral prayer itself, the Muslim leader (Ameer) is given precedence over the father and other relatives if he is present.",
+    "actionable_steps": [
+      "Check if the deceased left a will appointing someone to handle the funeral rites.",
+      "Yield the right of washing and leading the prayer to the appointed person.",
+      "Allow the political or community leader to lead the prayer if he attends."
+    ],
+    "quran_hadith_evidence": "Based on the precedence of fulfilling the final valid requests of the deceased regarding their own rites, and the general authority of the leader in public gatherings.",
+    "spiritual_wisdom": "Respecting the deceased's will honors their personal spiritual connections, while yielding to the leader preserves communal harmony and order during times of grief.",
+    "madhhab_applicability": [
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "Male"
+    ],
+    "ui_icon_concept": "format_list_numbered",
+    "scenario_tags": [
+      "Organizing the Funeral",
+      "Imamate"
+    ],
+    "source_book": "Umdah al-Fiqh",
+    "author": "Ibn Qudamah",
+    "volume_page": "285-286"
+  }
+]

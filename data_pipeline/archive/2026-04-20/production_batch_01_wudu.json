@@ -1,0 +1,266 @@
+[
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a beautiful act of physical and spiritual refreshment that prepares us to stand before the Divine. Through this gentle washing, we cleanse away worldly distractions and step into a state of radiant purity and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Essential Steps of Ablution",
+    "action_classification": "Obligatory",
+    "short_rule": "Wash the face, arms, and feet, and wipe one-fourth of the head.",
+    "details": "To achieve a valid state of purity, ensure water reaches these specific areas completely. This foundational cleansing is simple and forms the core of your preparation for prayer.",
+    "actionable_steps": [
+      "Wash the face completely, from the hairline to the chin, and from earlobe to earlobe.",
+      "Wash both arms up to and including the elbows.",
+      "Wipe at least one-fourth of the head with wet hands.",
+      "Wash both feet up to and including the ankles."
+    ],
+    "quran_hadith_evidence": "'O you who believe! When you intend to offer the prayer, wash your faces and your hands up to the elbows, rub your heads, and wash your feet up to the ankles.' (Qur'an 5:6)",
+    "spiritual_wisdom": "Each drop of water falling from your limbs washes away minor missteps, leaving you luminous and renewed for your meeting with your Lord.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Water Drop",
+    "scenario_tags": [
+      "Daily Prayers",
+      "Preparing to Worship",
+      "Quick Purification"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "Pages 40-41"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a beautiful act of physical and spiritual refreshment that prepares us to stand before the Divine. Through this gentle washing, we cleanse away worldly distractions and step into a state of radiant purity and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Essential Steps of Ablution",
+    "action_classification": "Obligatory",
+    "short_rule": "Intend, wash, and gently rub the essential limbs continuously.",
+    "details": "To achieve a valid state of purity, gently wash and rub the essential limbs in a continuous flow. This mindful process ensures your purification is complete and valid.",
+    "actionable_steps": [
+      "Form the intention in your heart to lift the state of ritual impurity.",
+      "Wash the face completely.",
+      "Wash both arms up to and including the elbows.",
+      "Wipe the entire head.",
+      "Wash both feet up to and including the ankles.",
+      "Gently rub the limbs while washing them.",
+      "Perform the steps continuously without long pauses."
+    ],
+    "quran_hadith_evidence": "'O you who believe! When you intend to offer the prayer, wash your faces and your hands up to the elbows, rub your heads, and wash your feet up to the ankles.' (Qur'an 5:6)",
+    "spiritual_wisdom": "The gentle rubbing of your limbs brings mindfulness to the act, transforming a routine washing into a conscious act of devotion and spiritual renewal.",
+    "madhhab_applicability": [
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Hand Rubbing",
+    "scenario_tags": [
+      "Daily Prayers",
+      "Preparing to Worship",
+      "Mindful Cleansing"
+    ],
+    "source_book": "al-Murshid al-Muin",
+    "author": "Ibn 'Ashir",
+    "volume_page": "Lines 57-61"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a beautiful act of physical and spiritual refreshment that prepares us to stand before the Divine. Through this gentle washing, we cleanse away worldly distractions and step into a state of radiant purity and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Essential Steps of Ablution",
+    "action_classification": "Obligatory",
+    "short_rule": "Intend, wash the limbs in sequence, and maintain continuity.",
+    "details": "To ensure your purification is valid, wash the required limbs in the specific order prescribed, making sure no limb dries before you move to the next.",
+    "actionable_steps": [
+      "Form the intention to purify yourself.",
+      "Wash the face, which includes rinsing the mouth and the nose.",
+      "Wash both arms up to the elbows.",
+      "Wipe the entire head.",
+      "Wash both feet up to the ankles.",
+      "Perform these steps in the exact prescribed sequence.",
+      "Maintain continuity so no limb dries before the next is washed."
+    ],
+    "quran_hadith_evidence": "'O you who believe! When you intend to offer the prayer, wash your faces and your hands up to the elbows, rub your heads, and wash your feet up to the ankles.' (Qur'an 5:6)",
+    "spiritual_wisdom": "Following the divine sequence brings order to our inner state, aligning our physical actions with our spiritual yearning for purity.",
+    "madhhab_applicability": [
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Sequential List",
+    "scenario_tags": [
+      "Daily Prayers",
+      "Preparing to Worship",
+      "Structured Routine"
+    ],
+    "source_book": "Umdah al-Fiqh",
+    "author": "Ibn Qudamah al-Maqdisi",
+    "volume_page": "Pages 58-62"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a beautiful act of physical and spiritual refreshment that prepares us to stand before the Divine. Through this gentle washing, we cleanse away worldly distractions and step into a state of radiant purity and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Excellence",
+    "title": "Recommended Acts of Ablution",
+    "action_classification": "Recommended",
+    "short_rule": "Enhance your ablution with the Prophet's gentle practices.",
+    "details": "While the essential steps fulfill the requirement, adding these recommended practices brings your ablution closer to the beautiful example set by the Prophet, increasing your reward and spiritual benefit.",
+    "actionable_steps": [
+      "Begin by gently mentioning the Name of Allah.",
+      "Wash the hands up to the wrists three times at the start.",
+      "Use a toothstick to clean the teeth and freshen the mouth.",
+      "Rinse the mouth and nose three times.",
+      "Run wet fingers through the beard and between the fingers and toes.",
+      "Wash each limb three times completely.",
+      "Start with the right side before the left."
+    ],
+    "quran_hadith_evidence": "'When one of you makes ablution and perfects it... his wrong deeds fall from them until they fall from beneath his toenails.' (Muslim)",
+    "spiritual_wisdom": "Following these gentle steps connects you to the beautiful practice of the Prophet, adding light and extra blessings to your purification.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Sparkle Star",
+    "scenario_tags": [
+      "Perfecting Worship",
+      "Prophetic Practice",
+      "Daily Routine"
+    ],
+    "source_book": "Ascent to Felicity / al-Murshid al-Muin / Umdah al-Fiqh",
+    "author": "Multiple Classical Scholars",
+    "volume_page": "Multiple Locations"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a beautiful act of physical and spiritual refreshment that prepares us to stand before the Divine. Through this gentle washing, we cleanse away worldly distractions and step into a state of radiant purity and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Boundaries",
+    "title": "Common Things That Pause Purity",
+    "action_classification": "Invalidator",
+    "short_rule": "Exits from the private parts, deep sleep, or loss of consciousness.",
+    "details": "Your state of purity is gently paused and requires renewal if natural bodily wastes exit, or if you fall into a deep sleep or lose consciousness. This is a natural human cycle, and renewing your ablution brings fresh blessings.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "The need to renew our purity is a gentle reminder of our human nature and a recurring invitation to stand before Allah cleansed and refreshed.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Refresh Arrow",
+    "scenario_tags": [
+      "Renewing Purity",
+      "Natural Needs",
+      "Sleep"
+    ],
+    "source_book": "Ascent to Felicity / al-Murshid al-Muin / Umdah al-Fiqh",
+    "author": "Multiple Classical Scholars",
+    "volume_page": "Multiple Locations"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a beautiful act of physical and spiritual refreshment that prepares us to stand before the Divine. Through this gentle washing, we cleanse away worldly distractions and step into a state of radiant purity and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Boundaries",
+    "title": "Specific Things That Pause Purity",
+    "action_classification": "Invalidator",
+    "short_rule": "Flowing blood, vomiting a mouthful, or laughing out loud in prayer.",
+    "details": "In addition to the common invalidators, you are gently asked to renew your ablution if blood or pus flows from the body, if you naturally vomit a mouthful, or if you laugh out loud during the formal prayer.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Renewing our state after these events brings our body back to a state of calm balance and re-centers our focus for worship.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Healing Cross",
+    "scenario_tags": [
+      "Injury",
+      "Illness",
+      "Prayer Distractions"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "Pages 46-47"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a beautiful act of physical and spiritual refreshment that prepares us to stand before the Divine. Through this gentle washing, we cleanse away worldly distractions and step into a state of radiant purity and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Boundaries",
+    "title": "Specific Things That Pause Purity",
+    "action_classification": "Invalidator",
+    "short_rule": "Directly touching the private parts, or touching a spouse with sensual pleasure.",
+    "details": "In addition to the common invalidators, you should renew your ablution if you directly touch the private parts without a barrier, or if you share a caress or kiss with a spouse that brings sensual pleasure.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "This gentle boundary helps us transition from the beautiful intimacy of human life back into the focused, spiritual presence required for prayer.",
+    "madhhab_applicability": [
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Hand Touch",
+    "scenario_tags": [
+      "Intimacy",
+      "Personal Care"
+    ],
+    "source_book": "al-Murshid al-Muin",
+    "author": "Ibn 'Ashir",
+    "volume_page": "Lines 74-75"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a beautiful act of physical and spiritual refreshment that prepares us to stand before the Divine. Through this gentle washing, we cleanse away worldly distractions and step into a state of radiant purity and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Boundaries",
+    "title": "Specific Things That Pause Purity",
+    "action_classification": "Invalidator",
+    "short_rule": "Eating camel meat, touching private parts, or touching a spouse with lustful desire.",
+    "details": "In addition to the common invalidators, your ablution gently requires renewal if you eat camel meat, directly touch the private parts, or touch a spouse with lustful desire. Voluminous and repulsing discharges from the body also necessitate renewal.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": "'He (blessings and peace be upon him) was asked: should we make wudu' after eating camel's meat? He said yes, make wudu' after eating their meat.' (Muslim)",
+    "spiritual_wisdom": "These guidelines provide a mindful rhythm to our day, allowing us to seamlessly weave acts of nourishment and affection with the quiet serenity of worship.",
+    "madhhab_applicability": [
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Camel Icon",
+    "scenario_tags": [
+      "Meals",
+      "Intimacy",
+      "Personal Care"
+    ],
+    "source_book": "Umdah al-Fiqh",
+    "author": "Ibn Qudamah al-Maqdisi",
+    "volume_page": "Pages 69-71"
+  }
+]

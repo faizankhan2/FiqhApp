@@ -1,0 +1,134 @@
+[
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Prayer of the Traveller and the Sick",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "Legal Status of Shortening the Prayer (Qasr)",
+    "action": null,
+    "short_rule": "Hanafis consider shortening a 4-rak'ah prayer during travel to be mandatory (Wajib), while Hanbalis consider it preferable (Mustahab).",
+    "details": "During a valid journey, the Hanafi school classifies shortening the four-rak'ah obligatory prayers (Zuhr, Asr, Isha) to two rak'ahs as a mandatory requisite (Wajib). If a traveller intentionally prays four rak'ahs, the prayer is technically valid if they sat after the second rak'ah, but they have done wrong. The Hanbali school rules that shortening the prayer is an emphasized recommendation and preferable (Mustahab), but completing the four rak'ahs is entirely permissible.",
+    "actionable_steps": [
+      "Shorten the 4-rak'ah obligatory prayers to 2 rak'ahs when traveling.",
+      "If following the Hanafi school, ensure you do not intentionally pray four rak'ahs while traveling, as the concession is mandatory.",
+      "If following the Hanbali school, you have the option to complete the prayer, though shortening is superior."
+    ],
+    "quran_hadith_evidence": "And when you go forth in the land there is no sin upon you if you shorten the prayer. (Quran 4:101)",
+    "spiritual_wisdom": "The concession to shorten the prayer reflects the divine desire to alleviate the inherent hardships of travel, emphasizing that Allah's mercy takes precedence over strict ritual volume.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "flight",
+    "scenario_tags": [
+      "Travel",
+      "Shortening Prayers",
+      "Concessions"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 172-174; Umdah: 236-238"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Prayer of the Traveller and the Sick",
+    "ritual_type": "Salah",
+    "ritual_phase": "Conditions",
+    "title": "Duration of Stay that Ends Travel Status",
+    "action": null,
+    "short_rule": "Hanafis require an intention of fifteen days to become a resident, while Malikis and Hanbalis stipulate approximately four days.",
+    "details": "If a traveller decides to reside in a city, their travel status (and the related concessions) ends based on the intended duration of stay. The Hanafi school stipulates that an intention to stay for at least fifteen full days makes one a resident. The Maliki school requires an intention of four days. The Hanbali school specifies that intending to reside for more than 21 prayers (which equates to 4 days and 1 prayer) requires the person to complete their prayers.",
+    "actionable_steps": [
+      "Determine your intended length of stay upon arriving at a destination.",
+      "Resume praying full prayers immediately if you intend to stay 15 days (Hanafi) or 4 days (Maliki/Hanbali).",
+      "Continue to shorten prayers indefinitely if you are stranded or have no set intention to stay the required duration."
+    ],
+    "quran_hadith_evidence": "Based on varying transmissions of the Prophet's duration of stay during different expeditions (such as in Makkah and Tabuk) before he ceased shortening his prayers.",
+    "spiritual_wisdom": "Establishing a clear legal boundary between travel and residence anchors the believer's state of mind, distinguishing the unsettled nature of a journey from the stability of home.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "date_range",
+    "scenario_tags": [
+      "Travel",
+      "Residence",
+      "Tracking Time"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 173; Murshid: Verse 123; Umdah: 239"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Prayer of the Traveller and the Sick",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "Prayer of the Severely Ill (Extreme Inability)",
+    "action": null,
+    "short_rule": "Hanbalis require praying with eye movements or the heart if head movement is impossible, whereas Hanafis require delaying the prayer.",
+    "details": "When a sick person is physically unable to even nod their head to signify bowing and prostrating, the schools differ significantly. The Hanbali school maintains that the prayer cannot be abandoned as long as the mind is sound; the person must nod with their eyes or intend the actions with their heart. The Hanafi school rules that one does not pray with the eyes, eyebrows, or heart; instead, the prayer is delayed until they recover the ability to move their head.",
+    "actionable_steps": [
+      "If following Hanbali fiqh, continue to pray using eye movements or heart intentions if completely paralyzed.",
+      "If following Hanafi fiqh, delay the prayer if you lose the physical ability to move your head."
+    ],
+    "quran_hadith_evidence": "The Prophet said to 'Imran ibn Husain: 'Pray standing; if you cannot, then sitting; if you cannot, then on your side.' (Bukhari)",
+    "spiritual_wisdom": "The Hanbali view emphasizes the unbreakable mental and spiritual covenant of prayer, while the Hanafi view recognizes that prayer requires at least a minimal physical manifestation of worship.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "local_hospital",
+    "scenario_tags": [
+      "Severe Illness",
+      "Paralysis",
+      "Bedrest"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 177; Umdah: 231"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Prayer of the Traveller and the Sick",
+    "ritual_type": "Salah",
+    "ritual_phase": "Conditions",
+    "title": "Praying on a Riding Animal or Vehicle",
+    "action": "Mubah",
+    "short_rule": "Voluntary prayers may be performed on a riding animal while traveling without facing the Qibla, but obligatory prayers require dismounting unless there is a severe necessity.",
+    "details": "Across the Hanafi and Hanbali schools, it is permissible to pray voluntary (nafl) prayers on a riding animal (or modern vehicle) while traveling outside city limits, nodding for the physical postures without needing to face the Qibla. However, obligatory (Fard) and mandatory (Wajib) prayers must be performed on the ground facing the Qibla, unless there is a severe necessity such as muddy terrain, fear of robbers, or the inability to remount if one dismounts.",
+    "actionable_steps": [
+      "Pray voluntary prayers while seated in a moving vehicle during a journey, nodding for bowing and prostrating.",
+      "Dismount and face the Qibla for obligatory prayers.",
+      "You may pray obligatory prayers in your vehicle only if dismounting poses a physical danger or extreme hardship (like a severe storm or fear for safety)."
+    ],
+    "quran_hadith_evidence": "The Prophet used to pray on his mount during journeys, facing whatever direction it took him, but he would dismount for the obligatory prayers.",
+    "spiritual_wisdom": "Allowing voluntary prayer on moving mounts turns the entire journey into an act of continuous worship, while requiring a stationary, Qibla-facing posture for obligatory prayers preserves their majestic structural integrity.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "directions_car",
+    "scenario_tags": [
+      "Travel",
+      "Vehicles",
+      "Voluntary Prayers"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 167-168; Umdah: 132"
+  }
+]

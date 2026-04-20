@@ -1,0 +1,159 @@
+[
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Etiquette (Adab) of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Etiquettes",
+    "title": "Directing the Glance During Prayer",
+    "action": "Mustahab",
+    "short_rule": "Hanafis detail specific focal points for each posture, while Hanbalis generally recommend looking at the place of prostration.",
+    "details": "According to the Hanafi school, it is an etiquette (adab) of the prayer to direct one's glance to specific areas based on the posture: the place of prostration when standing, the top of the feet while bowing, the tip of the nose while prostrating, the lap while sitting, and each shoulder when making the closing salams. The Hanbali school broadly states that the worshipper should look at the site of his prostration while standing.",
+    "actionable_steps": [
+      "Keep your eyes open and avoid looking around.",
+      "Look at the place of prostration while standing.",
+      "If following the Hanafi school, shift your gaze to the top of your feet during Ruku', your nose during Sujud, your lap during Tashahhud, and your shoulders during Tasleem."
+    ],
+    "quran_hadith_evidence": "Derived from Prophetic practices encouraging Khushu' (concentration and humility) and avoiding visual distractions or looking toward the sky during prayer.",
+    "spiritual_wisdom": "Fixing the gaze confines the worshipper's attention to their immediate physical space, preventing wandering eyes from creating a wandering heart, thus cultivating a deep sense of humility before the Divine.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "visibility",
+    "scenario_tags": [
+      "Concentration",
+      "Visual Focus",
+      "Khushu'"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 162; Umdah: 149"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Etiquette (Adab) of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Etiquettes",
+    "title": "Moving the Index Finger During Tashahhud",
+    "action": "Sunnah",
+    "short_rule": "Malikis recommend moving the finger, Hanbalis point without moving, and Hanafis raise it at the negation and lower it at the affirmation.",
+    "details": "The Maliki school considers moving the right hand's forefinger while reciting the Greeting and Testification as a recommended act (mandub). The Hanbali school states one should point with the index finger and not move it. In the Hanafi school, it is a sunnah to raise the index finger when saying 'La ilaha' (negation) and lower it back down when saying 'illa 'Llah' (affirmation).",
+    "actionable_steps": [
+      "Form a circle with your thumb and middle finger or fold your fingers appropriately.",
+      "If following the Maliki school, continuously move the index finger throughout the recitation.",
+      "If following the Hanbali school, point the finger forward without moving it.",
+      "If following the Hanafi school, raise the finger at the negation and lower it at the affirmation."
+    ],
+    "quran_hadith_evidence": "Based on various descriptions by the Companions of how the Prophet utilized his hand and finger while supplicating in the sitting posture.",
+    "spiritual_wisdom": "The index finger serves as a physical manifestation and constant bodily reminder of the absolute oneness (Tawhid) of Allah.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "touch_app",
+    "scenario_tags": [
+      "Tashahhud",
+      "Sitting Posture"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 157 (footnote 235); Murshid: Line 128; Umdah: 158"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Etiquette (Adab) of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Etiquettes",
+    "title": "Timing of Rising for the Congregation",
+    "action": "Mustahab",
+    "short_rule": "The Hanafi school recommends the imam and congregation to stand when the caller reaches the phrase 'Hayya 'ala 'l-falah'.",
+    "details": "In the Hanafi school, it is a specific etiquette (adab) of the prayer for both the imam and the congregation to wait seated and rise to their feet at the exact moment the caller to prayer (mu'adhin) says 'Hayya 'ala 'l-falah' (Come to success) during the Iqama.",
+    "actionable_steps": [
+      "Remain seated while the Iqama is initially being called.",
+      "Rise to your feet precisely when the phrase 'Hayya 'ala 'l-falah' is pronounced."
+    ],
+    "quran_hadith_evidence": "Based on physically responding to the command of the caller at the exact moment the command to 'come to success' is uttered.",
+    "spiritual_wisdom": "Standing exactly at the mention of 'success' builds eager anticipation and readiness, symbolizing that true success is found in standing for the prayer.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "directions_walk",
+    "scenario_tags": [
+      "Congregational Prayer",
+      "Iqama"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Al-Shurunbulali",
+    "volume_page": "162"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Etiquette (Adab) of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Etiquettes",
+    "title": "Refraining from Yawning and Coughing",
+    "action": "Mustahab",
+    "short_rule": "It is an etiquette to suppress coughing and yawning to maintain reverence during prayer.",
+    "details": "The Hanafi school explicitly lists trying one's best to refrain from coughing and keeping one's mouth closed when yawning as an etiquette (adab) of the prayer. Suppressing these natural urges demonstrates respect for the prayer.",
+    "actionable_steps": [
+      "Attempt to suppress any urge to cough naturally.",
+      "Keep your mouth closed to prevent yawning.",
+      "Cover your mouth with your hand if a yawn overpowers you."
+    ],
+    "quran_hadith_evidence": "The Prophet said: 'Yawning is from Satan. When one of you yawns, let him suppress it as much as possible.'",
+    "spiritual_wisdom": "Maintaining physical composure guards the prayer from disruptive noises and involuntary actions, reflecting utmost respect and dignity for the Divine audience.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "mood_bad",
+    "scenario_tags": [
+      "Physical Composure",
+      "Distractions"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Al-Shurunbulali",
+    "volume_page": "162"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Etiquette (Adab) of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Etiquettes",
+    "title": "Freeing the Hands for Tahrima",
+    "action": "Mustahab",
+    "short_rule": "Men should take their hands out of loose sleeves when making the opening Takbir.",
+    "details": "According to the Hanafi school, it is an etiquette for a man to take his hands completely out of his loose, flowing sleeves when performing the opening Takbir (Tahrima), so that the hands and palms are fully exposed when raised.",
+    "actionable_steps": [
+      "If wearing a cloak or garment with wide sleeves, ensure your hands are exposed and taken out of the sleeves when raising them for the opening Takbir."
+    ],
+    "quran_hadith_evidence": "Derived from the physical descriptions of the Prophet's companions ensuring their hands were visible and unhindered when commencing the prayer.",
+    "spiritual_wisdom": "Exposing the hands symbolizes shedding worldly attachments and entering the prayer with absolute openness and surrender.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "Male"
+    ],
+    "ui_icon_concept": "front_hand",
+    "scenario_tags": [
+      "Opening Takbir",
+      "Prayer Attire"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Al-Shurunbulali",
+    "volume_page": "162"
+  }
+]

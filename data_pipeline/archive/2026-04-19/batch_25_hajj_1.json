@@ -1,0 +1,141 @@
+[
+  {
+    "module": "The Ritual Pilgrimage (Hajj)",
+    "topic": "The Ritual Pilgrimage (Hajj)",
+    "ritual_type": "Hajj",
+    "ritual_phase": "Conditions",
+    "title": "Legal Requirement of a Mahram for Women",
+    "action": null,
+    "short_rule": "Hanafis and Hanbalis mandate a Mahram for a woman's travel to Hajj, while Malikis and Shafi'is permit travel with a trustworthy group.",
+    "details": "The Hanafi and Hanbali schools state that Hajj is only obligatory for a woman if she is accompanied by a mahram (unmarriageable male relative) or her husband; without one, the journey is not mandatory, and traveling without one is prohibited. In contrast, the Maliki and Shafi'i schools rule that a woman may travel for her first obligatory Hajj without a mahram, provided she is part of a 'trustworthy group' (comprised of reliable men or women) that ensures her safety.",
+    "actionable_steps": [
+      "Determine if Hajj has become obligatory for you by checking your financial and physical capability.",
+      "If following Hanafi or Hanbali fiqh, ensure a mahram or husband is able to accompany you.",
+      "If following Maliki or Shafi'i fiqh, you may join a reputable and safe tour group to fulfill your obligation even if a mahram is unavailable."
+    ],
+    "quran_hadith_evidence": "Based on the Prophetic prohibition of a woman traveling for three days without a mahram, weighed against the overarching Quranic command for all who are 'able' to perform Hajj.",
+    "spiritual_wisdom": "The requirement of a mahram honors and protects the woman during a grueling journey, while the allowance for a 'trustworthy group' ensures that women are not deprived of their fundamental spiritual obligations due to personal circumstances.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Shafi'i",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "Female"
+    ],
+    "ui_icon_concept": "pregnant_woman",
+    "scenario_tags": [
+      "Hajj",
+      "Women's Travel",
+      "Mahram"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh, The Accessible Conspectus",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah, Abu Shuja' al-Asfahani",
+    "volume_page": "Ascent: 260-261; Murshid: Verse 230; Umdah: 304; Conspectus: 147"
+  },
+  {
+    "module": "The Ritual Pilgrimage (Hajj)",
+    "topic": "The Ritual Pilgrimage (Hajj)",
+    "ritual_type": "Hajj",
+    "ritual_phase": "Method",
+    "title": "The Nature of Standing at 'Arafah",
+    "action": "Fard",
+    "short_rule": "All schools classify standing at 'Arafah as the supreme pillar of Hajj.",
+    "details": "There is a absolute consensus across the Hanafi, Maliki, Shafi'i, and Hanbali schools that the 'standing' (wuquf) at the plain of 'Arafah on the 9th of Dhul Hijjah is the most critical pillar (rukn) of the pilgrimage. If a pilgrim misses the window for standing at 'Arafah, their Hajj is invalid and cannot be compensated for; it must be repeated in a future year.",
+    "actionable_steps": [
+      "Ensure you are present within the boundaries of 'Arafah between the zenith of the 9th and the dawn of the 10th of Dhul Hijjah.",
+      "Spend this time in intense supplication, even if only for a brief moment, to fulfill the requirement.",
+      "Do not leave the boundaries of 'Arafah prematurely if following the schools that require staying until sunset."
+    ],
+    "quran_hadith_evidence": "The Prophet (peace be upon him) succinctly declared: 'Hajj is 'Arafah.' (Tirmidhi)",
+    "spiritual_wisdom": "The gathering at 'Arafah is a dress rehearsal for the Day of Resurrection, where every soul stands bare before its Creator, stripping away all worldly distinctions in a massive manifestation of human equality and divine mercy.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Shafi'i",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "landscape",
+    "scenario_tags": [
+      "Arafah",
+      "Pillars of Hajj",
+      "Day of Arafah"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh, The Accessible Conspectus",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah, Abu Shuja' al-Asfahani",
+    "volume_page": "Ascent: 271; Murshid: Verse 250; Umdah: 341; Conspectus: 149"
+  },
+  {
+    "module": "The Ritual Pilgrimage (Hajj)",
+    "topic": "The Ritual Pilgrimage (Hajj)",
+    "ritual_type": "Hajj",
+    "ritual_phase": "Method",
+    "title": "Structure of the Farewell Circumambulation",
+    "action": "Wajib",
+    "short_rule": "Hanafis and Hanbalis classify the Farewell Tawaf as mandatory, while Malikis consider it a recommended Sunnah.",
+    "details": "Prior to departing Makkah after completing the Hajj, pilgrims perform a final circumambulation of the Ka'bah. The Hanafi and Hanbali schools classify this 'Farewell Tawaf' (Tawaf al-Wada') as a mandatory requisite (wajib); omitting it intentionally or unintentionally requires a blood sacrifice (dam/sacrifice of a sheep) as compensation. The Maliki school classifies the Farewell Tawaf as a highly recommended Sunnah (mandub), meaning its omission does not require a sacrifice or invalidate the pilgrimage.",
+    "actionable_steps": [
+      "Make the Farewell Tawaf your very last act in Makkah before departing for home.",
+      "If following Hanafi or Hanbali fiqh, ensure you do not skip this act; if skipped, you must arrange for a sacrifice in the sanctified precincts.",
+      "If following Maliki fiqh, the act is recommended but not legally mandatory."
+    ],
+    "quran_hadith_evidence": "The Messenger of Allah said: 'None of you should depart until his last act is with the House (the Ka'bah).'",
+    "spiritual_wisdom": "Ending the pilgrimage with a final, orbiting gaze at the Ka'bah anchors the heart in the sanctuary, ensuring that the pilgrim's final memory of the holy city is one of profound circumambulation and attachment.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "door_front",
+    "scenario_tags": [
+      "Leaving Makkah",
+      "Farewell Tawaf",
+      "Hajj Completion"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 277; Murshid: Verse 248; Umdah: 345"
+  },
+  {
+    "module": "The Ritual Pilgrimage (Hajj)",
+    "topic": "The Ritual Pilgrimage (Hajj)",
+    "ritual_type": "Hajj",
+    "ritual_phase": "Conditions",
+    "title": "Ruling on the Purity of Women for Tawaf",
+    "action": "Fard",
+    "short_rule": "All schools agree that ritual purity (from menstruation) is a condition for the validity of Tawaf.",
+    "details": "The Hanafi, Maliki, Shafi'i, and Hanbali schools maintain that a woman who is in a state of menstruation or postnatal bleeding cannot validly perform any circumambulation (Tawaf) of the Ka'bah. She must wait until she becomes pure and performs a ghusl before She can complete the Tawaf al-Ifadah (the obligatory pillar circumambulation). If She cannot stay in Makkah due to travel constraints, the schools offer varying specific, exigent solutions regarding compensation or the use of medication.",
+    "actionable_steps": [
+      "Wait for your state of purity before performing any Tawaf.",
+      "If you are in a state of menstruation, perform all other Hajj rituals (Arafah, Muzdalifah, Stoning) as normal, but delay the Tawaf.",
+      "Consult a qualified scholar if your return flight is imminent and your state of purity has not yet returned, as there are modern and classic exigent fatwas to handle this specific hardship."
+    ],
+    "quran_hadith_evidence": "The Prophet told 'A'ishah when she menstruated during Hajj: 'Do everything that the pilgrim does, except that you do not circumambulate the House until you are pure.' (Bukhari)",
+    "spiritual_wisdom": "The requirement of purity for Tawaf elevates the circumambulation to the level of prayer, emphasizing the sanctuary's extreme sanctity and the need for total physical and spiritual readiness to orbit the House of Allah.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Shafi'i",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "Female"
+    ],
+    "ui_icon_concept": "female",
+    "scenario_tags": [
+      "Women's Hajj",
+      "Tawaf",
+      "Menstruation"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh, The Accessible Conspectus",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah, Abu Shuja' al-Asfahani",
+    "volume_page": "Ascent: 271; Murshid: Verse 252; Umdah: 334; Conspectus: 153"
+  }
+]

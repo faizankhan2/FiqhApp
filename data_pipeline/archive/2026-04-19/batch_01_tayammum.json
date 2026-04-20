@@ -1,0 +1,203 @@
+[
+  {
+    "module": "Purification",
+    "topic": "Dry Ablution (Tayammum)",
+    "ritual_type": "Minor/Major Purification",
+    "ritual_phase": "Preparation",
+    "title": "Verifying Your Excuse",
+    "action": null,
+    "short_rule": "You must ensure you have a valid reason to substitute water with dry ablution.",
+    "details": "Before performing dry ablution, confirm that you are unable to use water. This could be due to a lack of water, extreme cold, illness, or fear that using water will cause physical harm.",
+    "actionable_steps": [
+      "Check if water is unavailable within approximately 1.16 miles.",
+      "Assess if using water will worsen an illness or cause extreme physical harm.",
+      "Ensure you do not have the necessary apparatus to extract water if it is nearby."
+    ],
+    "quran_hadith_evidence": "And if you are ill, or on a journey, or one of you comes after answering the call of nature, or you have been in contact with women and you find no water, perform Tayammum with clean earth. (Quran 5:6)",
+    "spiritual_wisdom": "Islam is built on ease. When water is unavailable or harmful, Allah provides a pure alternative to keep you connected to Him without causing hardship.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Shafi'i",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "A drop of water with a slash through it, next to a desert landscape.",
+    "scenario_tags": [
+      "Travel",
+      "Illness",
+      "Water Scarcity"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "Pages 51-52"
+  },
+  {
+    "module": "Purification",
+    "topic": "Dry Ablution (Tayammum)",
+    "ritual_type": "Minor/Major Purification",
+    "ritual_phase": "Preparation",
+    "title": "Choosing the Earth Substance (Earth Elements)",
+    "action": null,
+    "short_rule": "You may use any pure natural substance of the earth to perform your dry ablution.",
+    "details": "You are allowed to use any pure element naturally found on the earth's surface. This includes materials that do not contain dust or soil, such as stones, sand, or limestone.",
+    "actionable_steps": [
+      "Find a clean surface or object made of natural earth material.",
+      "Ensure the material cannot be melted or burned into ashes.",
+      "Use items like dirt, sand, limestone, or stones."
+    ],
+    "quran_hadith_evidence": "The earth was made a place of prayer for me and a source of purification.",
+    "spiritual_wisdom": "The earth itself is inherently purifying, reminding you of your humble origins and keeping you grounded in your worship.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "A hand hovering over a smooth stone and sand.",
+    "scenario_tags": [
+      "Outdoors",
+      "Nature",
+      "Travel"
+    ],
+    "source_book": "Umdat al-Fiqh",
+    "author": "Ibn Qudamah al-Maqdisi",
+    "volume_page": "Page 83"
+  },
+  {
+    "module": "Purification",
+    "topic": "Dry Ablution (Tayammum)",
+    "ritual_type": "Minor/Major Purification",
+    "ritual_phase": "Preparation",
+    "title": "Choosing the Earth Substance (Soil & Dust)",
+    "action": null,
+    "short_rule": "You must use pure soil or dust to perform your dry ablution.",
+    "details": "You are required to use wholesome soil that contains actual particles of dust. You cannot use solid stones or other earth materials that lack dust.",
+    "actionable_steps": [
+      "Find clean, wholesome soil or earth.",
+      "Ensure the soil has visible dust particles.",
+      "Avoid using smooth stones or materials that do not leave a dusty residue."
+    ],
+    "quran_hadith_evidence": "Perform Tayammum with clean earth. (Quran 5:6)",
+    "spiritual_wisdom": "Returning to the soil for purification connects you to the earth from which humanity was created, fostering deep humility.",
+    "madhhab_applicability": [
+      "Shafi'i",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "A hand touching loose, dusty soil.",
+    "scenario_tags": [
+      "Outdoors",
+      "Nature",
+      "Travel"
+    ],
+    "source_book": "Umdat al-Fiqh",
+    "author": "Ibn Qudamah al-Maqdisi",
+    "volume_page": "Page 83"
+  },
+  {
+    "module": "Purification",
+    "topic": "Dry Ablution (Tayammum)",
+    "ritual_type": "Minor/Major Purification",
+    "ritual_phase": "Execution",
+    "title": "Making the Intention",
+    "action": "Fard",
+    "short_rule": "You must make a firm intention in your heart before striking the earth.",
+    "details": "Before beginning the physical steps of dry ablution, resolve in your heart that you are performing this act specifically to remove your state of ritual impurity or to make the ritual prayer permissible.",
+    "actionable_steps": [
+      "Pause for a moment before starting.",
+      "Focus your mind and formulate the intention in your heart to perform dry ablution.",
+      "Do not merely touch the earth out of habit; ensure it is a conscious act of worship."
+    ],
+    "quran_hadith_evidence": "Deeds are but by their intentions and everyone will be rewarded according to his intention.",
+    "spiritual_wisdom": "Intention is the soul of worship, transforming a simple physical action into a profound spiritual connection with the Divine.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Shafi'i",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "A glowing heart icon.",
+    "scenario_tags": [
+      "Mental Focus",
+      "Pre-Prayer"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "Page 52"
+  },
+  {
+    "module": "Purification",
+    "topic": "Dry Ablution (Tayammum)",
+    "ritual_type": "Minor/Major Purification",
+    "ritual_phase": "Execution",
+    "title": "Striking the Earth and Wiping (Single Strike)",
+    "action": "Fard",
+    "short_rule": "You must strike the earth once and wipe your face and hands up to the wrists.",
+    "details": "Place your hands on the soil once. Use your hands to wipe your entire face completely, and then use them to wipe both of your hands up to the wrists.",
+    "actionable_steps": [
+      "Strike the pure soil with both hands simultaneously.",
+      "Wipe your entire face completely with your hands.",
+      "Wipe your right hand up to the wrist with your left hand.",
+      "Wipe your left hand up to the wrist with your right hand."
+    ],
+    "quran_hadith_evidence": "It would have been enough for you to do like this, and he struck the floor with his hands and wiped his face and two hands.",
+    "spiritual_wisdom": "The simplicity of this single strike demonstrates Allah's mercy in removing hardship when fulfilling your religious duties.",
+    "madhhab_applicability": [
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Two hands pressing into the ground, followed by wiping the face.",
+    "scenario_tags": [
+      "Step-by-step",
+      "Action"
+    ],
+    "source_book": "Umdat al-Fiqh",
+    "author": "Ibn Qudamah al-Maqdisi",
+    "volume_page": "Pages 83-84"
+  },
+  {
+    "module": "Purification",
+    "topic": "Dry Ablution (Tayammum)",
+    "ritual_type": "Minor/Major Purification",
+    "ritual_phase": "Execution",
+    "title": "Striking the Earth and Wiping (Two Strikes)",
+    "action": "Fard",
+    "short_rule": "You must strike the earth twice, wiping your face first, then your arms up to the elbows.",
+    "details": "Place your hands on the earth substance and wipe your entire face. Then, strike the earth a second time and wipe both of your arms completely, ensuring you include the elbows.",
+    "actionable_steps": [
+      "Strike the pure earth substance with both hands simultaneously.",
+      "Wipe your entire face completely.",
+      "Strike the earth substance a second time.",
+      "Wipe your right arm completely from the fingers up to and including the elbow.",
+      "Wipe your left arm completely from the fingers up to and including the elbow."
+    ],
+    "quran_hadith_evidence": "The integrals of performing dry ablution are... wiping the face and hands up to the elbows with tapping the source of the conveyed earth two times.",
+    "spiritual_wisdom": "This thorough wiping mirrors the physical washing in standard ablution, ensuring your limbs are spiritually purified and prepared to stand before Allah.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Shafi'i"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Hands swiping up the forearms to the elbows.",
+    "scenario_tags": [
+      "Step-by-step",
+      "Action"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "Page 52"
+  }
+]

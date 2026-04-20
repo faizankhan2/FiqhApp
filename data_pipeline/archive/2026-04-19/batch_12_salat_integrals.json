@@ -1,0 +1,128 @@
+[
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Integrals (Arkan) of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "Recitation of Al-Fatihah",
+    "action": "Fard",
+    "short_rule": "Hanbalis and Malikis classify reciting Al-Fatihah as a pillar, while Hanafis stipulate reciting any verse of the Quran as the pillar.",
+    "details": "According to the Hanbali and Maliki schools, reciting Surah Al-Fatihah is a strict pillar (rukn/wajib) of the prayer, without which the prayer is invalid. In contrast, the Hanafi school classifies the obligatory integral (Fard) as the recitation of any portion of the Quran, even if only a single verse, in any two rak'as of the obligatory prayer and all rak'as of voluntary prayers.",
+    "actionable_steps": [
+      "Recite Surah Al-Fatihah in every rak'ah if following the Hanbali or Maliki schools.",
+      "Ensure at least one verse of the Quran is recited if adhering to the Hanafi school's minimum integral."
+    ],
+    "quran_hadith_evidence": "The Prophet said: 'There is no prayer for one who doesn't recite the Fatiha.' (Agreed Upon)",
+    "spiritual_wisdom": "Recitation is the core conversation between the servant and the Lord, with Al-Fatihah encompassing the essence of praise, reliance, and guidance.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "menu_book",
+    "scenario_tags": [
+      "Recitation",
+      "Pillars of Prayer"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 166; Murshid: Verse 101; Umdah: 172-173"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Integrals (Arkan) of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "Tranquility in the Physical Pillars",
+    "action": "Fard",
+    "short_rule": "Tranquility is a pillar in the Hanbali and Maliki schools, but not classified as a strict pillar in the Hanafi text.",
+    "details": "Both the Hanbali and Maliki schools explicitly list remaining tranquil and stopping for a moment in each physical posture (such as bowing and prostrating) as a distinct pillar or mandatory integral of the prayer. The provided Hanafi text of Ascent to Felicity does not list tranquility among the six obligatory integrals (arkan) of the prayer, focusing instead on the physical acts themselves.",
+    "actionable_steps": [
+      "Ensure you remain motionless for at least a moment in every bowing, prostration, standing, and sitting posture."
+    ],
+    "quran_hadith_evidence": "The Prophet instructed the man who prayed badly to 'bow until you are at ease...' applying this to all physical pillars.",
+    "spiritual_wisdom": "Physical stillness facilitates the presence of the heart and prevents the prayer from becoming a mindless, hurried sequence of motions.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "self_improvement",
+    "scenario_tags": [
+      "Pillars of Prayer",
+      "Physical Movements"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 165-167; Murshid: Verse 103; Umdah: 175"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Integrals (Arkan) of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "The Terminating Salam (Tasleem)",
+    "action": "Fard",
+    "short_rule": "The first tasleem is a pillar for Hanbalis and Malikis, whereas Hanafis consider ending by one's own action as the pillar.",
+    "details": "The Hanbali school lists the first tasleem (saying Assalamu alaikum) as the 11th pillar of prayer. The Maliki school similarly identifies making the terminating salam as an integral. The Hanafi school defines the actual pillar (fard) as the worshipper ending the prayer by their own action, while specifically saying the word 'as-salam' is classified as a mandatory requisite (wajib) rather than a fard.",
+    "actionable_steps": [
+      "Conclude the prayer by turning the head and uttering 'As-salamu alaykum'.",
+      "Ensure this action is intentional to properly exit the state of prayer."
+    ],
+    "quran_hadith_evidence": "Derived from the Prophet's practice of consistently ending the prayer with the tasleem.",
+    "spiritual_wisdom": "The tasleem serves as a peaceful transition from the sacred, exclusive communion with Allah back to interaction with the angels and the congregation.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "waving_hand",
+    "scenario_tags": [
+      "Concluding Prayer",
+      "Pillars of Prayer"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 167; Murshid: Verse 102; Umdah: 175"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Integrals (Arkan) of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "Maintaining the Mandated Order",
+    "action": "Fard",
+    "short_rule": "Following the prescribed order of acts is a distinct pillar in the Hanbali and Maliki schools.",
+    "details": "The Hanbali school specifies 'following the order as we mentioned it' as the 12th pillar of the prayer. The Maliki school also considers 'keeping to the mandated order of the foundational wajib parts' as one of the prayer's integrals. The Hanafi text lists the physical pillars but does not explicitly enumerate 'order' itself as a separate foundational integral.",
+    "actionable_steps": [
+      "Perform the pillars of prayer in the exact chronological sequence taught by the Prophet: standing, reciting, bowing, prostrating, and sitting."
+    ],
+    "quran_hadith_evidence": "Based on the Prophet's continuous and uninterrupted practice of the sequence of the prayer.",
+    "spiritual_wisdom": "Adhering to the divine sequence instills discipline and reflects a submission to the structured order of worship designed by the Creator.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "format_list_numbered",
+    "scenario_tags": [
+      "Sequence",
+      "Pillars of Prayer"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 165-167; Murshid: Verse 102; Umdah: 175"
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "module": "Purification (Tahara)",
+    "topic": "The Purificatory Bath (Ghusl)",
+    "ritual_type": "Ghusl",
+    "ritual_phase": "Method",
+    "title": "Obligatory Integrals of the Purificatory Bath",
+    "action": "Fard",
+    "short_rule": "Hanafis and Hanbalis mandate rinsing the mouth and nose as obligatory, while Malikis classify them as sunnahs and mandate rubbing and continuity instead.",
+    "details": "In the Hanafi and Hanbali schools, rinsing the mouth and nose are obligatory integrals (Fard) of the purificatory bath, alongside washing the entire body. The Maliki school classifies rinsing the mouth and nose as sunnahs, but strictly mandates rubbing the body (dalk) and maintaining continuity in washing (muwalat) as obligatory integrals.",
+    "actionable_steps": [
+      "Ensure water reaches and washes the entire external surface of the body.",
+      "Rinse the mouth and nose thoroughly to fulfill the Hanafi and Hanbali obligations.",
+      "Physically rub the skin and wash continuously without long breaks to fulfill the Maliki obligations."
+    ],
+    "quran_hadith_evidence": "Based on differing jurisprudential interpretations of the Quranic command to 'purify yourselves' (5:6) and the Prophet's comprehensive practices during his purificatory baths.",
+    "spiritual_wisdom": "Comprehensive washing ensures complete physical cleanliness, while specific methodologies like rubbing ensure mindfulness, forcing the believer to be fully present in the sacred act of purification.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "shower",
+    "scenario_tags": [
+      "Bathing",
+      "Major Impurity",
+      "Janaba"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 76; Murshid: Verses 78-81; Umdah: 644"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "The Purificatory Bath (Ghusl)",
+    "ritual_type": "Ghusl",
+    "ritual_phase": "Pre-requisites",
+    "title": "Requirement of the Intention (Niyya)",
+    "action": "Fard",
+    "short_rule": "Malikis and Hanbalis require the intention as an obligatory integral, while Hanafis consider it an emphasized sunnah.",
+    "details": "The Maliki and Hanbali schools require the intention (niyya) as a mandatory component (Fard/Wajib) at the onset of the purificatory bath for it to be valid. The Hanafi school classifies the intention as an emphasized sunnah, meaning the physical washing over the entire body removes the impurity legally even without an intention, though the spiritual reward is lost.",
+    "actionable_steps": [
+      "Formulate the specific intention in your heart to lift major ritual impurity before beginning the bath."
+    ],
+    "quran_hadith_evidence": "The Prophet said: 'Actions are but by intentions.' The schools differ on whether this applies to the legal validity of removing physical/ritual impurity or solely to the spiritual reward of worship.",
+    "spiritual_wisdom": "Intention distinguishes a mundane act of cooling off or routine hygiene from a sacred, deliberate act of worship directed toward Allah.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "psychology",
+    "scenario_tags": [
+      "Intention",
+      "Commencing Ghusl"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 78; Murshid: Verse 78; Umdah: 644"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "The Purificatory Bath (Ghusl)",
+    "ritual_type": "Ghusl",
+    "ritual_phase": "Method",
+    "title": "Washing Braided Hair for Women",
+    "action": null,
+    "short_rule": "Women are not required to unbraid their hair for the purificatory bath following sexual impurity, provided the water saturates the roots.",
+    "details": "Both Hanafi and Hanbali texts specify that a woman is not obligated to unbraid her hair during the purificatory bath (specifically following major sexual impurity/janaba). It is legally sufficient that the water completely saturates the roots of the hair on the scalp. Hanbali scholars, however, note that it is safer to unbraid the hair for the ghusl following the end of menstruation.",
+    "actionable_steps": [
+      "Ensure water reaches and completely saturates the roots of the hair on the scalp.",
+      "You do not need to undo braids for janaba if the roots are fully washed."
+    ],
+    "quran_hadith_evidence": "The Prophet instructed Umm Salamah not to unbraid her hair, but to pour three handfuls of water over her head and saturate the roots.",
+    "spiritual_wisdom": "This dispensation demonstrates the ease, mercy, and practicality of the Sacred Law, accommodating women's grooming practices and alleviating hardship while ensuring complete purification.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "Female"
+    ],
+    "ui_icon_concept": "face_retouching_natural",
+    "scenario_tags": [
+      "Women's Fiqh",
+      "Hair Care",
+      "Braids"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 78 (footnote 87); Umdah: 645"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "The Purificatory Bath (Ghusl)",
+    "ritual_type": "Ghusl",
+    "ritual_phase": "Method",
+    "title": "Combining Intentions for Major and Minor Purity",
+    "action": "Sunnah",
+    "short_rule": "Performing wudu before the bath is a sunnah; intending both major and minor purification suffices for both.",
+    "details": "The Hanbali school explicitly states that if a person intends both major (ghusl) and minor (wudu) purification with their bath, the single bath suffices to lift both states of impurity. The Hanafi school emphasizes that performing a complete wudu first (after washing the private parts) is an emphasized sunnah, before pouring water over the rest of the entire body.",
+    "actionable_steps": [
+      "Make the intention for both major and minor purification at the onset.",
+      "Wash your private parts and any physical filth first.",
+      "Perform a complete wudu as you normally would for prayer.",
+      "Pour water over the entire body three times, starting with the head."
+    ],
+    "quran_hadith_evidence": "Based on authentic reports of the Prophet's specific step-by-step practice during his purificatory bath, originating with washing the private parts and performing wudu.",
+    "spiritual_wisdom": "Following the specific prophetic sequence maximizes the reward, embodies discipline, and ensures all lesser impurities are systematically addressed before finalizing the major purification.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "merge_type",
+    "scenario_tags": [
+      "Combining Purifications",
+      "Efficiency",
+      "Sunnah Method"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 79; Umdah: 646"
+  }
+]

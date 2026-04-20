@@ -1,0 +1,165 @@
+[
+  {
+    "module": "The Greater Pilgrimage (Hajj)",
+    "topic": "The Greater Pilgrimage (Hajj)",
+    "ritual_type": "Hajj",
+    "ritual_phase": "Conditions",
+    "title": "Integrals and Pillars of Hajj",
+    "action": "Fard",
+    "short_rule": "Malikis consider the Sa'y between Safa and Marwa a pillar, whereas Hanafis classify it as a mandatory requisite (Wajib).",
+    "details": "In the Maliki school, there are four pillars (fara'id/wajib-essentials) of Hajj that cannot be compensated with a sacrifice if missed: Ihram, standing at Arafah, Tawaf al-Ifada (Visitation), and the Sa'y between Safa and Marwa. The Hanafi school stipulates only three obligatory integrals (Arkan): Ihram, standing at Arafat, and most of the Tawaf of Visitation (at least four rounds). Hanafis classify the Sa'y as a mandatory requisite (Wajib) that requires an expiation if omitted, rather than a strict pillar.",
+    "actionable_steps": [
+      "Perform Ihram, stand at Arafah, and perform the Tawaf of Visitation to fulfill the foundational pillars across both schools.",
+      "Ensure the Sa'y is performed, recognizing it as an absolute pillar in Maliki fiqh and a mandatory requisite requiring expiation if omitted in Hanafi fiqh."
+    ],
+    "quran_hadith_evidence": "Based on scholarly evaluations of the Prophet's practices during the Farewell Pilgrimage and the categorization of foundational rites versus mandatory compensatory components.",
+    "spiritual_wisdom": "Distinguishing between pillars and mandatory requisites provides a framework of divine mercy, allowing pilgrims to compensate for certain missed rites without nullifying their entire once-in-a-lifetime journey.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "account_balance",
+    "scenario_tags": [
+      "Pilgrimage Rites",
+      "Pillars of Hajj",
+      "Sa'y"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in",
+    "author": "Al-Shurunbulali, Ibn 'Ashir",
+    "volume_page": "Ascent: 266-267; Murshid: Verses 229-230"
+  },
+  {
+    "module": "The Greater Pilgrimage (Hajj)",
+    "topic": "The Greater Pilgrimage (Hajj)",
+    "ritual_type": "Hajj",
+    "ritual_phase": "Method",
+    "title": "Legal Status of the Tawaf of Arrival",
+    "action": null,
+    "short_rule": "Malikis classify the Tawaf of Arrival as a mandatory requisite (Wajib), whereas Hanafis consider it an emphasized Sunnah.",
+    "details": "For a pilgrim arriving from outside of Makka, the Maliki school considers the Tawaf of Arrival (Tawaf al-Qudum) to be a mandatory non-essential (Wajib) act that requires a blood sacrifice if omitted. The Hanafi school, according to its relied-upon position, classifies the Tawaf of Arrival as an emphasized Sunnah, meaning its omission does not mandate an expiatory sacrifice.",
+    "actionable_steps": [
+      "Perform the Tawaf of Arrival upon entering Makka if performing the Qiran or Ifrad type of Hajj.",
+      "If following the Maliki school and this Tawaf is omitted, prepare to offer a blood sacrifice as expiation.",
+      "If following the Hanafi school, recognize it as an emphasized Sunnah that should not be neglected."
+    ],
+    "quran_hadith_evidence": "Derived from the Prophet's immediate performance of circumambulation upon entering Makka during his pilgrimage.",
+    "spiritual_wisdom": "Greeting the Sacred House immediately upon arrival demonstrates reverence and eagerness to engage with the divine symbols after a long journey.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "sync",
+    "scenario_tags": [
+      "Entering Makka",
+      "Tawaf",
+      "Arrival"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in",
+    "author": "Al-Shurunbulali, Ibn 'Ashir",
+    "volume_page": "Ascent: 280-282 (footnote 599); Murshid: Verse 231"
+  },
+  {
+    "module": "The Greater Pilgrimage (Hajj)",
+    "topic": "The Greater Pilgrimage (Hajj)",
+    "ritual_type": "Hajj",
+    "ritual_phase": "Method",
+    "title": "Spending the Nights of Tashriq in Mina",
+    "action": null,
+    "short_rule": "Malikis rule that spending the nights in Mina is mandatory (Wajib), while Hanafis consider it an emphasized Sunnah.",
+    "details": "The Maliki school mandates spending the nights (typically three) in Mina during the days of stoning, classifying it as a Wajib non-essential act requiring an expiatory sacrifice if missed. In contrast, the Hanafi school considers spending the nights of the 10th and 11th in Mina to be an emphasized Sunnah; leaving it is disliked and entails doing wrong (isa'a), but no expiatory sacrifice is required.",
+    "actionable_steps": [
+      "Stay overnight in Mina during the days of Tashriq.",
+      "Offer an expiatory sacrifice if you miss spending the nights in Mina while following the Maliki school."
+    ],
+    "quran_hadith_evidence": "Based on the Prophet's explicit practice of retreating to Mina each night during the days of stoning.",
+    "spiritual_wisdom": "Residing in Mina sustains the communal spirit of the pilgrimage and keeps the pilgrim physically and spiritually present for the continuous rites of remembrance.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "nights_stay",
+    "scenario_tags": [
+      "Mina",
+      "Overnight Stay",
+      "Days of Tashriq"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in",
+    "author": "Al-Shurunbulali, Ibn 'Ashir",
+    "volume_page": "Ascent: 284-285, 296 (footnote 625); Murshid: Verse 233"
+  },
+  {
+    "module": "The Greater Pilgrimage (Hajj)",
+    "topic": "The Greater Pilgrimage (Hajj)",
+    "ritual_type": "Hajj",
+    "ritual_phase": "Invalidators",
+    "title": "Tawaf While in Ritual Impurity or Menstruation",
+    "action": "Haram",
+    "short_rule": "Hanafis consider a Tawaf performed in major impurity or menstruation valid but sinful, requiring a severe expiation.",
+    "details": "According to the Hanafi school, if a pilgrim performs the Tawaf of Visitation (the pillar of Hajj) while in a state of major ritual impurity (Janaba) or menstruation, the Tawaf is technically valid (fulfilling the pillar), but it is sinful and requires the sacrifice of a camel or cow as a severe expiation. If done in minor impurity, a sheep is required. If the pilgrim repeats the Tawaf later in a state of purity, the expiation is dropped.",
+    "actionable_steps": [
+      "Ensure complete ritual purity before performing any Tawaf.",
+      "If you performed the Tawaf of Visitation while menstruating or in major impurity under the Hanafi school, sacrifice a camel or cow.",
+      "Ideally, repeat the Tawaf once pure to drop the penalty."
+    ],
+    "quran_hadith_evidence": "Purity is commanded for Tawaf, but Hanafis distinguish between conditions of absolute validity and mandatory requisites (Wajib) in Hajj rituals.",
+    "spiritual_wisdom": "While upholding the profound sanctity of the Ka'ba by prescribing heavy penalties for violations, the law simultaneously offers a pathway to validity for pilgrims facing extreme hardships or uncontrollable circumstances.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "warning",
+    "scenario_tags": [
+      "Tawaf of Visitation",
+      "Menstruation",
+      "Ritual Impurity",
+      "Expiation"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Al-Shurunbulali",
+    "volume_page": "293-294, 309 (footnote 644)"
+  },
+  {
+    "module": "The Greater Pilgrimage (Hajj)",
+    "topic": "The Greater Pilgrimage (Hajj)",
+    "ritual_type": "Hajj",
+    "ritual_phase": "Invalidators",
+    "title": "Wearing Stitched Garments for Men",
+    "action": "Haram",
+    "short_rule": "Men are prohibited from wearing stitched garments; Hanafis stipulate the penalty based on the duration of the violation.",
+    "details": "In both the Hanafi and Maliki schools, a male pilgrim is forbidden from wearing a stitched garment 'in the normal way it is worn' during Ihram. In the Hanafi school, if he wears it for an entire day or night (or an equivalent length of time), he must sacrifice a sheep (or feed six poor persons, or fast three days). If he wears it for less than a full day or night, he must donate a half sa' (2.2 kg) of wheat as charity.",
+    "actionable_steps": [
+      "Male pilgrims must avoid wearing tailored or stitched clothing conforming to the body while in Ihram.",
+      "If a stitched garment is worn for a full day/night due to an excuse, pay the expiation (sacrifice, feed six poor, or fast three days).",
+      "If worn for less than a day/night, give the required charity donation."
+    ],
+    "quran_hadith_evidence": "Based on the Prophet's explicit instructions detailing what a male pilgrim in Ihram is forbidden to wear, signifying detachment from worldly adornments.",
+    "spiritual_wisdom": "Shedding stitched, customary clothing strips away worldly rank and identity, placing all pilgrims on an equal, humble footing before their Lord in a state resembling their final shroud.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "Male"
+    ],
+    "ui_icon_concept": "checkroom",
+    "scenario_tags": [
+      "Ihram Prohibitions",
+      "Clothing",
+      "Expiation"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in",
+    "author": "Al-Shurunbulali, Ibn 'Ashir",
+    "volume_page": "Ascent: 273, 308-314; Murshid: Verse 278"
+  }
+]

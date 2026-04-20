@@ -1,0 +1,158 @@
+[
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Prayer Times",
+    "ritual_type": "Salah",
+    "ritual_phase": "Conditions",
+    "title": "Transition from Zuhr to Asr Time",
+    "action": null,
+    "short_rule": "Hanbalis mark the end of Zuhr when an object's shadow equals its length; Hanafis extend it until the shadow is twice the length.",
+    "details": "According to the Hanbali school, the time for Zuhr ends and Asr begins when the shadow of an object becomes equal to its length. In the Hanafi school, the time of Zuhr continues until the shadow of an object becomes twice its length, excluding the midday still shadow.",
+    "actionable_steps": [
+      "Determine the length of the midday still shadow.",
+      "Observe when the object's shadow reaches equal length (Hanbali) or double length (Hanafi) past the still shadow to determine Asr time."
+    ],
+    "quran_hadith_evidence": "Derived from varying interpretations of the Hadith of Jibril leading the Prophet in prayer.",
+    "spiritual_wisdom": "Marking transitions through natural cosmic phenomena ensures believers remain connected to the rhythms of the earth.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "wb_sunny",
+    "scenario_tags": [
+      "Prayer Timings",
+      "Shadow Measurement"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 160-161; Umdah: 126"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Prayer Times",
+    "ritual_type": "Salah",
+    "ritual_phase": "Conditions",
+    "title": "Preferred and Necessity Times for Isha",
+    "action": null,
+    "short_rule": "Hanafis allow Isha until true dawn, while Hanbalis split the time into a preferred period until midnight and a necessity period thereafter.",
+    "details": "The Hanafi school considers the valid time for Isha to span entirely from the disappearance of twilight until right before true dawn (Fajr). The Hanbali school restricts the preferred time to midnight, categorizing the period from midnight to true dawn as a time of 'necessity'.",
+    "actionable_steps": [
+      "Pray Isha before midnight if following the Hanbali school to stay within the preferred time.",
+      "Pray Isha anytime before Fajr if following the Hanafi school."
+    ],
+    "quran_hadith_evidence": "Derived from Prophetic reports defining the limits of night prayers and preventing negligence in delaying prayers.",
+    "spiritual_wisdom": "Dividing the night into preferred and necessity times encourages believers to prioritize worship before sleep, ensuring the prayer is not missed due to exhaustion.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "bedtime",
+    "scenario_tags": [
+      "Night Prayer",
+      "Late Nights"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 161; Umdah: 127"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Prayer Times",
+    "ritual_type": "Salah",
+    "ritual_phase": "Conditions",
+    "title": "Hastening vs. Delaying the Fajr Prayer",
+    "action": "Mustahab",
+    "short_rule": "Hanbalis recommend hastening Fajr while it is still dark, whereas Hanafis recommend delaying it for men until the light spreads.",
+    "details": "The Hanbali school maintains that praying at the very beginning of the time is best, including Fajr, meaning it should be prayed while it is still dark (ghalas). The Hanafi school considers it recommended (mustahabb) for men to delay the Fajr prayer until the morning light spreads (isfar), providing enough time to repeat the prayer if an error is discovered.",
+    "actionable_steps": [
+      "If following the Hanbali school, pray Fajr early while it is still dark.",
+      "If following the Hanafi school (for men), delay Fajr until the pre-dawn light has spread across the horizon."
+    ],
+    "quran_hadith_evidence": "Hanbalis rely on reports of the Prophet praying while it was dark, while Hanafis rely on his command to 'Brighten the dawn, for it is greater in reward.'",
+    "spiritual_wisdom": "Both approaches ensure devotion: hastening demonstrates eagerness to worship, while delaying maximizes the number of attendees in the congregation and ensures certainty of the time.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "Male"
+    ],
+    "ui_icon_concept": "wb_twilight",
+    "scenario_tags": [
+      "Morning Routine",
+      "Congregation"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 162-165; Umdah: 127"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Prayer Times",
+    "ritual_type": "Salah",
+    "ritual_phase": "Conditions",
+    "title": "Combining Prayers for Sickness, Travel, or Rain",
+    "action": null,
+    "short_rule": "Hanbalis permit combining prayers for travel, sickness, and rain; Hanafis restrict combining exclusively to the Hajj rites at Arafat and Muzdalifa.",
+    "details": "The Hanbali school offers broad concessions, allowing believers to combine Zuhr with Asr, and Maghrib with Isha, due to travel, significant illness, or heavy rain. The Hanafi school strictly forbids combining prayers within a single time outside of the specific Hajj rituals at Arafat (Zuhr and Asr) and Muzdalifa (Maghrib and Isha).",
+    "actionable_steps": [
+      "If following Hanbali fiqh, you may combine prayers when ill, traveling, or experiencing heavy rain.",
+      "If following Hanafi fiqh, you must pray every prayer in its designated time, except during Hajj."
+    ],
+    "quran_hadith_evidence": "The Hanbalis rely on reports of the Prophet combining prayers in Medina without fear or rain, indicating general alleviation of hardship, while Hanafis interpret these instances as 'apparent combining' (praying one at the very end of its time and the next at the very beginning).",
+    "spiritual_wisdom": "Jurisprudential variance highlights the balance between strict adherence to appointed times and the merciful alleviation of human hardship.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "compare_arrows",
+    "scenario_tags": [
+      "Travel",
+      "Illness",
+      "Severe Weather"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 166; Umdah: 232-235"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Prayer Times",
+    "ritual_type": "Salah",
+    "ritual_phase": "Conditions",
+    "title": "Exceptions During Prohibited Times",
+    "action": null,
+    "short_rule": "Hanbalis permit specific prayers like funeral or Tawaf prayers during prohibited times, while Hanafis maintain a stricter prohibition.",
+    "details": "Both schools identify specific times when voluntary prayers are prohibited (at sunrise, zenith, sunset, and after Fajr and Asr). The Hanbali school makes explicit exceptions for 'prayers with a cause', such as repeating a congregational prayer, the two rak'ahs of Tawaf, the funeral prayer, and making up routine sunnahs. The Hanafi school generally forbids voluntary prayers during these times without such broad exceptions.",
+    "actionable_steps": [
+      "Refrain from all voluntary prayers during sunrise, zenith, and sunset.",
+      "If following the Hanbali school, you may perform prayers with a specific cause (like funeral or Tawaf prayers) during prohibited times."
+    ],
+    "quran_hadith_evidence": "Based on the Prophet's prohibition of praying when the sun rises, sets, or is at its zenith, as it resembles the worship of sun-worshippers.",
+    "spiritual_wisdom": "Abstaining from prayer at specific cosmic moments protects Islamic monotheism from resembling pagan practices, ensuring worship is directed solely to the Creator.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "block",
+    "scenario_tags": [
+      "Prohibited Times",
+      "Voluntary Prayers"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 166; Umdah: 208-210"
+  }
+]

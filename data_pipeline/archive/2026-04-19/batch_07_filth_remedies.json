@@ -1,0 +1,157 @@
+[
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Types of Filth and Purification from Them",
+    "ritual_type": "General",
+    "ritual_phase": "Remedies",
+    "title": "Status and Purification of Human Semen",
+    "action": null,
+    "short_rule": "Hanafis consider human semen impure but purifiable by scraping if dry, while Hanbalis consider it pure.",
+    "details": "In the Hanafi school, human sperm or sexual fluid (mani) is classified as heavy filth (najasa mughallaza). If it has dried on a garment or body, it can be purified by scraping it off; if wet, it must be washed. The Hanbali school, conversely, classifies human semen as pure, removing the absolute obligation of washing it off garments to attain ritual purity.",
+    "actionable_steps": [
+      "If following Hanafi fiqh, scrape off dried semen from your garment or body to purify it, or wash it if it is wet.",
+      "If following Hanbali fiqh, treat human semen as a pure substance that does not invalidate the purity of your clothes."
+    ],
+    "quran_hadith_evidence": "Based on differing interpretations of Aisha's practice of scraping dried semen from the Prophet's garment.",
+    "spiritual_wisdom": "Accommodates human biological realities with practical ease, ensuring believers can maintain states of purity without undue hardship.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "water_drop",
+    "scenario_tags": [
+      "Impurity on Clothes",
+      "Bodily Fluids"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 122, 126; Umdah: 32"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Types of Filth and Purification from Them",
+    "ritual_type": "General",
+    "ritual_phase": "Remedies",
+    "title": "Purification of Animal Hides via Tanning",
+    "action": null,
+    "short_rule": "Hanafis rule that tanning purifies hides (except pigs), while the primary Hanbali position states tanning does not purify carrion hides.",
+    "details": "According to the Hanafi school, the hide of a dead animal is purified by either chemical tanning or natural tanning (using dirt, sun, etc.), making it permissible to pray on or use. The only exceptions are pig and human skin. The Hanbali school's primary text (Umdah al-Fiqh) states that the hide of a non-slaughtered dead animal remains impure regardless of tanning, though a footnote indicates the majority of other scholars accept tanning as a purifier.",
+    "actionable_steps": [
+      "If adhering to the Hanafi school, you may use tanned leather from naturally dead animals (excluding pigs) for prayer mats or containers.",
+      "If strictly adhering to the Hanbali text provided, avoid using tanned hides of unslaughtered dead animals as they remain impure."
+    ],
+    "quran_hadith_evidence": "Based on different applications of the Prophet's statement regarding the purification of hides through tanning.",
+    "spiritual_wisdom": "Balancing the beneficial utilization of worldly resources and the prevention of waste with strict adherence to divine limits on ritual purity.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "shopping_bag",
+    "scenario_tags": [
+      "Leather Goods",
+      "Animal Products"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 126; Umdah: 43-44"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Types of Filth and Purification from Them",
+    "ritual_type": "General",
+    "ritual_phase": "Remedies",
+    "title": "Washing the Filth of Dogs and Pigs",
+    "action": "Wajib",
+    "short_rule": "Hanbalis and Shafi'is mandate washing the impurity of a dog or pig seven times, including once with soil.",
+    "details": "The Hanbali school applies a stringent ruling for the filth of dogs and pigs, requiring the affected area to be washed seven times, with one of those washes incorporating soil. In contrast, the Hanafi school relies on the general rule of purifying indiscernible filth by washing and squeezing the affected area three times, without specifically stipulating seven washes or the use of soil for these animals in the provided text.",
+    "actionable_steps": [
+      "If following Hanbali fiqh, wash an area affected by dog or pig saliva or filth seven times.",
+      "Ensure at least one of those seven washes is done using soil or earth."
+    ],
+    "quran_hadith_evidence": "Derived from the explicit Prophetic command to wash a vessel licked by a dog seven times, the first with soil.",
+    "spiritual_wisdom": "Highlights a profound level of physical and spiritual decontamination required for specific substances designated as severe impurities.",
+    "madhhab_applicability": [
+      "Hanbali",
+      "Shafi'i"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "pets",
+    "scenario_tags": [
+      "Animal Contact",
+      "Severe Impurity"
+    ],
+    "source_book": "Umdah al-Fiqh, The Accessible Conspectus",
+    "author": "Ibn Qudamah, Abu Shuja' al-Asfahani",
+    "volume_page": "Umdah: 30; Conspectus: 41"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Types of Filth and Purification from Them",
+    "ritual_type": "General",
+    "ritual_phase": "Remedies",
+    "title": "Purifying a Nursing Male Infant's Urine",
+    "action": null,
+    "short_rule": "Hanbalis permit merely sprinkling water over the urine of a nursing male infant, whereas female infant urine must be washed.",
+    "details": "The Hanbali school provides a specific concession for the urine of a male infant who has not yet begun eating regular solid food: the affected area only needs to be sprinkled with water until wet, rather than fully washed or soaked. This concession does not apply to female infants, whose urine must be washed. The Hanafi text generally classifies human urine as heavy filth without mentioning this specific exception for infants.",
+    "actionable_steps": [
+      "Sprinkle water over the area soiled by a nursing male infant's urine until it is wet.",
+      "Wash the area normally if the infant is female or if the male infant has begun eating solid food."
+    ],
+    "quran_hadith_evidence": "Based on the Prophet's explicit distinction and practice regarding the urine of nursing male versus female infants.",
+    "spiritual_wisdom": "Provides a practical leniency for parents dealing with frequent unavoidable messes from infants, recognizing the differing physical natures of the impurities.",
+    "madhhab_applicability": [
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "child_care",
+    "scenario_tags": [
+      "Childcare",
+      "Parenting",
+      "Mild Impurity"
+    ],
+    "source_book": "Umdah al-Fiqh",
+    "author": "Ibn Qudamah",
+    "volume_page": "32"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Types of Filth and Purification from Them",
+    "ritual_type": "General",
+    "ritual_phase": "Remedies",
+    "title": "Purifying Impurities on the Ground",
+    "action": null,
+    "short_rule": "Hanafis allow the ground to become pure for prayer through complete drying, while Hanbalis specify pouring water over the impurity.",
+    "details": "In the Hanafi school, the natural ground or earth becomes ritually pure for the sake of prayer simply by drying out, provided no visible trace of the filth remains. However, this dirt cannot be used for Tayammum. The Hanbali school emphasizes actively removing the impurity from the ground by pouring water (like a bucket) over it to dilute and wash away the filth.",
+    "actionable_steps": [
+      "If following Hanafi fiqh, you may pray on earth that was previously impure but has completely dried out with no traces of filth left.",
+      "If following Hanbali fiqh, pour a bucket of water over the impure spot on the ground to purify it."
+    ],
+    "quran_hadith_evidence": "The Hanbali ruling is directly based on the Prophet's instruction to pour a bucket of water over the urine of a Bedouin who urinated in the mosque.",
+    "spiritual_wisdom": "Shows the resilience of the natural earth in absorbing and neutralizing impurities, facilitating worship in outdoor environments.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "grass",
+    "scenario_tags": [
+      "Outdoor Prayer",
+      "Environmental Purity"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 125-126; Umdah: 31"
+  }
+]

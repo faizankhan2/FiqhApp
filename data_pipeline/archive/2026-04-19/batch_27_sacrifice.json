@@ -1,0 +1,162 @@
+[
+  {
+    "module": "Ritual Sacrifice and Slaughtering",
+    "topic": "Ritual Sacrifice (Udhiya), Slaughtering (Dhaba'ih), and Hunting (Sayd)",
+    "ritual_type": "General",
+    "ritual_phase": "Conditions",
+    "title": "Consumption of Sea Creatures",
+    "action": null,
+    "short_rule": "Hanbalis permit eating all sea creatures that live exclusively in water, whereas Hanafis restrict permissibility to fish and eels.",
+    "details": "The Hanbali school broadly permits the consumption of any dead sea creature that lives exclusively in the water, treating them as inherently pure and lawful based on general Prophetic statements regarding the sea. The Hanafi school applies a much stricter dietary ruling, stating that it is impermissible to eat any water-born animals with the sole exception of fish and eels. Furthermore, Hanafis consider it prohibitively disliked (Makruh Tahriman) to eat even fish if it dies a natural death and floats to the surface.",
+    "actionable_steps": [
+      "If following the Hanbali school, you may consume any creature that lives exclusively in the sea.",
+      "If following the Hanafi school, restrict your seafood consumption strictly to fish and eels.",
+      "Under Hanafi fiqh, avoid eating fish that has died naturally and floated to the surface of the water."
+    ],
+    "quran_hadith_evidence": "Hanbalis rely on the comprehensive statement of the Prophet regarding the sea: 'Its water is pure and its dead (animals) are permissible (to eat).' Hanafis restrict this based on other linguistic and traditional constraints.",
+    "spiritual_wisdom": "The divergence highlights a balance between the vast, accommodating nature of divine provision found in the oceans, and the rigorous definitions of purity and permissible consumption maintained in certain legal traditions.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "set_meal",
+    "scenario_tags": [
+      "Dietary Law",
+      "Seafood",
+      "Halal Meat"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 328; Umdah: 44"
+  },
+  {
+    "module": "Ritual Sacrifice and Slaughtering",
+    "topic": "Ritual Sacrifice (Udhiya), Slaughtering (Dhaba'ih), and Hunting (Sayd)",
+    "ritual_type": "General",
+    "ritual_phase": "Conditions",
+    "title": "Performing Udhiya on Behalf of a Minor Child",
+    "action": "Mustahab",
+    "short_rule": "The Hanafi school recommends, but does not mandate, a parent to perform the sacrifice from their own wealth for an indigent child.",
+    "details": "While Sadaqat al-Fitr is a strict obligation (Wajib) on a father for his minor dependents, the ritual sacrifice ('Id al-Adha / Udhiya) does not carry the same financial mandate. According to the Zahir al-riwaya and the position of legal verdict (fatwa) in the Hanafi school, it is not mandatory for a parent to spend from his own wealth to sacrifice on behalf of his indigent child, though doing so is highly recommended.",
+    "actionable_steps": [
+      "Determine if your wealth meets the criterion for Sadaqat al-Fitr to establish if Udhiya is mandatory for you.",
+      "Perform the sacrifice on your own behalf during the Days of Sacrifice (10th, 11th, 12th of Dhu 'l-Hijja).",
+      "Optionally sacrifice on behalf of your minor children as a recommended act, knowing it is not a strict obligation."
+    ],
+    "quran_hadith_evidence": "Derived from Hanafi legal distinctions between the mandatory nature of Zakat/Sadaqat al-Fitr for dependents versus the personal nature of the Udhiya sacrifice.",
+    "spiritual_wisdom": "The Sacred Law differentiates between core financial obligations intended to feed the poor on 'Id al-Fitr and the ritual sacrifice of 'Id al-Adha, alleviating undue financial burden on parents while still encouraging generosity.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "child_friendly",
+    "scenario_tags": [
+      "'Id al-Adha",
+      "Ritual Sacrifice",
+      "Family Responsibilities"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Al-Shurunbulali",
+    "volume_page": "321"
+  },
+  {
+    "module": "Ritual Sacrifice and Slaughtering",
+    "topic": "Ritual Sacrifice (Udhiya), Slaughtering (Dhaba'ih), and Hunting (Sayd)",
+    "ritual_type": "General",
+    "ritual_phase": "Conditions",
+    "title": "Minimum Remaining Life for Slaughtering an Injured Animal",
+    "action": null,
+    "short_rule": "Hanafi scholars disagree on the required remaining life of an injured animal; Abu Yusuf requires most of a day, while Imam Muhammad requires only more than a slaughtered animal.",
+    "details": "For the meat of an injured or sick animal to be lawful, it must be slaughtered while still possessing some life. Within the Hanafi school, scholars differed on estimating this minimum remaining life. One narration requires the animal to have been able to live a complete day. Abu Yusuf maintained that being able to live 'most of a day' is sufficient. Imam Muhammad adopted the most lenient position, stipulating that its remaining life simply needed to be more than that of an already slaughtered animal. As long as it is alive during slaughter based on these criteria, its meat becomes lawful.",
+    "actionable_steps": [
+      "Ensure an animal has signs of life before slaughtering it, especially if it was previously injured or found dying.",
+      "Look for movement or the exiting of blood during the slaughter to confirm it was alive.",
+      "Recognize the varying Hanafi standards (from 'a full day's life' to 'minimal life') when assessing the validity of the slaughter."
+    ],
+    "quran_hadith_evidence": "Based on jurisprudential reasoning regarding the legal definition of 'life' required for a valid ritual slaughter (Dhabh) versus meat considered dead carrion (Mayta).",
+    "spiritual_wisdom": "These detailed debates reflect a profound commitment to consuming only what is pure and lawfully acquired, ensuring that the divine name is pronounced over a truly living creature.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "favorite_border",
+    "scenario_tags": [
+      "Slaughtering",
+      "Animal Welfare",
+      "Injured Animals"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Al-Shurunbulali",
+    "volume_page": "326"
+  },
+  {
+    "module": "Ritual Sacrifice and Slaughtering",
+    "topic": "Ritual Sacrifice (Udhiya), Slaughtering (Dhaba'ih), and Hunting (Sayd)",
+    "ritual_type": "General",
+    "ritual_phase": "Conditions",
+    "title": "The Consumption of Horse Meat",
+    "action": "Makruh",
+    "short_rule": "Abu Hanifa initially ruled horse meat prohibitively disliked, while his companions ruled it mildly disliked—the latter becoming the sound position.",
+    "details": "There is an intra-school difference in Hanafi fiqh regarding the permissibility of eating horse meat. Imam Abu Hanifa initially classified it as prohibitively disliked (Makruh Tahriman). However, his two foremost companions, Abu Yusuf and Muhammad, maintained that it is only mildly disliked (Makruh Tanzihan). It is reported that Abu Hanifa adopted their view three days before his death. Consequently, the Zahir al-riwaya and the sound position (Sahih) of the Hanafi school is that horse meat is mildly disliked.",
+    "actionable_steps": [
+      "Avoid consuming horse meat when possible, as it remains disliked in the Hanafi school.",
+      "Recognize that consuming it does not amount to a severe prohibition (Haram or Makruh Tahriman) according to the relied-upon position."
+    ],
+    "quran_hadith_evidence": "Derived from weighing Prophetic permissions against the honor afforded to horses as instruments of jihad and travel in the early Islamic community.",
+    "spiritual_wisdom": "The reluctance to consume horse meat stems from respect for the animal's noble role in serving humanity and faith, balancing practical dietary needs with ethical veneration.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "restaurant_menu",
+    "scenario_tags": [
+      "Dietary Law",
+      "Halal Meat",
+      "Horses"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Al-Shurunbulali",
+    "volume_page": "327-328"
+  },
+  {
+    "module": "Ritual Sacrifice and Slaughtering",
+    "topic": "Ritual Sacrifice (Udhiya), Slaughtering (Dhaba'ih), and Hunting (Sayd)",
+    "ritual_type": "General",
+    "ritual_phase": "Conditions",
+    "title": "Conflicting Causes of Permissibility in Hunting",
+    "action": "Haram",
+    "short_rule": "When lawful and unlawful hunting causes conjoin, the Hanafi school mandates that impermissibility takes precedence.",
+    "details": "In hunting, situations may arise where a valid means of hunting mixes with an invalid one. For example, if a trained hunting dog (which makes the catch lawful) partakes in the hunt with an untrained dog, or if a dog released with the Basmala hunts alongside one released without it. The Hanafi school dictates that whenever a cause of impermissibility and a cause of permissibility are conjoined, the rule of impermissibility always takes precedence out of precaution (Ihtiyat). Consequently, the hunted meat in such scenarios is unlawful to eat.",
+    "actionable_steps": [
+      "Ensure that only trained hunting dogs are used during a hunt.",
+      "Pronounce the Basmala upon releasing the hunting animal or shooting the arrow.",
+      "Discard the game if an untrained dog or a dog belonging to someone who didn't say the Basmala participated in the kill."
+    ],
+    "quran_hadith_evidence": "Based on the Prophet's instruction to 'Adi ibn Hatim: 'If you find another dog along with your dog, do not eat, for you pronounced the Name of Allah on your dog, not on the other.'",
+    "spiritual_wisdom": "The strict precaution in dietary laws ensures the believer's physical nourishment remains untainted by doubt, preserving spiritual purity and strict adherence to divine boundaries.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "warning",
+    "scenario_tags": [
+      "Hunting",
+      "Dietary Law",
+      "Precaution"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Al-Shurunbulali",
+    "volume_page": "329"
+  }
+]

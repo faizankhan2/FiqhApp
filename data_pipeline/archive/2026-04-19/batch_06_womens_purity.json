@@ -1,0 +1,137 @@
+[
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Menstruation (Hayd), Postnatal Bleeding (Nifas), and Dysfunctional Uterine Bleeding (Istihada)",
+    "ritual_type": "General",
+    "ritual_phase": "Conditions",
+    "title": "Minimum and Maximum Duration of Menstruation",
+    "action": null,
+    "short_rule": "Hanafis stipulate a minimum of three days and a maximum of ten days, whereas Hanbalis state a minimum of one day and night and a maximum of fifteen days.",
+    "details": "According to the Hanafi school, menstruation (Hayd) must last a minimum of three days (72 hours) and a maximum of ten days (240 hours). Any bleeding outside this specific window is considered dysfunctional uterine bleeding (Istihada). The Hanbali school, however, defines the minimum duration of menstruation as one day and one night, and the maximum duration as fifteen days.",
+    "actionable_steps": [
+      "Track the duration of bleeding closely to determine the ritual ruling.",
+      "Apply the specific rules of Hayd if the bleeding falls within your school's specified minimum and maximum times.",
+      "Treat any continuous bleeding falling short of the minimum or exceeding the maximum as Istihada."
+    ],
+    "quran_hadith_evidence": "Based on scholarly deduction and observation regarding the normal menstrual cycles of women across generations.",
+    "spiritual_wisdom": "Establishing clear limits helps women distinguish between normal physiological cycles and irregular bleeding, ensuring acts of worship are neither abandoned unnecessarily nor performed in an invalid state of ritual impurity.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "Female"
+    ],
+    "ui_icon_concept": "date_range",
+    "scenario_tags": [
+      "Women's Fiqh",
+      "Menstrual Cycle",
+      "Tracking Time"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 115-116; Umdah: 100"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Menstruation (Hayd), Postnatal Bleeding (Nifas), and Dysfunctional Uterine Bleeding (Istihada)",
+    "ritual_type": "General",
+    "ritual_phase": "Invalidators",
+    "title": "Acts Prohibited During Major Ritual Impurity",
+    "action": "Haram",
+    "short_rule": "Menstruation and postnatal bleeding prevent prayer, fasting, Tawaf, reciting or touching the Quran, and entering the mosque.",
+    "details": "There is a consensus across the Hanafi, Maliki, and Hanbali schools that a menstruating woman or one experiencing postnatal bleeding is strictly prohibited from performing ritual prayer (Salah), fasting (Sawm), circumambulating the Ka'ba (Tawaf), engaging in sexual intercourse, reciting the Quran, touching the Mushaf without a non-attached barrier, and entering or staying in a mosque. She is required to make up missed obligatory fasts, but missed prayers are completely pardoned and do not need to be made up.",
+    "actionable_steps": [
+      "Refrain from obligatory prayers, fasting, and Tawaf during the duration of menstruation or postnatal bleeding.",
+      "Do not make up any missed prayers once the bleeding stops.",
+      "Keep a record of missed obligatory fasts of Ramadan and make them up later.",
+      "Refrain from reciting or directly touching the Arabic text of the Quran."
+    ],
+    "quran_hadith_evidence": "Derived from widespread consensus and the Prophet's instruction to Fatima bint Abi Hubaish: 'When your menses comes, leave off praying.'",
+    "spiritual_wisdom": "Exempting women from demanding physical rituals during menstruation is a profound divine mercy, honoring the body's need for rest and recovery without compromising her spiritual standing.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "Female"
+    ],
+    "ui_icon_concept": "block",
+    "scenario_tags": [
+      "Women's Fiqh",
+      "Prohibitions",
+      "Worship Exemptions"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Muin, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 116; Murshid: Line 87; Umdah: 96-98"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Menstruation (Hayd), Postnatal Bleeding (Nifas), and Dysfunctional Uterine Bleeding (Istihada)",
+    "ritual_type": "General",
+    "ritual_phase": "Conditions",
+    "title": "Wudu Requirements for Dysfunctional Bleeding (Istihada)",
+    "action": "Wajib",
+    "short_rule": "A woman experiencing Istihada must perform a fresh wudu for every individual prayer time.",
+    "details": "Both the Hanafi and Hanbali schools consider dysfunctional uterine bleeding (Istihada) to be an ongoing, continuous excuse, akin to a continuous nosebleed or urinary incontinence. Unlike menstruation, Istihada does not prevent a woman from praying, fasting, or engaging in sexual intercourse. She is, however, required to wash the area, secure it with a pad, and perform a fresh ablution (Wudu) at the commencement of each new prayer time.",
+    "actionable_steps": [
+      "Wash the affected area and secure it with a proper barrier or pad.",
+      "Wait for the specific prayer time to enter before making Wudu.",
+      "Perform a new Wudu for each obligatory prayer time, even if the bleeding continues.",
+      "Proceed to pray and fast normally."
+    ],
+    "quran_hadith_evidence": "Derived from the Prophet's specific instructions to women experiencing prolonged non-menstrual bleeding to wash the blood and perform Wudu for every prayer.",
+    "spiritual_wisdom": "This ruling demonstrates the principle that while absolute purity is ideal, chronic physical ailments or ongoing medical conditions should never become an insurmountable barrier to maintaining one's daily connection with Allah.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "Female"
+    ],
+    "ui_icon_concept": "water_drop",
+    "scenario_tags": [
+      "Women's Fiqh",
+      "Chronic Bleeding",
+      "Wudu Excuse"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 118-119; Umdah: 102"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Menstruation (Hayd), Postnatal Bleeding (Nifas), and Dysfunctional Uterine Bleeding (Istihada)",
+    "ritual_type": "General",
+    "ritual_phase": "Conditions",
+    "title": "Resuming Intimacy Following Menstruation",
+    "action": null,
+    "short_rule": "Hanbalis require Ghusl before intercourse, while Hanafis permit it without Ghusl only if the bleeding reached the maximum of ten days.",
+    "details": "In the Hanbali school, once menstrual bleeding stops, fasting and divorce become permissible, but sexual intercourse is strictly forbidden until the woman performs the purificatory bath (Ghusl). In the Hanafi school, if her period ends within the 10-day maximum, intercourse is not permitted until she performs Ghusl (or Tayammum and prays) or until a full prayer time expires. However, if her bleeding extends to the absolute maximum of ten days and stops, intercourse becomes permissible immediately, though taking a Ghusl first is still highly recommended.",
+    "actionable_steps": [
+      "If following Hanbali fiqh, always wait until Ghusl is performed before resuming sexual relations.",
+      "If following Hanafi fiqh, intercourse is permissible immediately without Ghusl ONLY if the bleeding reached exactly ten complete days.",
+      "If following Hanafi fiqh and bleeding stops before ten days, ensure Ghusl is performed or a prayer time elapses before resuming intimacy."
+    ],
+    "quran_hadith_evidence": "And do not approach them until they are pure. And when they have purified themselves, then come to them from where Allah has ordained for you. (Quran 2:222)",
+    "spiritual_wisdom": "Physical relations are elevated by ensuring both partners approach each other in a state of physical cleanliness and spiritual readiness, honoring the divine boundaries placed on intimacy.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "bed",
+    "scenario_tags": [
+      "Women's Fiqh",
+      "Marriage",
+      "Intimacy"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 117-118; Umdah: 99-100"
+  }
+]

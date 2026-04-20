@@ -1,0 +1,132 @@
+[
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Mandatory Requisites (Wajibat) of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "Classification of the Takbirs of Transition",
+    "action": null,
+    "short_rule": "Hanbalis classify the transitional takbirs as mandatory (Wajib), while Hanafis and Malikis consider them emphasized Sunnahs.",
+    "details": "In the Hanbali school, uttering the takbirs (saying 'Allahu Akbar') when transitioning between postures is a mandatory act (Wajib); intentionally omitting them invalidates the prayer, and forgetting them requires a prostration of forgetfulness. In contrast, the Hanafi and Maliki schools classify these transitional takbirs as emphasized Sunnahs, rather than mandatory requisites.",
+    "actionable_steps": [
+      "Utter 'Allahu Akbar' when moving between postures such as bowing, prostrating, and rising.",
+      "If adhering to the Hanbali school, ensure you do not omit these takbirs as they are mandatory.",
+      "Perform a prostration of forgetfulness if omitted forgetfully while following the Hanbali school."
+    ],
+    "quran_hadith_evidence": "Based on the Prophet's continuous practice of saying takbir with every movement, which Hanbalis view as a mandatory command and others view as a highly recommended practice.",
+    "spiritual_wisdom": "The constant repetition of Allah's greatness transitions the worshipper's focus from one physical state to the next, maintaining presence of heart throughout the prayer.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "record_voice_over",
+    "scenario_tags": [
+      "Prayer Movements",
+      "Transitional Takbirs"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 169; Murshid: Verse 113; Umdah: 176-177"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Mandatory Requisites (Wajibat) of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "Uttering the Tasmi' and Tahmid",
+    "action": null,
+    "short_rule": "Hanbalis mandate both phrases as Wajib, while Hanafis and Malikis classify them as Sunnahs.",
+    "details": "The Hanbali school lists uttering 'Sami'a Allahu liman hamidah' (Tasmi') and 'Rabbana lakal hamd' (Tahmid) as mandatory (Wajib) acts of the prayer. The Hanafi school classifies them as emphasized Sunnahs, and the Maliki school similarly lists the Tahmid as a Sunnah for the person praying.",
+    "actionable_steps": [
+      "Say 'Sami'a Allahu liman hamidah' when rising from bowing.",
+      "Say 'Rabbana lakal hamd' once fully standing.",
+      "If following the Hanbali school, compensate for forgetting these phrases with a prostration of forgetfulness."
+    ],
+    "quran_hadith_evidence": "The Prophet commanded: 'When he says sami'a Allahu liman hamidah, say rabbana wa lakal hamd.'",
+    "spiritual_wisdom": "Acknowledging that Allah hears those who praise Him immediately prompts the servant to utter that praise, reflecting the dynamic dialogue between the Creator and the worshipper.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "hearing",
+    "scenario_tags": [
+      "Rising from Bowing",
+      "Praising Allah"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 169; Murshid: Verse 115; Umdah: 176-177"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Mandatory Requisites (Wajibat) of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "The First Tashahhud and its Sitting",
+    "action": null,
+    "short_rule": "Hanafis and Hanbalis consider the first tashahhud and sitting for it as mandatory (Wajib), whereas Malikis consider it a Sunnah.",
+    "details": "According to the Hanbali school, the first tashahhud and the sitting for it are mandatory (Wajib) acts. The Hanafi school also categorizes reciting the entire tashahhud in both sittings as a mandatory requisite (Wajib). Conversely, the Maliki school classifies the first sitting as one of the established Sunnahs of the prayer.",
+    "actionable_steps": [
+      "Sit after the second rak'ah of a three or four rak'ah prayer.",
+      "Recite the tashahhud completely during this sitting.",
+      "Perform a prostration of forgetfulness if you accidentally stand up without performing the first sitting (in Hanafi and Hanbali schools)."
+    ],
+    "quran_hadith_evidence": "Derived from the Prophet's consistent practice of sitting after two rak'ahs and his command to the Companions to say the tashahhud.",
+    "spiritual_wisdom": "The middle sitting serves as a moment of pause to renew one's greeting and testimony to Allah and His Messenger before completing the remainder of the prayer.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "airline_seat_recline_normal",
+    "scenario_tags": [
+      "Sitting Postures",
+      "Tashahhud"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 164; Murshid: Verse 114; Umdah: 177"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Mandatory Requisites (Wajibat) of the Prayer",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "Uttering the Concluding Salam",
+    "action": null,
+    "short_rule": "Hanbalis classify the first Tasleem as a pillar, while Hanafis consider saying the specific word 'As-Salam' as a Wajib.",
+    "details": "While exiting the prayer by one's own action is a fundamental pillar (Fard) across schools, the Hanafi school specifically categorizes the verbal utterance of the word 'As-Salam' as a mandatory requisite (Wajib), rather than a strict Fard. The Hanbali school, however, classifies the first Tasleem entirely as a pillar (Rukn) of the prayer.",
+    "actionable_steps": [
+      "Conclude the prayer by purposefully uttering 'As-Salamu Alaykum'.",
+      "Ensure the word 'As-Salam' is articulated, fulfilling the Hanafi mandatory requisite or the Hanbali pillar."
+    ],
+    "quran_hadith_evidence": "The Prophet stated: 'Its consecration (tahrim) is the takbir, and its termination is the taslim.'",
+    "spiritual_wisdom": "The prescribed formula of peace transitions the worshipper from an exclusive divine audience back into the realm of creation, spreading the peace acquired during prayer.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "waving_hand",
+    "scenario_tags": [
+      "Concluding Prayer",
+      "Tasleem"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 163-164; Umdah: 175"
+  }
+]

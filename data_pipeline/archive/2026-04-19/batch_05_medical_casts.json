@@ -1,0 +1,126 @@
+[
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Wiping Casts",
+    "ritual_type": "General",
+    "ritual_phase": "Conditions",
+    "title": "State of Purity Upon Application",
+    "action": null,
+    "short_rule": "Hanafis permit wiping over a cast even if it was applied while the person was in a state of ritual impurity.",
+    "details": "According to the Hanafi school, a person is permitted to wipe over a cast, bandage, or dressing for as long as the medical excuse remains, even if the cast was placed on the limb while they were in a state of major or minor ritual impurity. This is a distinct leniency compared to wiping leather socks (khuffs), which strictly requires a pre-existing state of purity.",
+    "actionable_steps": [
+      "Wipe over your cast during Wudu or Ghusl, regardless of your state of purity when the cast was initially applied."
+    ],
+    "quran_hadith_evidence": "Derived from the legal principle of avoiding undue hardship (haraj) in purification rituals for the sick and injured.",
+    "spiritual_wisdom": "Islam's rulings accommodate illness and injury with profound mercy, ensuring that unexpected medical emergencies do not create burdensome religious obstacles.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "healing",
+    "scenario_tags": [
+      "Medical Emergency",
+      "Injury",
+      "Wudu with Cast"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Al-Shurunbulali",
+    "volume_page": "114"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Wiping Casts",
+    "ritual_type": "General",
+    "ritual_phase": "Method",
+    "title": "Extent of the Cast and Wiped Area",
+    "action": null,
+    "short_rule": "Hanbalis stipulate bandages must not exceed the needed area; Hanafis do not require wiping the entire cast.",
+    "details": "The Hanbali school specifies that it is allowable to wipe on a bandage or Band-Aid provided that the material does not exceed the necessary area that requires wrapping. The Hanafi school rules that it is not a condition to wipe the entire surface of the cast. Furthermore, Hanafis state it is not necessary to wash the exposed skin in between the tight wrappings of a dressing (such as after a venesection).",
+    "actionable_steps": [
+      "Ensure a bandage only covers the necessary wound area if following the Hanbali school.",
+      "Wipe over a portion of the cast without needing to saturate the entire cast or wash between tight wrappings if following the Hanafi school."
+    ],
+    "quran_hadith_evidence": "Based on the principle of removing hardship and limiting the ritual concession strictly to the extent of the medical necessity.",
+    "spiritual_wisdom": "The physical dimensions of ritual concessions are tailored to the exact necessity, blending obedience to divine commands with practical medical care.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "bandage",
+    "scenario_tags": [
+      "Bandages",
+      "Partial Wiping",
+      "Wound Care"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 114; Umdah: 750"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Wiping Casts",
+    "ritual_type": "General",
+    "ritual_phase": "Invalidators",
+    "title": "Duration and Premature Removal",
+    "action": null,
+    "short_rule": "Wiping remains valid as long as the excuse exists; premature removal of the cast does not nullify the wiping.",
+    "details": "Both the Hanafi and Hanbali schools agree that wiping over a cast is not bound by the specific 24 or 72-hour time limits that apply to leather socks. The Hanbali school notes it is valid 'until he unwraps it.' The Hanafi school specifies that wiping is valid 'for as long as the excuse remains.' If a cast falls off or is removed before the limb has completely healed, the previous wiping is not nullified. Additionally, if a cast is replaced, it is recommended (but not required) to wipe the new cast if the original was already wiped.",
+    "actionable_steps": [
+      "Continue wiping the cast for the duration of the injury without tracking 24 or 72-hour limits.",
+      "If the cast comes off before healing, do not consider your purification nullified.",
+      "Optionally wipe a newly replaced cast to fulfill the recommendation."
+    ],
+    "quran_hadith_evidence": "Wiping a cast has the legal ruling of actual 'washing' due to medical necessity, thus it is not a temporary replacement like wiping khuffs.",
+    "spiritual_wisdom": "By removing strict time limits on the purification of the injured, the Sacred Law allows the believer to focus completely on recovery and continuous worship without anxiety.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "timer_off",
+    "scenario_tags": [
+      "Cast Replacement",
+      "Chronic Injury",
+      "No Time Limits"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 114-115; Umdah: 750"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Wiping Casts",
+    "ritual_type": "General",
+    "ritual_phase": "Pre-requisites",
+    "title": "Intention for Wiping Casts",
+    "action": null,
+    "short_rule": "An independent intention is not required to wipe over a cast.",
+    "details": "According to the Hanafi school, wiping over a cast does not require a separate or specific intention for the act to be valid, similar to the ruling for wiping over footgear (khuffs).",
+    "actionable_steps": [
+      "Perform the wipe over your cast as a normal, integrated step of your Wudu or Ghusl without formulating a distinct intention for the wipe itself."
+    ],
+    "quran_hadith_evidence": "Derived from the analogical principle that wiping the cast assumes the same status as washing the underlying limb, falling under the general intention of the ablution.",
+    "spiritual_wisdom": "Ritual purity is viewed as a holistic state. Integrating the wiping of a cast into the general intention prevents obsessive doubts (waswasa) and eases the spiritual practice for the ailing.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "psychology_alt",
+    "scenario_tags": [
+      "Intention",
+      "Wudu with Cast"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Al-Shurunbulali",
+    "volume_page": "116"
+  }
+]

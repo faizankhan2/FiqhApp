@@ -19,8 +19,25 @@ export function SituationCard({ situation, onPress }) {
 }
 
 const styles = StyleSheet.create({
-  sitCard: { width: CARD_WIDTH, height: 160, borderRadius: T.rCard, padding: 20, justifyContent: 'flex-end', borderWidth: 1, borderColor: 'rgba(0,0,0,0.05)' },
-  sitIconBox: { width: 42, height: 42, borderRadius: 14, backgroundColor: 'rgba(255,255,255,0.5)', alignItems: 'center', justifyContent: 'center', position: 'absolute', top: 16, left: 16 },
-  sitTitle: { fontSize: 17, fontWeight: '800', color: T.ink, marginBottom: 4, letterSpacing: -0.3 },
-  sitSubtitle: { fontSize: 12, color: T.inkSoft, lineHeight: 16, fontWeight: '500' },
+  sitCard: { 
+    width: CARD_WIDTH, 
+    aspectRatio: 1, 
+    borderRadius: T.rCard, 
+    padding: 16, 
+    justifyContent: 'center', 
+    alignItems: 'center', 
+    borderWidth: 1, 
+    borderColor: 'rgba(0,0,0,0.05)' 
+  },
+  sitIconBox: { 
+    width: 48, 
+    height: 48, 
+    borderRadius: 16, 
+    backgroundColor: 'rgba(255,255,255,0.6)', 
+    alignItems: 'center', 
+    justifyContent: 'center', 
+    marginBottom: 12 
+  },
+  sitTitle: { fontSize: 16, fontWeight: '800', color: T.ink, marginBottom: 4, letterSpacing: -0.3, textAlign: 'center' },
+  sitSubtitle: { fontSize: 11, color: T.inkSoft, lineHeight: 14, fontWeight: '500', textAlign: 'center' },
 });

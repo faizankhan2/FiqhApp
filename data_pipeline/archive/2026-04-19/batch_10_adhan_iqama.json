@@ -1,0 +1,158 @@
+[
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "The Call to Prayer (Adhan) and Its Commencement (Iqama)",
+    "ritual_type": "Salah",
+    "ritual_phase": "Pre-requisites",
+    "title": "Wording of the Iqama",
+    "action": null,
+    "short_rule": "Hanafis mandate 17 words for the Iqama, while Hanbalis mandate 11 words.",
+    "details": "Both the Hanafi and Hanbali schools agree that the Adhan consists of 15 words. However, regarding the Iqama (the call to commence), the Hanafi school prescribes 17 words (repeating the phrases of the Adhan and adding 'qad qamati 's-salah' twice), while the Hanbali school reduces the Iqama to 11 words without repeating the initial and middle phrases as frequently.",
+    "actionable_steps": [
+      "Recite the Iqama with 17 words if following the Hanafi school.",
+      "Recite the Iqama with 11 words if following the Hanbali school."
+    ],
+    "quran_hadith_evidence": "Based on the differing authenticated practices and reports of the Prophet's companions and callers to prayer.",
+    "spiritual_wisdom": "The variety in the wording of the Call to Prayer reflects the richness of the Prophetic traditions and accommodates the diversity of legitimate practices in the Muslim community.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "Male"
+    ],
+    "ui_icon_concept": "campaign",
+    "scenario_tags": [
+      "Congregational Prayer",
+      "Calling to Prayer"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 166; Umdah: 121-122"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "The Call to Prayer (Adhan) and Its Commencement (Iqama)",
+    "ritual_type": "Salah",
+    "ritual_phase": "Pre-requisites",
+    "title": "The Legal Status of Adhan for a Group",
+    "action": "Sunnah",
+    "short_rule": "The Maliki school categorizes the Adhan as a Sunnah for a group intending to gather others for a mandatory prayer.",
+    "details": "In the Maliki school, the Adhan is specifically classified as a Sunnah for a group that arrives for a mandatory (Wajib) prayer at its prescribed time and desires for others to join their congregation. In the Hanbali school, the Adhan and Iqama are broadly prescribed for the five daily obligatory prayers.",
+    "actionable_steps": [
+      "Perform the Adhan if praying in a group and wishing for others to join the congregation, to fulfill the Sunnah in the Maliki school."
+    ],
+    "quran_hadith_evidence": "When the time of salat comes in, let one of you call the adhan and let the older of you lead the prayer. (Agreed Upon)",
+    "spiritual_wisdom": "The Adhan serves not merely as a reminder of the time but as a communal invitation, uniting believers to pause worldly affairs and gather for the remembrance of Allah.",
+    "madhhab_applicability": [
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "Male"
+    ],
+    "ui_icon_concept": "groups",
+    "scenario_tags": [
+      "Congregational Prayer",
+      "Community"
+    ],
+    "source_book": "al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Murshid: Line 121; Umdah: 120"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "The Call to Prayer (Adhan) and Its Commencement (Iqama)",
+    "ritual_type": "Salah",
+    "ritual_phase": "Pre-requisites",
+    "title": "Adhan and Iqama for Women",
+    "action": null,
+    "short_rule": "The Adhan and Iqama are prescribed for men, though Hanbalis and Shafi'is permit women to recite them quietly among themselves.",
+    "details": "The Hanbali text explicitly states that the Adhan and Iqama are prescribed as public calls for men only. However, it notes an allowance in the Hanbali and Shafi'i schools for women to perform the Adhan and Iqama in a modest, quiet voice when praying amongst themselves, based on the practice of Aisha.",
+    "actionable_steps": [
+      "Men should establish the public Adhan for the congregation.",
+      "Women may optionally recite the Adhan and Iqama quietly for their own exclusive congregations if following Hanbali or Shafi'i rulings."
+    ],
+    "quran_hadith_evidence": "Ibn 'Umar said: 'There is no adhan or iqamah required of women.' Conversely, it is reported that Aisha would make the adhan and iqamah and lead women in prayer.",
+    "spiritual_wisdom": "This ruling preserves the modesty and privacy of women's worship spaces while still allowing them to partake in the blessings of the foundational rituals of the prayer.",
+    "madhhab_applicability": [
+      "Hanbali",
+      "Shafi'i"
+    ],
+    "gender_applicability": [
+      "Female"
+    ],
+    "ui_icon_concept": "volume_down",
+    "scenario_tags": [
+      "Women's Fiqh",
+      "Women's Congregation"
+    ],
+    "source_book": "Umdah al-Fiqh",
+    "author": "Ibn Qudamah",
+    "volume_page": "121"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "The Call to Prayer (Adhan) and Its Commencement (Iqama)",
+    "ritual_type": "Salah",
+    "ritual_phase": "Pre-requisites",
+    "title": "State of Purity for the Caller (Mu'adhin)",
+    "action": "Makruh",
+    "short_rule": "Hanafis consider it disliked to perform Adhan in major impurity, or Iqama in minor/major impurity. Hanbalis recommend purity for Adhan.",
+    "details": "The Hanafi school rules that it is disliked (makruh) to perform the Adhan while in a state of major ritual impurity (janaba), and disliked to perform the Iqama while in a state of either minor or major ritual impurity. If the Adhan is called by someone in major impurity, it should be repeated. The Hanbali school similarly recommends that the caller to prayer (mu'adhin) be in a state of ritual purity (wudu).",
+    "actionable_steps": [
+      "Ensure you have Wudu before calling the Adhan or Iqama.",
+      "If following the Hanafi school, do not perform the Iqama without Wudu, and repeat the Adhan if it was performed in a state of major impurity."
+    ],
+    "quran_hadith_evidence": "Based on the reverence due to the words of the Adhan and its direct connection to the ritual prayer.",
+    "spiritual_wisdom": "Approaching the call to prayer with physical purity mirrors the internal purity required to summon others to stand before the Divine.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "Male"
+    ],
+    "ui_icon_concept": "wash",
+    "scenario_tags": [
+      "Calling to Prayer",
+      "Purity Maintenance"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 168-169; Umdah: 122"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "The Call to Prayer (Adhan) and Its Commencement (Iqama)",
+    "ritual_type": "Salah",
+    "ritual_phase": "Etiquettes",
+    "title": "Responding to the Adhan",
+    "action": "Mustahab",
+    "short_rule": "Repeating the Adhan is recommended by Hanbalis, while Hanafis consider responding mandatory either verbally or by attending the prayer.",
+    "details": "The Hanbali school considers it recommended (Sunnah) for those who hear the Adhan to repeat the words of the Mu'adhin. In the Hanafi school, responding to the Adhan is considered mandatory (wajib) by some scholars verbally, while others deem it mandatory to respond 'with one's feet' (by attending the congregation). Hanafis also note specific exceptions where one should not respond verbally, such as when praying, eating, teaching, or using the lavatory.",
+    "actionable_steps": [
+      "Repeat the words of the Mu'adhin as you hear them.",
+      "Say 'La hawla wa la quwwata illa bi Llah' when the caller says 'Hayya 'ala 's-salah' and 'Hayya 'ala 'l-falah'.",
+      "Proceed to the congregation to fulfill the physical response to the call.",
+      "Do not respond verbally if using the lavatory, eating, or currently praying."
+    ],
+    "quran_hadith_evidence": "If you hear the call [to prayers], say what he says. (Agreed Upon)",
+    "spiritual_wisdom": "Verbally repeating the Adhan ingrains the reality of God's greatness into the listener's heart and prepares their mind to transition from worldly tasks to divine worship.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "record_voice_over",
+    "scenario_tags": [
+      "Hearing the Adhan",
+      "Daily Routine"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 167-168; Umdah: 124"
+  }
+]

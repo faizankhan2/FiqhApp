@@ -1,0 +1,163 @@
+[
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Wudu (Minor Ablution)",
+    "ritual_type": "Wudu",
+    "ritual_phase": "Pre-requisites",
+    "title": "Requirement of the Intention (Niyya)",
+    "action": null,
+    "short_rule": "Malikis and Hanbalis require the intention as a mandatory integral, while Hanafis do not classify it as an obligatory integral for minor ablution.",
+    "details": "In the Maliki (al-Murshid al-Mu'in) and Hanbali (Umdah al-Fiqh) schools, formulating the intention at the beginning of Wudu is a mandatory requisite (Wajib/Fard); without it, the ablution is invalid. The Hanafi school (Ascent to Felicity), however, does not list the intention among the four obligatory integrals of Wudu, meaning the physical purification is legally valid even if one washes the limbs without a specific intention (e.g., cooling off), though one misses the spiritual reward.",
+    "actionable_steps": [
+      "Formulate the intention to purify oneself before beginning Wudu.",
+      "Ensure the intention accompanies the washing of the first mandatory limb (the face)."
+    ],
+    "quran_hadith_evidence": "The Prophet said: 'Actions are but by intentions, and every person will have [the reward of] what he intended.' (Agreed Upon)",
+    "spiritual_wisdom": "The intention elevates a mundane act of physical washing into an act of divine worship, aligning the heart's focus with the body's purification.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "psychology",
+    "scenario_tags": [
+      "Intention",
+      "Commencing Wudu"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 56; Murshid: 417; Umdah: 611"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Wudu (Minor Ablution)",
+    "ritual_type": "Wudu",
+    "ritual_phase": "Method",
+    "title": "Maintaining the Prescribed Sequence (Tartib)",
+    "action": null,
+    "short_rule": "Hanbalis mandate the prescribed order of washing limbs, whereas Hanafis and Malikis consider it an emphasized sunnah.",
+    "details": "The Hanbali text explicitly lists 'doing all this in the sequence we mentioned' as a mandatory action; failing to follow the sequence invalidates the Wudu. In contrast, the Hanafi text categorizes 'maintaining the correct order of limbs' as an emphasized sunnah. The Maliki text similarly lists 'performing the wajib parts in the proper order' among the sunnahs.",
+    "actionable_steps": [
+      "Wash the face, then the arms, then wipe the head, then wash the feet.",
+      "Adhere strictly to this sequence to ensure the validity of the ablution across all schools."
+    ],
+    "quran_hadith_evidence": "Based on the specific sequential order listed in the Qur'an: 'Wash your faces and your hands up to the elbows, rub your heads, and wash your feet...' (5:6).",
+    "spiritual_wisdom": "Adhering to the divine sequence instills discipline and reflects careful obedience to the structure laid out in the Qur'an.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "format_list_numbered",
+    "scenario_tags": [
+      "Order of Limbs",
+      "Sequence"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 61; Murshid: 419; Umdah: 612"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Wudu (Minor Ablution)",
+    "ritual_type": "Wudu",
+    "ritual_phase": "Method",
+    "title": "Continuity Without Interruption (Muwalat)",
+    "action": null,
+    "short_rule": "Continuity is mandatory for Hanbalis and Malikis, but an emphasized sunnah for Hanafis.",
+    "details": "The Hanbali school strictly mandates 'not deferring the washing of any part until the part prior to it becomes dry' as a mandatory condition for validity. The Maliki text identically lists 'doing one action of ablution immediately after the other (without a large break)' as a Wajib. The Hanafi school considers 'continuity' (not pausing such that the previous limb dries) to be an emphasized sunnah rather than an obligatory integral.",
+    "actionable_steps": [
+      "Perform the ablution in one continuous session without prolonged interruptions.",
+      "Ensure each limb is washed before the previously washed limb has completely dried."
+    ],
+    "quran_hadith_evidence": "Derived from the Prophet's practice of continuous washing, and his command to a man who had left a dry spot on his foot to repeat his Wudu.",
+    "spiritual_wisdom": "Continuity maintains the worshipper's spiritual focus, preventing worldly distractions from interrupting the sacred act of purification.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "hourglass_top",
+    "scenario_tags": [
+      "Continuity",
+      "Interruptions",
+      "Pacing"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 61; Murshid: 417; Umdah: 612"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Wudu (Minor Ablution)",
+    "ritual_type": "Wudu",
+    "ritual_phase": "Method",
+    "title": "Rubbing the Limbs (Dalk)",
+    "action": null,
+    "short_rule": "Malikis mandate physically rubbing the limbs during washing, while Hanafis consider it an emphasized sunnah.",
+    "details": "The Maliki text uniquely specifies that passing the hand over the washed part (Dalk/rubbing) is a mandatory integral (Wajib) of Wudu; merely pouring water over the limbs is legally insufficient. The Hanafi text categorizes rubbing the limbs while washing them as an emphasized sunnah, relying primarily on water reaching the skin to fulfill the base obligation.",
+    "actionable_steps": [
+      "Pass your hand over the skin while pouring water to physically rub the limbs.",
+      "Ensure friction is applied to all required areas to fulfill the Maliki obligation and the Hanafi sunnah."
+    ],
+    "quran_hadith_evidence": "Derived from differing linguistic interpretations of the Qur'anic command to 'wash' (ghusl), with Malikis arguing that true washing intrinsically implies rubbing, while others define it merely as water flowing over the surface.",
+    "spiritual_wisdom": "Physical rubbing ensures thorough cleanliness and forces the believer to be acutely present and mindful during the purification process.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "clean_hands",
+    "scenario_tags": [
+      "Washing Technique",
+      "Rubbing"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in",
+    "author": "Al-Shurunbulali, Ibn 'Ashir",
+    "volume_page": "Ascent: 61; Murshid: 417"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Wudu (Minor Ablution)",
+    "ritual_type": "Wudu",
+    "ritual_phase": "Method",
+    "title": "Extent of Wiping the Head and Ears",
+    "action": null,
+    "short_rule": "Hanbalis and Malikis mandate wiping the entire head, while Hanafis stipulate wiping only one-fourth as an obligation.",
+    "details": "The Hanbali text mandates wiping the entire head, explicitly including the ears, as a mandatory action. The Maliki text also lists wiping the head as a Wajib, while wiping the ears is a sunnah. The Hanafi school strictly defines the obligatory integral (Fard) as wiping only one-fourth of the head (the size of a hand). Wiping the entire head and wiping the ears are categorized as emphasized sunnahs in the Hanafi school.",
+    "actionable_steps": [
+      "Wipe the entire head starting from the forelock to the nape, and return to the front.",
+      "Wipe the inner and outer parts of the ears to fulfill the Hanbali obligation and the general sunnah of other schools.",
+      "If following Hanafi fiqh, wiping at least one-fourth of the head fulfills the absolute minimum obligation."
+    ],
+    "quran_hadith_evidence": "Based on the Prophet's practice of wiping his entire head, though Hanafis refer to the linguistic scope of the 'Baa' in the Qur'anic verse (5:6) to allow a partial wipe.",
+    "spiritual_wisdom": "Wiping the head symbolizes cleansing the mind of worldly anxieties and impure thoughts, preparing the intellect to focus solely on the Divine.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "face",
+    "scenario_tags": [
+      "Wiping the Head",
+      "Ears"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 59-61; Murshid: 419; Umdah: 610-611"
+  }
+]

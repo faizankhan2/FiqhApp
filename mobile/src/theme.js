@@ -1,7 +1,7 @@
 import { Platform, Dimensions } from 'react-native';
 
 const { width } = Dimensions.get('window');
-export const CARD_WIDTH = (width - 48) / 2;
+export const CARD_WIDTH = (width - 48 - 16) / 2;
 
 export const T = {
   // Backgrounds

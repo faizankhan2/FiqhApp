@@ -1,0 +1,162 @@
+[
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "The Friday (Jumu'ah) and 'Id Prayers",
+    "ritual_type": "Salah",
+    "ritual_phase": "Conditions",
+    "title": "Valid Timing for the Friday Prayer",
+    "action": null,
+    "short_rule": "Hanbalis permit the Friday prayer to be performed midmorning before the zenith, whereas Hanafis strictly restrict it to the time of Zuhr.",
+    "details": "According to the Hanbali school, the valid time for the Friday congregational prayer begins from the time of the 'Id prayer (midmorning/duha) and lasts until 'Asr, meaning it can be legitimately prayed before the sun reaches its zenith. The Hanafi school, however, maintains that the valid time for the Friday prayer is strictly congruent with the time of the Zuhr prayer (from the sun's zenith until the shadow of an object becomes twice its length).",
+    "actionable_steps": [
+      "Ensure the Friday prayer is performed within the time of Zuhr if following the Hanafi school.",
+      "If adhering to the Hanbali school, the prayer may be validly established midmorning before the sun reaches its zenith."
+    ],
+    "quran_hadith_evidence": "Hanbalis rely on reports such as Jabir ibn Abdullah's statement that they would pray Jumu'ah and then take their camels to rest until the sun passed its zenith.",
+    "spiritual_wisdom": "The flexibility in timing provides communal ease for gathering, while strict adherence to the Zuhr window emphasizes the Friday prayer's role as a direct replacement for the midday obligation.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "Male"
+    ],
+    "ui_icon_concept": "schedule",
+    "scenario_tags": [
+      "Friday Prayer",
+      "Prayer Timings",
+      "Congregation"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 190; Umdah: 254"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "The Friday (Jumu'ah) and 'Id Prayers",
+    "ritual_type": "Salah",
+    "ritual_phase": "Conditions",
+    "title": "Minimum Attendance to Establish Jumu'ah",
+    "action": null,
+    "short_rule": "Hanbalis stipulate a minimum of forty resident attendees, while Hanafis validate the congregation with the presence of even one person to listen to the sermon.",
+    "details": "The Hanbali school strictly requires the attendance of at least forty permanent residents of the town who are legally bound by the obligation to establish the Friday prayer. The Hanafi school is vastly more lenient, stating that the presence of even one eligible person to listen to the sermon alongside the Imam is sufficient to fulfill the condition of a congregation.",
+    "actionable_steps": [
+      "Establish the Friday prayer if there is an Imam and at least one listener if following Hanafi fiqh.",
+      "Ensure there is a stable congregation of at least forty permanent residents if adhering to the Hanbali school."
+    ],
+    "quran_hadith_evidence": "Based on varying legal definitions of what constitutes a 'community' or 'congregation' (jama'a) capable of establishing public civic worship.",
+    "spiritual_wisdom": "The requirement of a large group ensures the Friday prayer functions as a major civic gathering, while the lenient view ensures that small, isolated communities are not deprived of the blessings of Friday worship.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "Male"
+    ],
+    "ui_icon_concept": "groups",
+    "scenario_tags": [
+      "Friday Prayer",
+      "Small Communities",
+      "Congregation Size"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 190; Umdah: 255"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "The Friday (Jumu'ah) and 'Id Prayers",
+    "ritual_type": "Salah",
+    "ritual_phase": "Pre-requisites",
+    "title": "Mandatory Elements of the Khutba",
+    "action": "Wajib",
+    "short_rule": "Hanafis validate a sermon consisting of a single phrase of praise, whereas Hanbalis require praising Allah, sending blessings on the Prophet, reciting a verse, and advising piety.",
+    "details": "In the Hanafi school, while a full sermon is sunnah, the absolute minimum mandatory obligation for a valid Friday sermon is uttering a single tasbiha (e.g., Subhanallah) or tahlila (La ilaha illa Llah). The Hanbali school explicitly mandates four components for the sermon to be valid: praising Allah, sending prayers upon the Messenger, reciting at least one verse from the Quran, and actively advising the congregation toward piety (Taqwa).",
+    "actionable_steps": [
+      "Include praise of Allah, blessings on the Prophet, a Quranic verse, and an admonition to piety in the sermon to fulfill Hanbali requirements.",
+      "Recognize that uttering a simple remembrance of Allah fulfills the absolute minimum condition in Hanafi fiqh if time is desperately short."
+    ],
+    "quran_hadith_evidence": "Derived from the continuous practice of the Prophet and his Companions, balancing the minimum linguistic definition of a 'sermon' against its comprehensive spiritual purpose.",
+    "spiritual_wisdom": "The sermon serves to reawaken the community's spiritual conscience; detailing its components ensures comprehensive guidance, while extreme leniency accommodates desperate or exigent circumstances.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "mic",
+    "scenario_tags": [
+      "Friday Sermon",
+      "Khutba",
+      "Leading Prayer"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 191; Umdah: 256"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "The Friday (Jumu'ah) and 'Id Prayers",
+    "ritual_type": "Salah",
+    "ritual_phase": "Conditions",
+    "title": "Legal Classification of the 'Id Prayers",
+    "action": null,
+    "short_rule": "Hanafis classify the 'Id prayers as an individual mandatory requisite (Wajib), while Hanbalis classify them as a communal obligation (Fard Kifaya).",
+    "details": "According to the Hanafi school, attending and performing the two 'Id prayers is an individual mandatory requisite (Wajib) for every person upon whom the Friday prayer is obligatory. The Hanbali school, however, classifies the 'Id prayers as a communal obligation (Fard Kifaya); meaning if a sufficient portion of the community (forty residents) establishes the prayer, the obligation is lifted from the rest of the town.",
+    "actionable_steps": [
+      "Ensure you personally attend the 'Id prayers if following the Hanafi school, as it is a mandatory individual duty.",
+      "Recognize that 'Id prayers are a collective community responsibility in the Hanbali school."
+    ],
+    "quran_hadith_evidence": "Based on the Prophet's persistent establishment of the 'Id prayers and his command for all to attend, including women, leading schools to debate whether the command signifies individual or collective obligation.",
+    "spiritual_wisdom": "The 'Id prayers serve as a powerful public manifestation of Islamic joy, unity, and gratitude, making its establishment critical whether viewed as an individual duty or a communal triumph.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "festival",
+    "scenario_tags": [
+      "'Id Prayers",
+      "Legal Obligation",
+      "Community Worship"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 194; Umdah: 261"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "The Friday (Jumu'ah) and 'Id Prayers",
+    "ritual_type": "Salah",
+    "ritual_phase": "Method",
+    "title": "Number of Extra Takbirs in the 'Id Prayer",
+    "action": "Wajib",
+    "short_rule": "Hanafis mandate three extra takbirs per rak'ah, while Hanbalis prescribe six extra in the first and five in the second.",
+    "details": "The schools differ significantly on the structure of the additional takbirs in the 'Id prayer. In the Hanafi school, these extra takbirs are mandatory (Wajib): three are performed in the first rak'ah before the recitation, and three are performed in the second rak'ah after the recitation and immediately before bowing. In the Hanbali school, the extra takbirs are Sunnah: six extra takbirs are made in the first rak'ah before the recitation, and five extra takbirs are made in the second rak'ah before the recitation.",
+    "actionable_steps": [
+      "If following Hanafi fiqh, perform three additional takbirs in the first rak'ah and three in the second.",
+      "If following Hanbali fiqh, perform six additional takbirs in the first rak'ah and five in the second."
+    ],
+    "quran_hadith_evidence": "Based on varying transmissions of the Companions; the Hanafi method aligns with the practice of Ibn Mas'ud, while the Hanbali method is based on other prevalent reports.",
+    "spiritual_wisdom": "The repetition of Allah's greatness (Takbir) serves to overwhelm the heart with divine majesty, amplifying the joyful and victorious spirit of the day of festival.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "exposure_plus_1",
+    "scenario_tags": [
+      "'Id Prayers",
+      "Takbirs",
+      "Congregation"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 196-197; Umdah: 264"
+  }
+]

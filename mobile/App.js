@@ -6,9 +6,9 @@ import {
   View,
   TouchableOpacity,
   Text,
-  SafeAreaView,
   Platform,
 } from 'react-native';
+import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { Feather } from '@expo/vector-icons';
 import { supabase } from './src/lib/supabase';
@@ -65,7 +65,7 @@ export default function App() {
       case 'Home':
         return <HomeTab rulings={rulings} loading={loading} />;
       case 'Explore':
-        return <ExploreTab rulings={rulings} loading={loading} />;
+        return <ExploreTab rulings={rulings} loading={loading} selectedMadhhab={selectedMadhhab} />;
       case 'Bookmarks':
         return <BookmarksTab />;
       case 'Settings':
@@ -76,43 +76,45 @@ export default function App() {
   };
 
   return (
-    <GestureHandlerRootView style={{ flex: 1 }}>
-      <View style={styles.container}>
-        <StatusBar style="dark" />
-        
-        {/* ── Main Viewport ── */}
-        <View style={styles.main}>
-          {renderContent()}
-        </View>
-
-        {/* ── Custom Tab Bar ── */}
-        <SafeAreaView style={styles.tabBarEdge}>
-          <View style={styles.tabBar}>
-            {TABS.map((tab) => {
-              const isActive = activeTab === tab.id;
-              return (
-                <TouchableOpacity
-                  key={tab.id}
-                  style={styles.tabItem}
-                  activeOpacity={0.7}
-                  onPress={() => setActiveTab(tab.id)}
-                >
-                  <Feather 
-                    name={tab.icon} 
-                    size={22} 
-                    color={isActive ? T.sage : T.inkMuted} 
-                  />
-                  <Text style={[styles.tabLabel, isActive && styles.tabLabelActive]}>
-                    {tab.label}
-                  </Text>
-                  {isActive && <View style={styles.activeIndicator} />}
-                </TouchableOpacity>
-              );
-            })}
+    <SafeAreaProvider>
+      <GestureHandlerRootView style={{ flex: 1 }}>
+        <View style={styles.container}>
+          <StatusBar style="dark" />
+          
+          {/* ── Main Viewport ── */}
+          <View style={styles.main}>
+            {renderContent()}
           </View>
-        </SafeAreaView>
-      </View>
-    </GestureHandlerRootView>
+
+          {/* ── Custom Tab Bar ── */}
+          <SafeAreaView style={styles.tabBarEdge}>
+            <View style={styles.tabBar}>
+              {TABS.map((tab) => {
+                const isActive = activeTab === tab.id;
+                return (
+                  <TouchableOpacity
+                    key={tab.id}
+                    style={styles.tabItem}
+                    activeOpacity={0.7}
+                    onPress={() => setActiveTab(tab.id)}
+                  >
+                    <Feather 
+                      name={tab.icon} 
+                      size={22} 
+                      color={isActive ? T.sage : T.inkMuted} 
+                    />
+                    <Text style={[styles.tabLabel, isActive && styles.tabLabelActive]}>
+                      {tab.label}
+                    </Text>
+                    {isActive && <View style={styles.activeIndicator} />}
+                  </TouchableOpacity>
+                );
+              })}
+            </View>
+          </SafeAreaView>
+        </View>
+      </GestureHandlerRootView>
+    </SafeAreaProvider>
   );
 }
 

@@ -1,0 +1,135 @@
+[
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Dry Ablution (Tayammum)",
+    "ritual_type": "Tayammum",
+    "ritual_phase": "Method",
+    "title": "Extent of Wiping the Arms",
+    "action": null,
+    "short_rule": "The extent of wiping varies: up to the wrists for Hanbalis, up to the elbows for Hanafis and Shafi'is, while Malikis consider the elbows a Sunnah.",
+    "details": "According to the Hanafi and Shafi'i schools, wiping the arms up to and including the elbows is an obligatory integral (Fard). The Maliki school classifies wiping the hands up to the wrists as mandatory (Wajib), while extending the wipe to the elbows is considered a Sunnah. The Hanbali school strictly limits the obligatory wiping to the hands up to the wrists.",
+    "actionable_steps": [
+      "Strike the earth and wipe the face completely.",
+      "Wipe the hands up to the wrists at a minimum.",
+      "Extend the wiping to the elbows if adhering to the Hanafi or Shafi'i schools, or to fulfill the Sunnah in the Maliki school."
+    ],
+    "quran_hadith_evidence": "Based on varying narrations of the Prophet's instruction to 'Ammar regarding wiping the face and hands.",
+    "spiritual_wisdom": "Tayammum serves to symbolically fulfill the requirements of physical purification, highlighting the mercy, ease, and flexibility inherent in Islamic jurisprudence.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali",
+      "Shafi'i"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "front_hand",
+    "scenario_tags": [
+      "Absence of Water",
+      "Sickness"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh, The Accessible Conspectus",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah, Abu Shuja' al-Asfahani",
+    "volume_page": "Ascent: 108; Murshid: Lines 92, 95; Umdah: 83; Conspectus: 10"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Dry Ablution (Tayammum)",
+    "ritual_type": "Tayammum",
+    "ritual_phase": "Method",
+    "title": "Number of Earth Strikes",
+    "action": null,
+    "short_rule": "Hanbalis require one strike, Hanafis and Shafi'is require two, and Malikis consider the first mandatory and the second a Sunnah.",
+    "details": "To perform Tayammum, the Hanbali school requires striking the earth only once for both the face and hands. In contrast, the Hanafi and Shafi'i schools mandate two distinct strikes: one for the face and one for the arms. The Maliki school classifies the first strike as Wajib (mandatory) and the second strike, done before wiping the arms, as a Sunnah.",
+    "actionable_steps": [
+      "Strike the earth once and wipe the face.",
+      "If following Hanafi, Shafi'i, or aiming for Maliki Sunnah, strike the earth a second time to wipe the arms."
+    ],
+    "quran_hadith_evidence": "Derived from differing interpretations of the Hadith of 'Ammar regarding how the Prophet physically demonstrated Tayammum.",
+    "spiritual_wisdom": "The physical act of striking the earth connects believers to their humble origins from soil, reinforcing submission and groundedness before prayer.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali",
+      "Shafi'i"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "touch_app",
+    "scenario_tags": [
+      "No Water Available",
+      "Wudu Substitute"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh, The Accessible Conspectus",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah, Abu Shuja' al-Asfahani",
+    "volume_page": "Ascent: 108; Murshid: Lines 92, 95; Umdah: 83; Conspectus: 10"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Dry Ablution (Tayammum)",
+    "ritual_type": "Tayammum",
+    "ritual_phase": "Conditions",
+    "title": "The Permissible Earth Material (Sa'eed)",
+    "action": null,
+    "short_rule": "Hanafis and Malikis allow any pure earth substance, whereas Hanbalis and Shafi'is strictly require soil containing dust.",
+    "details": "According to the Hanafi and Maliki schools, the 'sa'eed' (surface of the earth) can be any pure substance of the earth, such as dirt, sand, limestone, or stones, regardless of whether it produces dust. The Hanbali and Shafi'i schools restrict the permissible material strictly to wholesome soil that has distinct particles of dust.",
+    "actionable_steps": [
+      "Ensure the substance used is a natural part of the earth.",
+      "If following Hanbali or Shafi'i schools, verify that the soil has loose dust particles."
+    ],
+    "quran_hadith_evidence": "Based on the Prophet's statement: 'The earth was made a place of prayer for me and a source of purification.'",
+    "spiritual_wisdom": "Provides profound flexibility for believers in diverse geographical environments, ensuring the foundational connection to prayer is never abandoned due to lack of resources.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali",
+      "Shafi'i"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "terrain",
+    "scenario_tags": [
+      "Environmental Constraints",
+      "Lack of Soil"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 106-107; Murshid: Line 93; Umdah: 86"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Dry Ablution (Tayammum)",
+    "ritual_type": "Tayammum",
+    "ritual_phase": "Conditions",
+    "title": "Timing and Multiple Prayers per Tayammum",
+    "action": null,
+    "short_rule": "Hanafis allow early tayammum and multiple obligatory prayers per tayammum; Malikis and Hanbalis require it after time entry, and Malikis limit it to one obligatory prayer.",
+    "details": "In the Hanafi school, a person may perform Tayammum before the prayer time enters and can pray multiple obligatory prayers with a single Tayammum. The Maliki and Hanbali schools stipulate that Tayammum is only valid if performed after the specific prayer time has commenced. Additionally, the Maliki school restricts a single Tayammum to only one mandatory (Wajib/Fard) prayer, requiring a fresh Tayammum for every subsequent obligatory prayer.",
+    "actionable_steps": [
+      "Perform Tayammum after the Adhan if following Maliki or Hanbali schools.",
+      "Renew Tayammum for every obligatory prayer if adhering to the Maliki school.",
+      "Perform voluntary or funeral prayers with the same Tayammum after an obligatory prayer in the Maliki school."
+    ],
+    "quran_hadith_evidence": "Derived from scholarly reasoning balancing the principle of facilitation with the legal view of Tayammum as a temporary necessity-based substitute rather than a permanent state of purity.",
+    "spiritual_wisdom": "Linking purification directly to the time of need emphasizes the conscious effort and specific intention required to stand before God for each distinct obligatory prayer.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "access_time",
+    "scenario_tags": [
+      "Prayer Timings",
+      "Consecutive Prayers"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Ibn Qudamah",
+    "volume_page": "Ascent: 108-109; Murshid: Lines 90-93; Umdah: 85"
+  }
+]

@@ -19,6 +19,10 @@ Our data model supports the "Peaceful Scholar" aesthetic with fields designed fo
     *   `spiritual_wisdom`: Contextual insights into the "Why" for Level 3 depth.
 *   **Practical Guidance (Level 2: The How-To)**:
     *   `actionable_steps`: A `TEXT[]` array providing the step-by-step checklist for Level 2 depth.
+*   **Grouping & Filtering (UX Optimization)**:
+    *   `ritual_type`: High-level category (Purification, Salah).
+    *   `ritual_phase`: Specific stage (Pre-requisite, Action, Remedy).
+    *   `gender_applicability`: Array (Male, Female, All) for demographic filtering.
 *   **Metadata**: `madhhab_applicability` (Array), `source_book`, `author`, `volume_page`, `ui_icon_concept`.
 
 ## 4. Agent Directives (Core Rules of Engagement)

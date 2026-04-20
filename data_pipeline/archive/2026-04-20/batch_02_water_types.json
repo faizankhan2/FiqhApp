@@ -1,0 +1,324 @@
+[
+  {
+    "module": "Purification",
+    "topic": "Types of Water",
+    "topic_brief": "Water is a beautiful, life-giving mercy from Allah, created pure and purifying. It is the essential element that allows us to physically and spiritually cleanse ourselves, washing away our burdens before we stand peacefully in the divine presence of our Lord.",
+    "ritual_type": "General",
+    "ritual_phase": "Pre-requisites",
+    "title": "Using Natural Water Sources",
+    "action_classification": "Condition",
+    "short_rule": "Ensure you use natural, unconditioned water for your purification.",
+    "details": "You can calmly use any natural water source for your Ablution (Wudu) or Ritual Bath (Ghusl), such as rain, well water, spring water, river water, sea water, or melted snow. As long as it remains in its natural state, it is a perfect purifier.",
+    "actionable_steps": [
+      "Find a source of natural water like rain, tap water, river, or sea water.",
+      "Ensure the water has not been significantly altered in its fundamental characteristics."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Returning to nature's pure water reminds us of our own natural state (fitrah), calling our hearts back to a pure and sincere connection with the Creator.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali",
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "water drop",
+    "scenario_tags": [
+      "daily",
+      "preparation"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "page 40"
+  },
+  {
+    "module": "Purification",
+    "topic": "Types of Water",
+    "topic_brief": "Water is a beautiful, life-giving mercy from Allah, created pure and purifying. It is the essential element that allows us to physically and spiritually cleanse ourselves, washing away our burdens before we stand peacefully in the divine presence of our Lord.",
+    "ritual_type": "General",
+    "ritual_phase": "Pre-requisites",
+    "title": "Water Mixed with Earth or Mud",
+    "action_classification": "Permissible",
+    "short_rule": "Rest assured that water naturally mixed with earth elements, like red dirt or algae, is perfectly valid for your purification.",
+    "details": "If your water has naturally mixed with substances found in its environment, such as mud or red dirt, it gently retains its purifying qualities and you may comfortably use it.",
+    "actionable_steps": [
+      "Observe if the change in the water is solely due to natural elements from its own environment.",
+      "Proceed confidently with your purification using this water."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Just as the earth naturally mixes with water without spoiling its purity, our worldly struggles do not ruin our spiritual worth when we remain grounded in faith.",
+    "madhhab_applicability": [
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "leaf floating",
+    "scenario_tags": [
+      "travel",
+      "outdoors"
+    ],
+    "source_book": "al-Murshid al-Muin",
+    "author": "Ibn 'Ashir",
+    "volume_page": "Verse 56"
+  },
+  {
+    "module": "Purification",
+    "topic": "Types of Water",
+    "topic_brief": "Water is a beautiful, life-giving mercy from Allah, created pure and purifying. It is the essential element that allows us to physically and spiritually cleanse ourselves, washing away our burdens before we stand peacefully in the divine presence of our Lord.",
+    "ritual_type": "General",
+    "ritual_phase": "Invalidators",
+    "title": "Water Altered by Pure Substances",
+    "action_classification": "Condition",
+    "short_rule": "If your water mixes with a pure substance like soap or food and completely changes its nature, use it for daily tasks but not for ritual purification.",
+    "details": "If something pure is cooked in the water or mixes with it so much that it prevails over its name (like becoming tea or broth), it is no longer valid for Ablution (Wudu) or Ritual Bath (Ghusl). You may still happily use it for other daily habits.",
+    "actionable_steps": [
+      "Check if the water has completely lost its identity as plain water.",
+      "If it has changed into another liquid, set it aside for normal use and find plain water for purification."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Everything has its beautiful and specific purpose; recognizing when water's primary purpose shifts teaches us mindfulness and proper placement in our daily lives.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "tea cup",
+    "scenario_tags": [
+      "home",
+      "daily"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "page 40"
+  },
+  {
+    "module": "Purification",
+    "topic": "Types of Water",
+    "topic_brief": "Water is a beautiful, life-giving mercy from Allah, created pure and purifying. It is the essential element that allows us to physically and spiritually cleanse ourselves, washing away our burdens before we stand peacefully in the divine presence of our Lord.",
+    "ritual_type": "General",
+    "ritual_phase": "Invalidators",
+    "title": "Reusing Purification Water",
+    "action_classification": "Condition",
+    "short_rule": "Gently set aside water that has already been used for purification, as it cannot be used again for Ablution (Wudu) or Ritual Bath (Ghusl).",
+    "details": "Water that drips from a person who is actively removing a ritual impurity becomes 'used water'. While it remains pure in itself, it gracefully loses its ability to purify you a second time.",
+    "actionable_steps": [
+      "Ensure the water you are about to use is fresh and unused for previous ritual purification.",
+      "Discard or repurpose water that has already fallen from someone's limbs during Ablution (Wudu)."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Water that has already carried away ritual impurities has completed its noble task, teaching us to let go of the past and seek fresh beginnings.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "hands washing",
+    "scenario_tags": [
+      "home",
+      "daily"
+    ],
+    "source_book": "Umdah al-Fiqh",
+    "author": "Ibn Qudamah",
+    "volume_page": "page 28"
+  },
+  {
+    "module": "Purification",
+    "topic": "Types of Water",
+    "topic_brief": "Water is a beautiful, life-giving mercy from Allah, created pure and purifying. It is the essential element that allows us to physically and spiritually cleanse ourselves, washing away our burdens before we stand peacefully in the divine presence of our Lord.",
+    "ritual_type": "General",
+    "ritual_phase": "Invalidators",
+    "title": "Small vs. Large Amounts of Water",
+    "action_classification": "Condition",
+    "short_rule": "If a small amount of water mixes with an impurity, calmly discard it, but if it is a large amount (about 190 liters), it remains pure unless its smell, taste, or color changes.",
+    "details": "When water reaches the amount of two large containers (qullatayn) or is flowing, nothing renders it impure except that which changes its fundamental characteristics. If it is less than this and touches an impurity, do not use it.",
+    "actionable_steps": [
+      "Estimate the volume of the water if an impurity falls in.",
+      "If it is less than 190 liters, gently avoid using it for purification.",
+      "If it is a large volume, check if its color, taste, or smell has changed before using it."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "A vast expanse of water absorbs minor impurities without changing, much like a heart expanded by faith can gently absorb life's harms without losing its inner peace.",
+    "madhhab_applicability": [
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "large basin",
+    "scenario_tags": [
+      "outdoors",
+      "rural"
+    ],
+    "source_book": "Umdah al-Fiqh",
+    "author": "Ibn Qudamah",
+    "volume_page": "page 27"
+  },
+  {
+    "module": "Purification",
+    "topic": "Types of Water",
+    "topic_brief": "Water is a beautiful, life-giving mercy from Allah, created pure and purifying. It is the essential element that allows us to physically and spiritually cleanse ourselves, washing away our burdens before we stand peacefully in the divine presence of our Lord.",
+    "ritual_type": "General",
+    "ritual_phase": "Invalidators",
+    "title": "Using Water from Large Cisterns",
+    "action_classification": "Permissible",
+    "short_rule": "You may calmly use water from a large cistern (at least ten by ten cubits) even if an impurity falls in, provided the water's natural qualities remain unchanged.",
+    "details": "A large body of water, defined as a cistern measuring at least ten by ten cubits, is resilient against minor impurities. As long as you do not detect a change in color, taste, or smell, your purification is perfectly valid.",
+    "actionable_steps": [
+      "Ensure the cistern is of the required large size.",
+      "Verify that the water's color, taste, and smell remain beautifully pure.",
+      "Perform your Ablution (Wudu) with tranquility."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "An expansive pool remains pure despite small drops, reflecting how a soul immersed in Allah's remembrance remains resilient and unbothered by minor worldly irritations.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "fountain",
+    "scenario_tags": [
+      "outdoors",
+      "rural"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "page 40"
+  },
+  {
+    "module": "Purification",
+    "topic": "Types of Water",
+    "topic_brief": "Water is a beautiful, life-giving mercy from Allah, created pure and purifying. It is the essential element that allows us to physically and spiritually cleanse ourselves, washing away our burdens before we stand peacefully in the divine presence of our Lord.",
+    "ritual_type": "General",
+    "ritual_phase": "Invalidators",
+    "title": "Water Changed by Impurities",
+    "action_classification": "Condition",
+    "short_rule": "If your water changes in color, taste, or smell due to an impurity, gently discard it as it is no longer suitable for purification.",
+    "details": "Purity is reliably obtained from water that is safe from being changed by anything harmful. If an impurity completely alters the water, simply throw it away and gracefully seek another source.",
+    "actionable_steps": [
+      "Look at the water to ensure no impurity has changed its color.",
+      "Smell and taste the water to confirm it is untainted.",
+      "Discard safely if any changes are evident."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "When clarity and sweetness are compromised, we gently seek a fresh source, reminding us to guard our hearts from negativity that alters our spiritual character.",
+    "madhhab_applicability": [
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "pouring water",
+    "scenario_tags": [
+      "home",
+      "daily"
+    ],
+    "source_book": "al-Murshid al-Muin",
+    "author": "Ibn 'Ashir",
+    "volume_page": "Verse 54-55"
+  },
+  {
+    "module": "Purification",
+    "topic": "Types of Water",
+    "topic_brief": "Water is a beautiful, life-giving mercy from Allah, created pure and purifying. It is the essential element that allows us to physically and spiritually cleanse ourselves, washing away our burdens before we stand peacefully in the divine presence of our Lord.",
+    "ritual_type": "General",
+    "ritual_phase": "Conditions",
+    "title": "Handling Doubts About Purity",
+    "action_classification": "Condition",
+    "short_rule": "Always base your judgment of water on certainty, gently casting aside any unfounded doubts.",
+    "details": "If you are certain the water was pure but begin to doubt if it became impure, assume it is pure. Conversely, if you know it was impure and doubt if it was cleansed, assume it is still impure. Do not let whispers disturb your peace.",
+    "actionable_steps": [
+      "Recall the last certain state of the water.",
+      "Act upon that certainty and firmly ignore any lingering doubts.",
+      "Proceed with your worship mindfully."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Allah desires ease for your heart, so releasing unfounded whispers and resting upon certainty brings deep inner tranquility.",
+    "madhhab_applicability": [
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "mindful peace",
+    "scenario_tags": [
+      "daily",
+      "mental_health"
+    ],
+    "source_book": "Umdah al-Fiqh",
+    "author": "Ibn Qudamah",
+    "volume_page": "page 29"
+  },
+  {
+    "module": "Purification",
+    "topic": "Types of Water",
+    "topic_brief": "Water is a beautiful, life-giving mercy from Allah, created pure and purifying. It is the essential element that allows us to physically and spiritually cleanse ourselves, washing away our burdens before we stand peacefully in the divine presence of our Lord.",
+    "ritual_type": "General",
+    "ritual_phase": "Remedies",
+    "title": "Confusing Pure and Impure Water",
+    "action_classification": "Obligatory",
+    "short_rule": "If you cannot distinguish between a pure and an impure container of water, gracefully leave them both and perform Dry Ablution (Tayammum) instead.",
+    "details": "When faced with two containers of water and you forget which one holds the impurity, do not guess. Gently step away from both sources and embrace the beautiful concession of performing Dry Ablution (Tayammum) with clean earth.",
+    "actionable_steps": [
+      "Refrain from using either container of water.",
+      "Find a source of clean, natural earth.",
+      "Perform Dry Ablution (Tayammum) calmly to attain your purity."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "When faced with irresolvable doubt, stepping away entirely and relying on the blessed earth demonstrates our beautiful trust in Allah's merciful alternatives.",
+    "madhhab_applicability": [
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "two bowls",
+    "scenario_tags": [
+      "travel",
+      "camping"
+    ],
+    "source_book": "Umdah al-Fiqh",
+    "author": "Ibn Qudamah",
+    "volume_page": "page 30"
+  },
+  {
+    "module": "Purification",
+    "topic": "Types of Water",
+    "topic_brief": "Water is a beautiful, life-giving mercy from Allah, created pure and purifying. It is the essential element that allows us to physically and spiritually cleanse ourselves, washing away our burdens before we stand peacefully in the divine presence of our Lord.",
+    "ritual_type": "General",
+    "ritual_phase": "Remedies",
+    "title": "Confusing Purifying and Non-Purifying Water",
+    "action_classification": "Obligatory",
+    "short_rule": "If you mix up purifying water with pure water that cannot be used for Ablution (Wudu), calmly perform Ablution (Wudu) from both containers to ensure validity.",
+    "details": "If you have two containers of pure water, but one was already used and lost its purifying attribute, and you cannot tell them apart, simply perform your Ablution (Wudu) from each one. This ensures you have definitely used the purifying water.",
+    "actionable_steps": [
+      "Perform a complete Ablution (Wudu) using the water from the first container.",
+      "Perform a second complete Ablution (Wudu) using the water from the second container.",
+      "Proceed to your Prayer (Salah) with a peaceful heart."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Taking an extra step of care by using both beautifully ensures your peace of mind and secures your act of devotion before your Lord.",
+    "madhhab_applicability": [
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "two splashes",
+    "scenario_tags": [
+      "travel",
+      "home"
+    ],
+    "source_book": "Umdah al-Fiqh",
+    "author": "Ibn Qudamah",
+    "volume_page": "page 30"
+  }
+]

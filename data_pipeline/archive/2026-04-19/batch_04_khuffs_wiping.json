@@ -1,0 +1,132 @@
+[
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Wiping Footgear (Khuffs)",
+    "ritual_type": "Wudu",
+    "ritual_phase": "Method",
+    "title": "Wiping on Turbans and Headcovers",
+    "action": null,
+    "short_rule": "Hanbalis permit wiping on a qualifying turban or a woman's scarf, whereas Hanafis strictly prohibit wiping on turbans, caps, or veils.",
+    "details": "In the Hanbali school, it is permissible for a man to wipe over a turban provided it has a tail and covers the majority of the head. Women may similarly wipe over a scarf (khimar) according to an opinion in the school. Conversely, the Hanafi school explicitly states that wiping over a turban, cap, face veil, or gloves is invalid, restricting wiping exclusively to footgear or medical casts.",
+    "actionable_steps": [
+      "If following Hanbali fiqh, you may wipe over a qualifying turban or a woman's headscarf instead of removing it.",
+      "If following Hanafi fiqh, you must wipe directly on the head/hair and cannot wipe over a turban, cap, or face veil."
+    ],
+    "quran_hadith_evidence": "In the Hanbali school, wiping on turbans is supported by the specific practice of the Prophet, and wiping on a scarf is supported by the practice of Umm Salamah.",
+    "spiritual_wisdom": "This concession provides facilitation and eases hardship, particularly in cold weather or in public spaces where removing headgear is difficult.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "layers",
+    "scenario_tags": [
+      "Wudu with Headgear",
+      "Winter",
+      "Public Spaces"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 113; Umdah: 67-68"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Wiping Footgear (Khuffs)",
+    "ritual_type": "Wudu",
+    "ritual_phase": "Conditions",
+    "title": "Valid Types of Footwear for Wiping",
+    "action": null,
+    "short_rule": "Footgear must cover the ankles and remain on the feet without tying.",
+    "details": "Both the Hanafi and Hanbali schools agree that wiping is permitted on leather socks (khuffs) that cover the ankles. The Hanafi school specifies the material must be thick (like wool or broadcloth), not see-through, and durable enough to walk approximately 3.48 miles (farsakh) without tearing. The Hanbali school similarly adds that one may wipe on thick socks that stay on the feet independently, as well as shoes extending beyond the anklebones.",
+    "actionable_steps": [
+      "Ensure your footgear covers the ankles entirely.",
+      "Ensure the socks or khuffs are thick and durable enough to walk in independently.",
+      "Put the footgear on only after having attained a complete state of ritual purity (Wudu or Ghusl)."
+    ],
+    "quran_hadith_evidence": "Based on the continuous communal practice and the Prophet's action of wiping over his footwear.",
+    "spiritual_wisdom": "Islam is a religion of ease. This concession removes the hardship of frequently washing the feet in cold climates or during travel while maintaining physical hygiene.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "directions_walk",
+    "scenario_tags": [
+      "Travel",
+      "Cold Weather",
+      "Workplace Wudu"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 106-111; Umdah: 66-68"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Wiping Footgear (Khuffs)",
+    "ritual_type": "Wudu",
+    "ritual_phase": "Conditions",
+    "title": "Time Limits for Wiping",
+    "action": null,
+    "short_rule": "A resident may wipe for 24 hours and a traveler for 72 hours, starting from the first time Wudu is nullified after putting them on.",
+    "details": "There is complete agreement between the Hanafi and Hanbali schools regarding the time limits: one complete day and night (24 hours) for a resident, and three complete days and nights (72 hours) for a traveler. Both schools agree that this duration begins from the moment ritual purity (Wudu) is first broken after having worn the footgear, not from the moment the footgear was put on.",
+    "actionable_steps": [
+      "Note the exact time your Wudu breaks after putting on the footgear.",
+      "If you are a resident, you may continue to wipe over them for exactly 24 hours from that specific time.",
+      "If you are a traveler, you may wipe for 72 hours from that specific time."
+    ],
+    "quran_hadith_evidence": "The traveler will wipe three days and the resident one. (Reported by Muslim from 'Ali ibn Abi Talib)",
+    "spiritual_wisdom": "The specific time limit ensures that physical hygiene is periodically renewed through actual washing, balancing the mercy of ease with the physical requirement of absolute cleanliness.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "schedule",
+    "scenario_tags": [
+      "Tracking Time",
+      "Resident vs Traveler"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 108; Umdah: 66-67"
+  },
+  {
+    "module": "Purification (Tahara)",
+    "topic": "Wiping Footgear (Khuffs)",
+    "ritual_type": "Wudu",
+    "ritual_phase": "Invalidators",
+    "title": "Nullifiers of Wiping Footgear",
+    "action": null,
+    "short_rule": "Taking the footgear off, changing travel status to resident, or the expiration of the time limit nullifies the validity of wiping.",
+    "details": "Both schools agree that wiping is nullified by taking the footgear off or when the time period expires. The Hanafi school explicitly notes that if most of the foot leaves the khuff, it counts as taking it off. Additionally, if a person begins wiping as a traveler and then reaches home, or begins as a resident and then travels, they must default to the resident's 24-hour limit.",
+    "actionable_steps": [
+      "Remove the footgear and perform a full foot wash for Wudu if your 24 or 72-hour period expires.",
+      "Wash your feet if you take the footgear off (or if the majority of your foot slips out).",
+      "If you return home from a journey, recalculate your allowance to the 24-hour resident limit."
+    ],
+    "quran_hadith_evidence": "Derived from foundational limits placed on the concession by the Prophet, ensuring the baseline obligation of washing the feet is not permanently bypassed.",
+    "spiritual_wisdom": "Prioritizes the foundational obligation of washing when the excuse (like travel or temporary continuous wear) is lifted, maintaining the integrity of the ritual.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "flight_land",
+    "scenario_tags": [
+      "Returning Home",
+      "Taking Off Socks",
+      "Time Expiration"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 112-113; Umdah: 67"
+  }
+]

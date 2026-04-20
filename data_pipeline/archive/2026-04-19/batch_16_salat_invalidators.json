@@ -1,0 +1,160 @@
+[
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Things that Invalidate the Prayer (Mufsidat)",
+    "ritual_type": "Salah",
+    "ritual_phase": "Invalidators",
+    "title": "Uttering Human Speech",
+    "action": null,
+    "short_rule": "Uttering human speech, even out of forgetfulness, invalidates the prayer.",
+    "details": "The Hanafi school explicitly rules that uttering a word of human speech, even if out of forgetfulness, completely invalidates the prayer. This also includes responding to someone's statement with 'La ilaha illa Llah', returning a greeting of salam, or making supplications that resemble normal human speech and everyday requests rather than scriptural supplications.",
+    "actionable_steps": [
+      "Refrain from uttering any human speech or conversational words during the prayer.",
+      "Avoid making supplications that resemble everyday requests made to humans.",
+      "Ensure that any verbal responses or exclamations are strictly avoided, even if prompted by an external event."
+    ],
+    "quran_hadith_evidence": "Derived from the foundational prohibition of engaging in worldly discourse while in the sacred state of prayer.",
+    "spiritual_wisdom": "The prayer is an exclusive communion with the Divine; introducing human speech breaks this sacred isolation and inappropriately redirects the worshipper's focus to creation.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "record_voice_over",
+    "scenario_tags": [
+      "Speaking in Prayer",
+      "Forgetfulness",
+      "Invalidators"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Al-Shurunbulali",
+    "volume_page": "161-162"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Things that Invalidate the Prayer (Mufsidat)",
+    "ritual_type": "Salah",
+    "ritual_phase": "Invalidators",
+    "title": "Extraneous Physical Movements",
+    "action": null,
+    "short_rule": "Excessive movement unrelated to the prayer invalidates it, while minor movements are excused.",
+    "details": "Both the Hanafi and Hanbali schools agree that performing a physical action unrelated to the prayer invalidates it if the action is considered 'excessive' or 'a lot'. The Hanbali school notes that this applies regardless of whether the excessive action was done intentionally or absentmindedly. If the action is minimal, such as carrying a child or taking a few steps to open a door (as the Prophet did), it is excused and does not invalidate the prayer.",
+    "actionable_steps": [
+      "Avoid any unnecessary physical movements during the prayer.",
+      "If a minor movement is required for a valid need (like adjusting a garment or stepping slightly), keep it to an absolute minimum.",
+      "Recognize that continuous or excessive fidgeting will break the validity of the prayer."
+    ],
+    "quran_hadith_evidence": "Based on the Prophet's practice of performing minor necessary actions during prayer, such as carrying his granddaughter Umamah and opening the door for 'Aisha, indicating that only excessive movement is prohibited.",
+    "spiritual_wisdom": "Physical stillness reflects internal tranquility (Khushu'). Limiting movement preserves the dignity and solemnity of standing before Allah.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "directions_walk",
+    "scenario_tags": [
+      "Physical Movement",
+      "Fidgeting",
+      "Invalidators"
+    ],
+    "source_book": "Ascent to Felicity, Umdah al-Fiqh",
+    "author": "Al-Shurunbulali, Ibn Qudamah",
+    "volume_page": "Ascent: 161; Umdah: 180"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Things that Invalidate the Prayer (Mufsidat)",
+    "ritual_type": "Salah",
+    "ritual_phase": "Invalidators",
+    "title": "Crying Out Loud or Moaning",
+    "action": null,
+    "short_rule": "Crying or moaning out of worldly pain or calamity invalidates the prayer, but crying out of fear of Hell or desire for Paradise is excused.",
+    "details": "In the Hanafi school, if a worshipper cries out loud, moans, or clears their throat without a valid excuse such that discernible letters are uttered, the prayer is invalidated if it stems from physical pain or a worldly calamity. However, if the crying or moaning is triggered by spiritual reasons, such as the remembrance of Paradise or the Fire, the prayer remains valid.",
+    "actionable_steps": [
+      "Suppress vocal moans or crying caused by physical pain or worldly distress while praying.",
+      "Do not worry if tears or crying naturally occur out of awe, fear of Allah, or contemplation of the Afterlife, as this does not harm the prayer."
+    ],
+    "quran_hadith_evidence": "Worldly expressions of pain are legally akin to human speech and complaint, whereas spiritual crying is a sign of Khushu' (reverence) encouraged in the Qur'an and Sunnah.",
+    "spiritual_wisdom": "This ruling differentiates between complaining about worldly afflictions—which contradicts the state of absolute submission—and spiritual weeping, which signifies a heart deeply connected to the Divine reality.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "sentiment_dissatisfied",
+    "scenario_tags": [
+      "Emotions",
+      "Sickness",
+      "Khushu'"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Al-Shurunbulali",
+    "volume_page": "161-162"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Things that Invalidate the Prayer (Mufsidat)",
+    "ritual_type": "Salah",
+    "ritual_phase": "Invalidators",
+    "title": "Turning the Torso Away from the Qibla",
+    "action": null,
+    "short_rule": "Turning the chest or torso away from the direction of the Qibla invalidates the prayer.",
+    "details": "The Hanafi school stipulates that turning one's torso (chest) away from the Qibla—specifically deviating more than 45 degrees on either side—completely invalidates the prayer. Turning only the face or neck is disliked but does not break the prayer.",
+    "actionable_steps": [
+      "Keep your chest squarely facing the Qibla throughout the entire prayer.",
+      "Avoid twisting or turning the body to look at something.",
+      "If you must look at something out of necessity, turn only the eyes or head slightly, though this remains an undesirable etiquette."
+    ],
+    "quran_hadith_evidence": "Based on the absolute foundational condition of facing the Sacred Mosque (Qibla) to establish the prayer.",
+    "spiritual_wisdom": "Physical orientation toward the Ka'ba grounds the worshipper's spiritual orientation toward Allah, ensuring that neither the heart nor the body turns away from the Divine presence.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "explore_off",
+    "scenario_tags": [
+      "Physical Posture",
+      "Qibla",
+      "Invalidators"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Al-Shurunbulali",
+    "volume_page": "162"
+  },
+  {
+    "module": "The Ritual Prayer (Salat)",
+    "topic": "Things that Invalidate the Prayer (Mufsidat)",
+    "ritual_type": "Salah",
+    "ritual_phase": "Invalidators",
+    "title": "Omitting the Pre-Salam Prostration for Missing Sunnahs",
+    "action": null,
+    "short_rule": "In the Maliki school, omitting a required pre-salam prostration of forgetfulness invalidates the prayer if a long time passes.",
+    "details": "According to the Maliki school, if a person misses three or more emphasized sunnahs, they are required to perform a prostration of forgetfulness before the tasleem. If they omit this prostration and subsequently exit the mosque or a long time elapses, the prayer itself is invalidated.",
+    "actionable_steps": [
+      "Perform the pre-salam prostration of forgetfulness if you omit three or more emphasized sunnahs (if adhering to the Maliki school).",
+      "If you forget this prostration, make it up immediately upon remembering, provided you have not left the mosque or allowed a long time to pass."
+    ],
+    "quran_hadith_evidence": "Based on Maliki derivation regarding the structural integrity of the prayer and compensating for severe deficiencies in its Sunnah components.",
+    "spiritual_wisdom": "Stresses the immense value of the Prophetic sunnahs within the prayer; neglecting to repair their omission demonstrates a lack of care that ultimately compromises the worship.",
+    "madhhab_applicability": [
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "warning",
+    "scenario_tags": [
+      "Forgetfulness",
+      "Prostration of Forgetfulness"
+    ],
+    "source_book": "al-Murshid al-Mu'in",
+    "author": "Ibn 'Ashir",
+    "volume_page": "Line 153"
+  }
+]

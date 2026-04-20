@@ -1,0 +1,131 @@
+[
+  {
+    "module": "Almsgiving (Zakat)",
+    "topic": "Almsgiving (Zakat) and Sadaqat al-Fitr",
+    "ritual_type": "General",
+    "ritual_phase": "Pre-requisites",
+    "title": "Minimum Threshold (Nisab) for Gold and Silver",
+    "action": "Wajib",
+    "short_rule": "Both schools agree the threshold for silver is 200 dirhams, and for gold it is 20 dinars or mithqals, with a 2.5% rate.",
+    "details": "The Hanafi and Maliki texts both stipulate that Zakat becomes obligatory when one's wealth reaches the quantum (nisab). For silver, this is established at 200 dirhams. For gold, the Maliki school specifies 20 dinars, and the Hanafi school specifies 20 mithqals. For both precious metals (and by extension, modern cash currency), the required payment is one-fortieth (one-fourth of one-tenth, equating to 2.5%).",
+    "actionable_steps": [
+      "Calculate your gold, silver, and cash wealth to see if it reaches 20 dinars/mithqals or 200 dirhams in value.",
+      "Ensure a full lunar year (hawl) has passed over this wealth.",
+      "Pay 2.5% of the total value to eligible recipients if your wealth meets or exceeds this threshold."
+    ],
+    "quran_hadith_evidence": "Derived from Prophetic instructions setting the precise minimum limits of wealth upon which mandatory charity is levied.",
+    "spiritual_wisdom": "Establishing a threshold ensures that charity is only taken from surplus wealth, protecting the basic needs of the individual while simultaneously securing the rights of the poor.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "monetization_on",
+    "scenario_tags": [
+      "Calculating Zakat",
+      "Wealth and Assets"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in",
+    "author": "Al-Shurunbulali, Ibn 'Ashir",
+    "volume_page": "Ascent: 247; Murshid: Verses 186-187"
+  },
+  {
+    "module": "Almsgiving (Zakat)",
+    "topic": "Almsgiving (Zakat) and Sadaqat al-Fitr",
+    "ritual_type": "General",
+    "ritual_phase": "Conditions",
+    "title": "Distributing Zakat to Non-Muslims",
+    "action": null,
+    "short_rule": "Hanafis forbid giving Zakat to non-Muslims, while Malikis permit it specifically to mend their hearts towards Islam.",
+    "details": "The Hanafi school rules that it is impermissible to pay obligatory Zakat to a non-Muslim resident (dhimmi), restricting the distribution exclusively to eligible Muslims. The Maliki school also states that recipients must generally be free Muslims, but it explicitly makes an exception for the specific category of 'those whose hearts are to be mended' (mu'allafat al-qulub), permitting Zakat to be given to non-Muslims in order to incline their hearts toward the Islamic faith.",
+    "actionable_steps": [
+      "If following Hanafi fiqh, ensure your Zakat is distributed exclusively to eligible Muslims.",
+      "If following Maliki fiqh, you may allocate a portion of your Zakat to non-Muslims if it serves the specific purpose of mending their hearts towards Islam."
+    ],
+    "quran_hadith_evidence": "Based on the Quranic verse (9:60) outlining the eight eligible categories of Zakat recipients, which explicitly includes 'those whose hearts are to be reconciled.'",
+    "spiritual_wisdom": "Zakat is a mechanism for communal solidarity and economic justice among Muslims, yet it also serves as a profound societal tool for outreach and softening hearts toward the beauty of Islam.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "favorite_border",
+    "scenario_tags": [
+      "Distributing Zakat",
+      "Non-Muslims",
+      "Outreach"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in",
+    "author": "Al-Shurunbulali, Ibn 'Ashir",
+    "volume_page": "Ascent: 252; Murshid: Verses 207-208"
+  },
+  {
+    "module": "Almsgiving (Zakat)",
+    "topic": "Almsgiving (Zakat) and Sadaqat al-Fitr",
+    "ritual_type": "General",
+    "ritual_phase": "Method",
+    "title": "Forms of Payment for Sadaqat al-Fitr",
+    "action": "Wajib",
+    "short_rule": "Malikis require paying a sa' of common staple food, while Hanafis permit paying half a sa' of wheat or its monetary value.",
+    "details": "The Maliki school requires Zakat al-Fitr to be paid as one sa' (about two liters) derived strictly from the common staple food of a people (like wheat, dates, or barley). The Hanafi school specifies the physical amount as half a sa' (2.2 kg) of wheat/flour, or one full sa' (4.4 kg) of dates/barley. Most notably, the Hanafi school permits paying the equivalent monetary value instead of physical food, adding that paying cash is actually superior in times of ease because it more expediently fulfills the diverse needs of the indigent.",
+    "actionable_steps": [
+      "Pay your Zakat al-Fitr before leaving for the 'Id prayer.",
+      "Give one sa' of regional staple food if adhering strictly to the Maliki school.",
+      "If following the Hanafi school, you may conveniently pay the equivalent monetary cash value instead of actual food, which is deemed superior."
+    ],
+    "quran_hadith_evidence": "Based on the Prophet's command to give a sa' of food to purify the fasting person and to feed the poor before the 'Id prayer.",
+    "spiritual_wisdom": "Sadaqat al-Fitr cleanses the fasting person of idle talk and ensures that the poorest members of society can partake in the joy and dignity of the 'Id day without having to beg.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "shopping_basket",
+    "scenario_tags": [
+      "End of Ramadan",
+      "'Id al-Fitr",
+      "Charity"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in",
+    "author": "Al-Shurunbulali, Ibn 'Ashir",
+    "volume_page": "Ascent: 257-258; Murshid: Verses 209-210"
+  },
+  {
+    "module": "Almsgiving (Zakat)",
+    "topic": "Almsgiving (Zakat) and Sadaqat al-Fitr",
+    "ritual_type": "General",
+    "ritual_phase": "Conditions",
+    "title": "Dependents Included in Sadaqat al-Fitr",
+    "action": "Wajib",
+    "short_rule": "Malikis require a man to pay for all financial dependents, whereas Hanafis explicitly exempt him from paying for his wife or adult children.",
+    "details": "In the Maliki school, a person must pay Zakat al-Fitr for himself and all those whom he is financially responsible for. The Hanafi school specifies that a man must pay it on behalf of himself, his minor children, and his servants. However, he is not legally obligated to pay it on behalf of his wife or his adult children, as they are considered legally independent individuals responsible for fulfilling their own obligations.",
+    "actionable_steps": [
+      "If following the Maliki school, pay Zakat al-Fitr for your wife and all of your financial dependents.",
+      "If following the Hanafi school, remind your wife and adult children to pay their own Zakat al-Fitr, though you may voluntarily pay it on their behalf with their consent."
+    ],
+    "quran_hadith_evidence": "Derived from varying legal interpretations of guardianship (wilaya) and individual financial liability (dhimma) within the Sacred Law.",
+    "spiritual_wisdom": "This highlights the delicate balance between the collective responsibility of the head of the household and the individual spiritual and financial accountability of each adult Muslim.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "family_restroom",
+    "scenario_tags": [
+      "Family Responsibilities",
+      "'Id al-Fitr",
+      "Dependents"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in",
+    "author": "Al-Shurunbulali, Ibn 'Ashir",
+    "volume_page": "Ascent: 256-257; Murshid: Verse 209"
+  }
+]

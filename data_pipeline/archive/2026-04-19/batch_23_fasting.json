@@ -1,0 +1,137 @@
+[
+  {
+    "module": "Fasting (Sawm)",
+    "topic": "Fasting (Sawm)",
+    "ritual_type": "Fasting",
+    "ritual_phase": "Pre-requisites",
+    "title": "Timing of the Intention for Fasting",
+    "action": "Wajib",
+    "short_rule": "Shafi'is and Malikis require the intention to be made at night for obligatory fasts, while Hanafis allow it until Islamic midday for current Ramadan fasts.",
+    "details": "According to the Shafi'i and Maliki schools, a necessary precondition for the validity of an obligatory fast is formulating the intention during the preceding night (before true dawn). The Maliki school permits a single intention for consecutive days of fasting, unless a preventive factor interrupts the sequence. The Hanafi school provides a dispensation specifically for current Ramadan fasts, specified vows, and voluntary fasts, allowing the intention to be made any time from the night until just before the Islamic midday (dahwa kubra). However, makeup fasts and expiations in the Hanafi school still strictly require a nighttime intention.",
+    "actionable_steps": [
+      "Make your intention to fast during the night before dawn for all obligatory fasts to ensure validity across all schools.",
+      "If following the Maliki school, a single intention at the beginning of Ramadan suffices for the whole month unless broken by an excuse.",
+      "If you forget to intend at night during Ramadan, you may still form the intention before midday if adhering to the Hanafi school."
+    ],
+    "quran_hadith_evidence": "Derived from the Prophetic statement regarding the necessity of intending to fast before dawn. Hanafis differentiate based on the default communal and fixed nature of the month of Ramadan.",
+    "spiritual_wisdom": "The conscious intention differentiates an act of worship from a mere physical habit or diet, anchoring the believer's abstention solely for the sake of Allah and cultivating mindfulness.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Shafi'i"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "wb_sunny",
+    "scenario_tags": [
+      "Ramadan",
+      "Intention",
+      "Forgetfulness"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, The Accessible Conspectus",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Abu Shuja' al-Asfahani",
+    "volume_page": "Ascent: 215-216; Murshid: Lines 214, 221; Conspectus: 136"
+  },
+  {
+    "module": "Fasting (Sawm)",
+    "topic": "Fasting (Sawm)",
+    "ritual_type": "Fasting",
+    "ritual_phase": "Invalidators",
+    "title": "Acts Requiring Major Expiation (Kaffara)",
+    "action": "Wajib",
+    "short_rule": "Hanafis and Malikis mandate expiation for intentional eating, drinking, or intercourse during Ramadan, whereas Shafi'is restrict it strictly to intercourse.",
+    "details": "In the Hanafi and Maliki schools, deliberately breaking a Ramadan fast by eating, drinking, or engaging in sexual intercourse (without a valid excuse) requires both a makeup day and a severe expiation (kaffara), which consists of freeing a slave, fasting two consecutive months, or feeding sixty poor people. The Shafi'i school strictly limits this major expiation to the act of intentional vaginal intercourse, requiring only a makeup day for intentional eating or drinking.",
+    "actionable_steps": [
+      "Refrain entirely from eating, drinking, and intimacy during daylight hours.",
+      "If a fast is deliberately broken via intercourse, recognize that all schools agree a severe expiation is due.",
+      "If adhering to the Hanafi or Maliki schools, be aware that intentional eating or drinking also triggers this severe expiation."
+    ],
+    "quran_hadith_evidence": "Based on the incident of the Bedouin who confessed to the Prophet that he had ruined his fast by having relations with his wife during Ramadan, and was subsequently ordered to perform the expiation.",
+    "spiritual_wisdom": "The severity of the penalty underscores the profound sanctity of the month of Ramadan, deterring believers from frivolously violating a foundational pillar of their faith.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Shafi'i"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "warning",
+    "scenario_tags": [
+      "Ramadan",
+      "Breaking Fast",
+      "Expiation"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, The Accessible Conspectus",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Abu Shuja' al-Asfahani",
+    "volume_page": "Ascent: 221-223; Murshid: Lines 223-228; Conspectus: 131, 134"
+  },
+  {
+    "module": "Fasting (Sawm)",
+    "topic": "Fasting (Sawm)",
+    "ritual_type": "Fasting",
+    "ritual_phase": "Remedies",
+    "title": "Concessions for Pregnant and Nursing Women",
+    "action": "Mubah",
+    "short_rule": "Hanafis require only makeup fasts for pregnant or nursing women who fear harm, while Shafi'is additionally require an expiation if they feared only for their child.",
+    "details": "The Hanafi school grants pregnant and nursing women a dispensation to break their fast if they have a legitimate, medically sound fear of harm for either themselves or their child; in both scenarios, they are only obligated to make up the missed days later. The Shafi'i school stipulates that if the woman breaks her fast out of fear for her own health, she must make it up. However, if she breaks the fast exclusively out of fear for the health of her child, she must both make up the fast and pay an expiation (fidya) of one mudd of food for each missed day.",
+    "actionable_steps": [
+      "Break the fast if you are pregnant or nursing and legitimately fear harm to yourself or your baby.",
+      "Keep a record of all missed days to make them up after Ramadan.",
+      "If following the Shafi'i school and the fast was broken solely out of fear for the baby, pay an expiation (fidya) in addition to making up the day."
+    ],
+    "quran_hadith_evidence": "Derived from the general Quranic allowance for the sick to break their fast, alongside specific Companion rulings viewing the unborn or nursing child's safety as a distinct legal category requiring compensation.",
+    "spiritual_wisdom": "Islam fiercely protects the preservation of life and health, ensuring that the unborn and infants are not harmed by the mother's obligatory worship, showcasing divine mercy and practicality.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Shafi'i"
+    ],
+    "gender_applicability": [
+      "Female"
+    ],
+    "ui_icon_concept": "pregnant_woman",
+    "scenario_tags": [
+      "Pregnancy",
+      "Nursing",
+      "Women's Fiqh"
+    ],
+    "source_book": "Ascent to Felicity, The Accessible Conspectus",
+    "author": "Al-Shurunbulali, Abu Shuja' al-Asfahani",
+    "volume_page": "Ascent: 231-233; Conspectus: 135"
+  },
+  {
+    "module": "Fasting (Sawm)",
+    "topic": "Fasting (Sawm)",
+    "ritual_type": "Fasting",
+    "ritual_phase": "Conditions",
+    "title": "Days When Fasting is Unlawful",
+    "action": "Haram",
+    "short_rule": "It is prohibited across schools to fast on the two days of 'Id and the days of Tashriq.",
+    "details": "There is scholarly agreement across the Hanafi, Maliki, and Shafi'i schools that fasting on the Day of 'Id al-Fitr and the Day of 'Id al-Adha is strictly prohibited (haram / makruh tahriman). Similarly, fasting on the Days of Tashriq (the three days immediately following 'Id al-Adha) is prohibited. Any fast undertaken on these days is considered invalid.",
+    "actionable_steps": [
+      "Ensure you break your fast and partake in eating and drinking on 'Id al-Fitr and 'Id al-Adha.",
+      "Do not observe any fasts during the three Days of Tashriq following 'Id al-Adha.",
+      "Schedule make-up fasts or voluntary fasts outside of these specific festive days."
+    ],
+    "quran_hadith_evidence": "The Prophet explicitly forbade fasting on the two days of 'Id, declaring them as days of eating, drinking, and remembering Allah.",
+    "spiritual_wisdom": "Celebrating the days of 'Id through feasting demonstrates obedience to Allah, recognizing that true worship includes joyfully partaking in His permissible bounties when He commands it.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Shafi'i"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "block",
+    "scenario_tags": [
+      "'Id",
+      "Prohibited Fasts",
+      "Days of Tashriq"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Mu'in, The Accessible Conspectus",
+    "author": "Al-Shurunbulali, Ibn 'Ashir, Abu Shuja' al-Asfahani",
+    "volume_page": "Ascent: 211; Murshid: Line 221; Conspectus: 130"
+  }
+]

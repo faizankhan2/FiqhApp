@@ -1,0 +1,495 @@
+[
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of physical and spiritual refreshment that prepares you to stand before your Lord. It washes away worldly distractions, leaving you in a state of tranquil purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Pre-requisites",
+    "title": "Forming the Intention",
+    "action_classification": "Obligatory",
+    "short_rule": "Gently resolve in your heart to purify yourself for worship before beginning.",
+    "details": "Your intention is the spiritual foundation of this ritual, aligning your heart with your physical actions.",
+    "actionable_steps": [
+      "Pause for a moment to clear your mind.",
+      "Silently formulate the intention to perform ablution."
+    ],
+    "quran_hadith_evidence": "\"Verily, deeds are by their intentions, and verily every person will have [the reward of] what he intended.\" (Bukhari and Muslim)",
+    "spiritual_wisdom": "A mindful intention transforms a simple washing routine into a deeply rewarding act of devotion.",
+    "madhhab_applicability": [
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "heart",
+    "scenario_tags": [
+      "Preparation for Prayer",
+      "Daily Routine"
+    ],
+    "source_book": "al-Murshid al-Muin, Umdat al-Fiqh",
+    "author": "Ibn `Ashir, Ibn Qudamah",
+    "volume_page": "Line 57, Pages 58-59"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of physical and spiritual refreshment that prepares you to stand before your Lord. It washes away worldly distractions, leaving you in a state of tranquil purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Pre-requisites",
+    "title": "Forming the Intention",
+    "action_classification": "Recommended",
+    "short_rule": "Gently resolve in your heart to purify yourself for worship before beginning.",
+    "details": "Setting an intention adds a layer of mindfulness and blessing, elevating the physical act to a spiritual one.",
+    "actionable_steps": [
+      "Pause for a moment to clear your mind.",
+      "Silently formulate the intention to perform ablution."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "A mindful intention transforms a simple washing routine into a deeply rewarding act of devotion.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "heart",
+    "scenario_tags": [
+      "Preparation for Prayer",
+      "Daily Routine"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "al-Shurunbulali",
+    "volume_page": "Page 41"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of physical and spiritual refreshment that prepares you to stand before your Lord. It washes away worldly distractions, leaving you in a state of tranquil purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Method",
+    "title": "Beginning with God's Name",
+    "action_classification": "Recommended",
+    "short_rule": "Say 'Bismillah' gently before you begin washing.",
+    "details": "Invoking the name of God adds immense blessings to your purification.",
+    "actionable_steps": [
+      "Before applying water, calmly say 'Bismillah'."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Beginning with God's name centers your focus on the divine and transforms the mundane into the sacred.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "lips speaking",
+    "scenario_tags": [
+      "Preparation for Prayer"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Muin, Umdat al-Fiqh",
+    "author": "al-Shurunbulali, Ibn `Ashir, Ibn Qudamah",
+    "volume_page": "Page 41, Line 64, Page 62"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of physical and spiritual refreshment that prepares you to stand before your Lord. It washes away worldly distractions, leaving you in a state of tranquil purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Method",
+    "title": "Rinsing the Mouth and Nose",
+    "action_classification": "Recommended",
+    "short_rule": "Rinse your mouth and draw water lightly into your nose.",
+    "details": "It is a highly encouraged and beautiful practice to rinse the mouth and nose three times to ensure complete cleanliness.",
+    "actionable_steps": [
+      "Take a handful of water.",
+      "Rinse your mouth thoroughly.",
+      "Draw a small amount of water into your nose and gently blow it out."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Cleansing the mouth and nose brings a refreshing feeling and spiritually prepares you to recite the beautiful words of God.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "water drop",
+    "scenario_tags": [
+      "Preparation for Prayer"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Muin",
+    "author": "al-Shurunbulali, Ibn `Ashir",
+    "volume_page": "Page 42, Line 63"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of physical and spiritual refreshment that prepares you to stand before your Lord. It washes away worldly distractions, leaving you in a state of tranquil purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Method",
+    "title": "Rinsing the Mouth and Nose",
+    "action_classification": "Obligatory",
+    "short_rule": "Rinse your mouth and draw water lightly into your nose as part of washing your face.",
+    "details": "Rinsing the mouth and nose is considered an essential and integral component of cleansing the face.",
+    "actionable_steps": [
+      "Take water and rinse your mouth.",
+      "Draw water into your nose and gently expel it."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Cleansing the mouth and nose brings a refreshing feeling and spiritually prepares you to recite the beautiful words of God.",
+    "madhhab_applicability": [
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "water drop",
+    "scenario_tags": [
+      "Preparation for Prayer"
+    ],
+    "source_book": "Umdat al-Fiqh",
+    "author": "Ibn Qudamah",
+    "volume_page": "Pages 59-61"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of physical and spiritual refreshment that prepares you to stand before your Lord. It washes away worldly distractions, leaving you in a state of tranquil purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Method",
+    "title": "Washing the Face and Arms",
+    "action_classification": "Obligatory",
+    "short_rule": "Wash your entire face, and then wash both arms completely up to and including the elbows.",
+    "details": "Ensure water reaches the entirety of your face from the hairline to the chin, and then thoroughly wash your arms, ensuring the elbows are included.",
+    "actionable_steps": [
+      "Splash water over your entire face.",
+      "Wash your right arm up to and including the elbow.",
+      "Wash your left arm up to and including the elbow."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Washing the face and arms cools the body and symbolically washes away the minor missteps of the day.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "hands washing",
+    "scenario_tags": [
+      "Preparation for Prayer"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Muin, Umdat al-Fiqh",
+    "author": "al-Shurunbulali, Ibn `Ashir, Ibn Qudamah",
+    "volume_page": "Page 41, Line 59, Pages 60"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of physical and spiritual refreshment that prepares you to stand before your Lord. It washes away worldly distractions, leaving you in a state of tranquil purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Method",
+    "title": "Wiping the Head",
+    "action_classification": "Obligatory",
+    "short_rule": "Pass your wet hands over at least one-fourth of your head.",
+    "details": "A gentle wipe over a portion of your head fulfills the minimum essential requirement for this step.",
+    "actionable_steps": [
+      "Wet your hands.",
+      "Gently wipe over at least a quarter of your head, starting from the front."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "This gentle wiping is a soothing gesture that grounds your thoughts and brings a sense of inner peace.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "head wipe",
+    "scenario_tags": [
+      "Preparation for Prayer"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "al-Shurunbulali",
+    "volume_page": "Page 41"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of physical and spiritual refreshment that prepares you to stand before your Lord. It washes away worldly distractions, leaving you in a state of tranquil purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Method",
+    "title": "Wiping the Entire Head",
+    "action_classification": "Obligatory",
+    "short_rule": "Pass your wet hands over your entire head.",
+    "details": "Glide your wet hands across your head to fulfill the essential requirement of wiping.",
+    "actionable_steps": [
+      "Wet your hands.",
+      "Wipe from the front of your hairline to the back of your neck."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "This gentle wiping is a soothing gesture that grounds your thoughts and brings a sense of inner peace.",
+    "madhhab_applicability": [
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "head wipe",
+    "scenario_tags": [
+      "Preparation for Prayer"
+    ],
+    "source_book": "al-Murshid al-Muin, Umdat al-Fiqh",
+    "author": "Ibn `Ashir, Ibn Qudamah",
+    "volume_page": "Line 59, Page 61"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of physical and spiritual refreshment that prepares you to stand before your Lord. It washes away worldly distractions, leaving you in a state of tranquil purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Method",
+    "title": "Wiping the Ears",
+    "action_classification": "Recommended",
+    "short_rule": "Gently wipe the inside and outside of your ears.",
+    "details": "Use your wet fingers to lightly clean the grooves of your ears, adding to your overall feeling of purity.",
+    "actionable_steps": [
+      "Use your wet fingers to wipe the inner folds of your ears.",
+      "Wipe the back of your ears with your thumbs."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Cleansing the ears reminds us to be attentive to truth and to listen with compassion.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "ear wipe",
+    "scenario_tags": [
+      "Preparation for Prayer"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Muin",
+    "author": "al-Shurunbulali, Ibn `Ashir",
+    "volume_page": "Page 42, Line 62"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of physical and spiritual refreshment that prepares you to stand before your Lord. It washes away worldly distractions, leaving you in a state of tranquil purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Method",
+    "title": "Wiping the Ears",
+    "action_classification": "Obligatory",
+    "short_rule": "Wipe the inside and outside of your ears as an essential part of wiping the head.",
+    "details": "The ears are beautifully considered part of the head, making their cleansing an essential step in your purification.",
+    "actionable_steps": [
+      "Use your wet fingers to wipe the inner folds of your ears.",
+      "Wipe the back of your ears with your thumbs."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Cleansing the ears reminds us to be attentive to truth and to listen with compassion.",
+    "madhhab_applicability": [
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "ear wipe",
+    "scenario_tags": [
+      "Preparation for Prayer"
+    ],
+    "source_book": "Umdat al-Fiqh",
+    "author": "Ibn Qudamah",
+    "volume_page": "Page 60"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of physical and spiritual refreshment that prepares you to stand before your Lord. It washes away worldly distractions, leaving you in a state of tranquil purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Method",
+    "title": "Washing the Feet",
+    "action_classification": "Obligatory",
+    "short_rule": "Wash both of your feet completely, up to and including the ankles.",
+    "details": "Ensure water reaches all parts of the feet, carefully cleaning between the toes for complete purification.",
+    "actionable_steps": [
+      "Wash your right foot up to and including the ankle.",
+      "Wash your left foot up to and including the ankle."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Washing your feet grounds you, symbolizing walking upon the path of goodness and stability.",
+    "madhhab_applicability": [
+      "Hanafi",
+      "Maliki",
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "feet washing",
+    "scenario_tags": [
+      "Preparation for Prayer"
+    ],
+    "source_book": "Ascent to Felicity, al-Murshid al-Muin, Umdat al-Fiqh",
+    "author": "al-Shurunbulali, Ibn `Ashir, Ibn Qudamah",
+    "volume_page": "Page 41, Line 59, Page 60"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of physical and spiritual refreshment that prepares you to stand before your Lord. It washes away worldly distractions, leaving you in a state of tranquil purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Conditions",
+    "title": "Continuity and Gentle Rubbing",
+    "action_classification": "Obligatory",
+    "short_rule": "Wash your limbs consecutively and gently rub the water over your skin.",
+    "details": "To complete the purification beautifully, avoid long interruptions and ensure your hand passes over the areas being washed.",
+    "actionable_steps": [
+      "Move smoothly from washing one limb to the next.",
+      "Lightly rub the water onto the skin as you wash."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "A continuous and attentive flow keeps your mind present, turning the washing into an active meditation.",
+    "madhhab_applicability": [
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "flowing water",
+    "scenario_tags": [
+      "Preparation for Prayer"
+    ],
+    "source_book": "al-Murshid al-Muin",
+    "author": "Ibn `Ashir",
+    "volume_page": "Lines 57-58"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of physical and spiritual refreshment that prepares you to stand before your Lord. It washes away worldly distractions, leaving you in a state of tranquil purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Conditions",
+    "title": "Order and Continuity",
+    "action_classification": "Obligatory",
+    "short_rule": "Perform the steps in their prescribed sequence without pausing long enough for the previous limb to dry.",
+    "details": "Flowing through the steps in order without long delays ensures the ritual remains a single, cohesive act of devotion.",
+    "actionable_steps": [
+      "Follow the order of face, arms, head, and feet.",
+      "Move steadily to the next limb before the previous one dries completely."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Maintaining sequence and continuity cultivates discipline and presence, harmonizing your outer actions with inner focus.",
+    "madhhab_applicability": [
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "sequence steps",
+    "scenario_tags": [
+      "Preparation for Prayer"
+    ],
+    "source_book": "Umdat al-Fiqh",
+    "author": "Ibn Qudamah",
+    "volume_page": "Page 62"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of physical and spiritual refreshment that prepares you to stand before your Lord. It washes away worldly distractions, leaving you in a state of tranquil purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Invalidators",
+    "title": "Natural Body Exits and Sleep",
+    "action_classification": "Condition",
+    "short_rule": "Renew your purification if you experience natural bodily exits, flowing bleeding, or sleep deeply without being firmly seated.",
+    "details": "Your state of purity is gently lifted by everyday human experiences such as using the restroom, significant bleeding or vomiting, and loss of awareness through deep sleep or fainting.",
+    "actionable_steps": [
+      "Observe if any natural exits or loss of consciousness occur.",
+      "Simply repeat the ablution process to renew your state of purity."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "The need to renew our purity is a gentle reminder of our human nature and our constant reliance on God's renewing mercy.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "refresh symbol",
+    "scenario_tags": [
+      "Maintaining Purity"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "al-Shurunbulali",
+    "volume_page": "Pages 47-48"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of physical and spiritual refreshment that prepares you to stand before your Lord. It washes away worldly distractions, leaving you in a state of tranquil purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Invalidators",
+    "title": "Natural Exits and Touch",
+    "action_classification": "Condition",
+    "short_rule": "Renew your purification after natural bodily exits, deep sleep, or sensual touch.",
+    "details": "The state of purity naturally concludes through events like using the restroom, heavy sleep, fainting, or experiencing sensual touch, gently inviting you to renew your ablution.",
+    "actionable_steps": [
+      "Identify if a natural exit, loss of awareness, or sensual touch has occurred.",
+      "Perform ablution again to restore your spiritual readiness."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Renewing our ablution regularly is an opportunity to wash away the minor burdens of the day and return to a state of mindfulness.",
+    "madhhab_applicability": [
+      "Maliki"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "refresh symbol",
+    "scenario_tags": [
+      "Maintaining Purity"
+    ],
+    "source_book": "al-Murshid al-Muin",
+    "author": "Ibn `Ashir",
+    "volume_page": "Lines 72-75"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of physical and spiritual refreshment that prepares you to stand before your Lord. It washes away worldly distractions, leaving you in a state of tranquil purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Invalidators",
+    "title": "Natural Exits and Camel Meat",
+    "action_classification": "Condition",
+    "short_rule": "Renew your purification after natural bodily exits, sensual touch, or eating camel meat.",
+    "details": "Your purity is naturally lifted by using the restroom, voluminous bleeding, deep sleep, sensual touch, and uniquely, eating camel meat.",
+    "actionable_steps": [
+      "Notice if a natural exit, loss of intellect, sensual touch, or consumption of camel meat occurs.",
+      "Calmly perform ablution again to refresh your state."
+    ],
+    "quran_hadith_evidence": "\"He (blessings and peace be upon him) was asked: should we make wudu' after eating camel's meat? He said yes, make wudu' after eating their meat.\" (Muslim)",
+    "spiritual_wisdom": "These guidelines are mercies that teach us attentiveness to our bodies and habits, maintaining a continuous, mindful connection with God.",
+    "madhhab_applicability": [
+      "Hanbali"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "refresh symbol",
+    "scenario_tags": [
+      "Maintaining Purity"
+    ],
+    "source_book": "Umdat al-Fiqh",
+    "author": "Ibn Qudamah",
+    "volume_page": "Pages 69-71"
+  }
+]

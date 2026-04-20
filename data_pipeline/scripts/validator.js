@@ -1,34 +1,55 @@
 const { z } = require('zod');
 
 /**
- * Fiqh Ruling Schema - Aligned with actual Supabase Schema
+ * Fiqh Ruling Schema - PRODUCTION (Strict Classifications)
  */
 const rulingSchema = z.object({
-  module: z.string().min(3, "Module must be at least 3 characters"),
-  topic: z.string().min(2, "Topic must be at least 2 characters"),
-  title: z.string().min(2, "Title must be at least 2 characters"),
-  action: z.enum(["Fard", "Wajib", "Sunnah", "Mandub", "Mustahab", "Mubah", "Makruh", "Haram", "Mufsid"]).nullable(),
-  short_rule: z.string().max(280, "Short rule should be concise (max 280 chars)"),
-  // Mandatory Descriptive Fields
-  details: z.string().min(10, "Details must be descriptive"),
+  module: z.string(),
+  topic: z.string(),
+  topic_brief: z.string(),
+  ritual_type: z.string(),
   
-  // madhhab_applicability is a text array (_text) in the DB
-  madhhab_applicability: z.array(z.string()).min(1, "At least one Madhhab must be specified"),
+  // The 6 Universal Buckets
+  ritual_phase: z.enum([
+    'Foundations', 
+    'Requirements', 
+    'Execution', 
+    'Boundaries', 
+    'Concessions', 
+    'Excellence'
+  ]),
   
-  // Situational & Peaceful Scholar UX Fields
+  title: z.string(),
+  
+  // The 11 Comprehensive Fiqh Classifications
+  action_classification: z.enum([
+    'Obligatory', 
+    'Pillar', 
+    'Recommended', 
+    'Permissible', 
+    'Disliked', 
+    'Forbidden', 
+    'Condition', 
+    'Trigger', 
+    'Impediment', 
+    'Invalidator', 
+    'Concession'
+  ]),
+  
+  short_rule: z.string(),
+  details: z.string(),
+  actionable_steps: z.array(z.string()).nullable(),
   quran_hadith_evidence: z.string().nullable(),
   spiritual_wisdom: z.string().nullable(),
-  actionable_steps: z.array(z.string()).nullable(),
   
-  scenario_tags: z.array(z.string()).optional().nullable(),
-  arabic_terminology: z.string().optional().nullable(),
-  remedy_or_consequence: z.string().optional().nullable(),
+  madhhab_applicability: z.array(z.enum(['Hanafi', 'Maliki', "Shafi'i", 'Hanbali'])),
+  gender_applicability: z.array(z.enum(['Male', 'Female', 'All'])),
   
-  // Optional metadata
-  ui_icon_concept: z.string().optional().nullable(),
-  source_book: z.string().optional().nullable(),
-  author: z.string().optional().nullable(),
-  volume_page: z.string().optional().nullable(),
+  ui_icon_concept: z.string(),
+  scenario_tags: z.array(z.string()),
+  source_book: z.string(),
+  author: z.string(),
+  volume_page: z.string()
 });
 
 /**
@@ -51,7 +72,7 @@ function validateRulings(data) {
       results.valid.push(result.data);
     } else {
       results.invalid.push({ index, item });
-      results.errors.push(`Row ${index + 1}: ${result.error.issues.map(i => i.message).join(", ")}`);
+      results.errors.push(`Row ${index + 1}: ${result.error.issues.map(i => i.path.join('.') + ': ' + i.message).join(", ")}`);
     }
   });
 

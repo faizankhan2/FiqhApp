@@ -1,0 +1,1724 @@
+[
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a minor ritual purification that cleanses the body and removes ritual impurity, preparing you for acts of worship and fostering inner purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Foundations",
+    "title": "Definition of Purification",
+    "action_classification": "Permissible",
+    "short_rule": "Purification removes filth and ritual impurity.",
+    "details": "Legally, purification refers to the removal of filth from your body, garments, and place of prayer, as well as the removal of your state of ritual impurity, thereby rendering you in a state of ritual purity.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "This act allows you to enter a state of ritual purity, which is essential for connecting with the Divine through worship.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Cleanliness",
+    "scenario_tags": [
+      "Definition",
+      "Ritual Purity",
+      "Legal Terminology"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "41 (footnote 50)"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a minor ritual purification that cleanses the body and removes ritual impurity, preparing you for acts of worship and fostering inner purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Foundations",
+    "title": "Definition of an Obligatory Integral (Farḍ)",
+    "action_classification": "Obligatory",
+    "short_rule": "An integral is a core component of an action.",
+    "details": "An obligatory integral (farḍ) is that which an action is composed of and that which must be performed for the action to be complete and valid. If any one integral is omitted, the entire action is deemed invalid, and you would incur sin if it were intentionally omitted.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Understanding the integrals helps you ensure your acts of worship are complete and accepted, bringing you closer to divine pleasure.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Core Component",
+    "scenario_tags": [
+      "Definition",
+      "Legal Terminology",
+      "Obligation"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "41 (footnote 52)"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a minor ritual purification that cleanses the body and removes ritual impurity, preparing you for acts of worship and fostering inner purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Foundations",
+    "title": "Legal Reason for Performing Ablution",
+    "action_classification": "Trigger",
+    "short_rule": "Ablution is required for acts needing ritual purity.",
+    "details": "The legal reason for performing ablution is the desire to do that which is not permissible except in a state of ablution, such as the ritual prayer or touching a copy of the Qurʾān. It can also be triggered by a divine command due to the near expiration of the prayer time.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Ablution is a key that unlocks acts of worship, allowing you to engage with the Divine in a state of readiness and reverence.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Worship Readiness",
+    "scenario_tags": [
+      "Purpose",
+      "Requirement",
+      "Ritual Prayer",
+      "Qur'an"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "45"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a minor ritual purification that cleanses the body and removes ritual impurity, preparing you for acts of worship and fostering inner purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Foundations",
+    "title": "Conditions for Legal Responsibility to Perform Ablution",
+    "action_classification": "Condition",
+    "short_rule": "Specific conditions must be met for ablution to be obligatory.",
+    "details": "You are not obligated to perform ablution unless all of these conditions are fulfilled: being Muslim, having reached puberty, being sane, having terminated menstruation, postnatal bleeding, or the state of ritual impurity, having access to and ability to use sufficient purifying water, having the ability to perform the prayer, and the divine command being directed to you due to the near expiration of the prayer time.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "These conditions are a mercy, ensuring that the obligation of ablution is placed only upon those who are capable and ready to fulfill it.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Eligibility",
+    "scenario_tags": [
+      "Obligation",
+      "Responsibility",
+      "Legal Conditions"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "45 (and footnote 74)"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a minor ritual purification that cleanses the body and removes ritual impurity, preparing you for acts of worship and fostering inner purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Foundations",
+    "title": "Conditions for the Validity of Ablution",
+    "action_classification": "Condition",
+    "short_rule": "Ablution is valid only if specific conditions are met.",
+    "details": "For your ablution to be valid, purifying water must completely encompass the skin of the limbs that must be washed (the obligatory integrals), anything that blocks water from reaching the surface of the skin must be removed, and any state that contradicts ablution must end while you are washing.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "These conditions ensure the purity of your ablution, allowing your worship to be sound and accepted by the Divine.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Validity",
+    "scenario_tags": [
+      "Validity",
+      "Legal Conditions",
+      "Purity"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "45 (and footnote 75)"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a minor ritual purification that cleanses the body and removes ritual impurity, preparing you for acts of worship and fostering inner purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Foundations",
+    "title": "Legal Ruling of Ablution",
+    "action_classification": "Permissible",
+    "short_rule": "Ablution permits previously impermissible acts.",
+    "details": "The legal ruling (ḥukm) of ablution is the permissibility of that which was impermissible before it, such as performing the prayer and touching a copy of the Qurʾān.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Ablution opens the door to deeper engagement with worship, allowing you to connect with the Divine through prayer and sacred texts.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Enabling Worship",
+    "scenario_tags": [
+      "Purpose",
+      "Legal Ruling",
+      "Permissibility"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "46"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a minor ritual purification that cleanses the body and removes ritual impurity, preparing you for acts of worship and fostering inner purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Foundations",
+    "title": "Ablution as Obligatory (Farḍ)",
+    "action_classification": "Obligatory",
+    "short_rule": "Ablution is obligatory for specific acts of worship.",
+    "details": "Ablution is obligatory (farḍ) when you are in a state of minor ritual impurity and intend to perform the ritual prayer, the prostration of recital, or touch a verse of the Qurʾān (unless with a nonattached barrier).",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Performing ablution for these acts is a fundamental expression of your devotion and respect for the Divine commands.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Mandatory Worship",
+    "scenario_tags": [
+      "Obligation",
+      "Ritual Prayer",
+      "Qur'an",
+      "Prostration of Recital"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "46"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a minor ritual purification that cleanses the body and removes ritual impurity, preparing you for acts of worship and fostering inner purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Foundations",
+    "title": "Ablution as Mandatory (Wājib)",
+    "action_classification": "Obligatory",
+    "short_rule": "Ablution is mandatory for circumambulation and Qur'anic exegesis.",
+    "details": "Ablution is mandatory (wājib) when you are in a state of minor ritual impurity and intend to perform circumambulation (ṭawāf) around the Kaʿba or touch a book of Qurʾānic exegesis (tafsīr).",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "These acts, while not strictly obligatory for ablution, are elevated in importance, and performing ablution for them enhances your spiritual connection.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Required Reverence",
+    "scenario_tags": [
+      "Mandatory",
+      "Circumambulation",
+      "Qur'anic Exegesis"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "46"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a minor ritual purification that cleanses the body and removes ritual impurity, preparing you for acts of worship and fostering inner purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Foundations",
+    "title": "Ablution as Recommended (Mandūb)",
+    "action_classification": "Recommended",
+    "short_rule": "Ablution is recommended in various situations.",
+    "details": "Ablution is recommended (mandūb) when you are in a state of minor ritual impurity in cases such as before touching a book of jurisprudence, to renew ablution for another prayer, to avoid scholarly disagreement (e.g., after touching a woman or one's genitalia), before sleeping, after waking up from sleep, after every sin, or after laughing out loud outside of the prayer.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Embracing these recommended acts of ablution deepens your spiritual discipline and brings you closer to the Divine through consistent remembrance and purity.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Voluntary Purity",
+    "scenario_tags": [
+      "Recommended",
+      "Spiritual Practice",
+      "Daily Life"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "47"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a ritual purification that cleanses the body and prepares you for prayer and other acts of worship, bringing you closer to the Divine.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Requirements",
+    "title": "Being Muslim",
+    "action_classification": "Condition",
+    "short_rule": "You must be Muslim to be legally responsible for ablution.",
+    "details": "For ablution to be obligatory upon you, you must be a Muslim. This is a fundamental prerequisite for all acts of worship in Islam.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Embrace the path of Islam with a sincere heart, for it is the foundation upon which all your acts of devotion are built, leading to inner peace and connection with Allah.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Faith",
+    "scenario_tags": [
+      "Legal Responsibility",
+      "Conversion"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "45"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a ritual purification that cleanses the body and prepares you for prayer and other acts of worship, bringing you closer to the Divine.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Requirements",
+    "title": "Reaching Puberty",
+    "action_classification": "Condition",
+    "short_rule": "You must have reached puberty to be legally responsible for ablution.",
+    "details": "Ablution becomes obligatory for you once you have reached the age of puberty. Before this, it is encouraged for training, but not a legal obligation.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "As you mature and reach puberty, the divine commands become a personal responsibility, guiding you towards a deeper and more conscious relationship with your Creator.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Maturity",
+    "scenario_tags": [
+      "Legal Responsibility",
+      "Age"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "45"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a ritual purification that cleanses the body and prepares you for prayer and other acts of worship, bringing you closer to the Divine.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Requirements",
+    "title": "Being Sane",
+    "action_classification": "Condition",
+    "short_rule": "You must be sane to be legally responsible for ablution.",
+    "details": "Sanity is a condition for legal responsibility. If you are not sane, the obligation of ablution does not apply to you.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "The gift of intellect and a sound mind allows you to comprehend and fulfill your spiritual duties, fostering a mindful connection with the Divine.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Mind",
+    "scenario_tags": [
+      "Legal Responsibility",
+      "Mental Capacity"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "45"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a ritual purification that cleanses the body and prepares you for prayer and other acts of worship, bringing you closer to the Divine.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Requirements",
+    "title": "Termination of Major Ritual Impurity",
+    "action_classification": "Condition",
+    "short_rule": "You must be free from menstruation, postnatal bleeding, or the state of ritual impurity.",
+    "details": "Ablution is a prerequisite for prayer. Therefore, you must ensure that any state of major ritual impurity, such as menstruation, postnatal bleeding, or other states requiring a full purificatory bath (ghusl), has ended before performing ablution.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Purity of body and soul is a gateway to divine presence. By ensuring you are free from major ritual impurities, you prepare yourself to stand before Allah in a state of readiness and devotion.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "Female"
+    ],
+    "ui_icon_concept": "Purity",
+    "scenario_tags": [
+      "Menstruation",
+      "Postnatal Bleeding",
+      "Major Impurity"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "45"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a ritual purification that cleanses the body and prepares you for prayer and other acts of worship, bringing you closer to the Divine.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Requirements",
+    "title": "Access to Purifying Water",
+    "action_classification": "Condition",
+    "short_rule": "You must have access to and be able to use sufficient purifying water.",
+    "details": "For ablution to be valid, you must have access to water that is pure and sufficient for the ritual. If purifying water is unavailable or its use is harmful, dry ablution (tayammum) may be permissible.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Water, a symbol of life and purity, is a mercy from Allah. When it is available, use it with gratitude to cleanse yourself, preparing for prayer with a refreshed spirit.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Water",
+    "scenario_tags": [
+      "Water Availability",
+      "Purity"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "45"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a ritual purification that cleanses the body and prepares you for prayer and other acts of worship, bringing you closer to the Divine.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Requirements",
+    "title": "Ability to Perform Prayer",
+    "action_classification": "Condition",
+    "short_rule": "You must be able to perform the prayer for ablution to be obligatory.",
+    "details": "The obligation of ablution is tied to the ability to perform prayer. If you are unable to perform prayer due to circumstances, the obligation of ablution may be lifted or altered.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Allah burdens no soul beyond its capacity. Your ability to pray is a blessing, and ablution is the beautiful preparation that honors this sacred act, connecting you to the Divine with humility.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Prayer Readiness",
+    "scenario_tags": [
+      "Prayer",
+      "Capacity"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "45"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a ritual purification that cleanses the body and prepares you for prayer and other acts of worship, bringing you closer to the Divine.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Requirements",
+    "title": "Divine Command for Near Prayer Time Expiration",
+    "action_classification": "Condition",
+    "short_rule": "The divine command for ablution is directed to you if the prayer time is nearing its end.",
+    "details": "Ablution becomes a pressing obligation when the time for prayer is about to expire. This emphasizes the importance of performing prayer within its prescribed window.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "The call to prayer is a call to your Lord. When time is short, hasten to purify yourself, for each moment of devotion is a precious opportunity to draw closer to the Divine.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Time Sensitivity",
+    "scenario_tags": [
+      "Prayer Time",
+      "Urgency"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "45"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a ritual purification of specific body parts, essential for prayer and other acts of worship, ensuring you are in a state of ritual purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Boundaries",
+    "title": "Exit of Anything from the Two Private Openings",
+    "action_classification": "Invalidator",
+    "short_rule": "The exit of anything from the two private openings.",
+    "details": "Your ablution is nullified by anything that exits from the two private openings (namely the penis or vagina, and the anus). The appearance of filth at the tip or edge of these openings is considered an 'exit' and therefore nullifies your ablution. For women, clear vaginal discharge does not nullify ablution, but if it is colored, it does.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Maintaining purity in your ablution is a gentle reminder of the inner cleanliness you seek in your connection with the Divine.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Exit from private parts",
+    "scenario_tags": [
+      "Bodily discharge",
+      "Impurity",
+      "Private parts"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "47"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a ritual purification of specific body parts, essential for prayer and other acts of worship, ensuring you are in a state of ritual purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Boundaries",
+    "title": "Flowing Filth from Other Body Parts",
+    "action_classification": "Invalidator",
+    "short_rule": "Flowing filth from other than the two private openings.",
+    "details": "Your ablution is nullified by filth that flows from other than the two private openings, such as blood or pus. For this to nullify ablution, the filth must 'flow' beyond the point of exit to a place that normally must be cleaned. If fluid simply rises to the skin surface without flowing out, such as blood surfacing at an abrasion, your ablution is not nullified. Bleeding in your mouth also nullifies ablution if your saliva becomes red or pink.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "The care you take in purifying your body reflects your aspiration for inner cleanliness and readiness to stand before your Lord.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Flowing blood/pus",
+    "scenario_tags": [
+      "Bodily fluids",
+      "Impurity",
+      "Wounds"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "47"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a ritual purification of specific body parts, essential for prayer and other acts of worship, ensuring you are in a state of ritual purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Boundaries",
+    "title": "Vomiting a Mouthful or More",
+    "action_classification": "Invalidator",
+    "short_rule": "Vomiting a mouthful or more.",
+    "details": "Your ablution is nullified if you vomit a mouthful or more. A 'mouthful' is defined as an amount that your mouth cannot withhold without strain. This ruling applies to any type of vomit, but not to phlegm, regardless of the amount.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Even in moments of physical discomfort, your intention to maintain purity is a testament to your devotion and resilience.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Vomiting",
+    "scenario_tags": [
+      "Bodily discharge",
+      "Illness"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "48"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a ritual purification of specific body parts, essential for prayer and other acts of worship, ensuring you are in a state of ritual purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Boundaries",
+    "title": "Sleeping in an Unstable Position",
+    "action_classification": "Invalidator",
+    "short_rule": "Sleeping in a position where buttocks are not firmly planted.",
+    "details": "Your ablution is nullified if you sleep in a position such that your buttocks are not firmly planted onto the ground, such as while lying down or leaning on your side. However, if you sleep with your buttocks firmly planted on the ground or any firm surface, your ablution is not nullified.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Even in rest, mindfulness of your state of purity helps you maintain a continuous connection with the Divine.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Unstable sleep",
+    "scenario_tags": [
+      "Sleep",
+      "Loss of control"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "48"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a ritual purification of specific body parts, essential for prayer and other acts of worship, ensuring you are in a state of ritual purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Boundaries",
+    "title": "Loss of Consciousness",
+    "action_classification": "Invalidator",
+    "short_rule": "Loss of consciousness.",
+    "details": "Your ablution is nullified by any loss of consciousness, such as fainting.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "The state of purity requires a conscious awareness, reminding you to return to mindfulness after any period of unawareness.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Fainting",
+    "scenario_tags": [
+      "Loss of control",
+      "Unconsciousness"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "48"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a ritual purification of specific body parts, essential for prayer and other acts of worship, ensuring you are in a state of ritual purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Boundaries",
+    "title": "Insanity",
+    "action_classification": "Invalidator",
+    "short_rule": "Insanity.",
+    "details": "Your ablution is nullified by a state of insanity.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "The requirements of purity are tied to sound mind, emphasizing the importance of mental well-being in your spiritual journey.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Mental incapacitation",
+    "scenario_tags": [
+      "Mental state",
+      "Loss of control"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "48"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a ritual purification of specific body parts, essential for prayer and other acts of worship, ensuring you are in a state of ritual purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Boundaries",
+    "title": "Drunkenness",
+    "action_classification": "Invalidator",
+    "short_rule": "Drunkenness.",
+    "details": "Your ablution is nullified by a state of drunkenness.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Maintaining clarity of mind is essential for your worship, and purity reflects this inner state.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Intoxication",
+    "scenario_tags": [
+      "Intoxication",
+      "Loss of control"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "48"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a ritual purification of specific body parts, essential for prayer and other acts of worship, ensuring you are in a state of ritual purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Boundaries",
+    "title": "Loud Laughter During Prayer (Adult)",
+    "action_classification": "Invalidator",
+    "short_rule": "Laughing out loud, by an adult, while performing the prayer.",
+    "details": "Your ablution is nullified if you, as an adult, laugh out loud while performing the ritual prayer (salat).",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "The solemnity of prayer calls for reverence, and maintaining your ablution during it helps you focus on your devotion.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Loud laughter",
+    "scenario_tags": [
+      "Prayer",
+      "Laughter",
+      "Adult"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "48"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution (Wudu) is a ritual purification of specific body parts, essential for prayer and other acts of worship, ensuring you are in a state of ritual purity.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Boundaries",
+    "title": "Direct Contact Between an Erect Penis and Vagina",
+    "action_classification": "Invalidator",
+    "short_rule": "Direct contact between an erect penis and vagina.",
+    "details": "Your ablution is nullified by contact between an erect penis and vagina. This applies if there is no thick cloth or similar barrier preventing the feeling of body heat between the organs.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "Understanding the boundaries of purity helps you maintain a state of readiness for worship and a mindful approach to intimate relations.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Sexual contact",
+    "scenario_tags": [
+      "Sexual activity",
+      "Direct contact"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "48"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a ritual purification involving washing specific body parts with water, essential for prayer and other acts of worship, bringing inner and outer cleanliness.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Concessions",
+    "title": "Exemption for Painters with Nail Contamination",
+    "action_classification": "Concession",
+    "short_rule": "Painters are excused for small amounts of paint under their nails during ablution.",
+    "details": "For both washing and wiping, a necessary condition of validity is the absence of any solid barrier on the surface of the limb that would prevent wetness from reaching the skin. An exception is made for those whose profession entails dealing with such a substance, like a painter, who is excused for small amounts of paint under their nails.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "This mercy acknowledges the practicalities of daily life, ensuring that your devotion remains accessible despite occupational challenges.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Paintbrush",
+    "scenario_tags": [
+      "Occupation",
+      "Nails",
+      "Difficulty",
+      "Exemption"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "page 45, footnote 75"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a ritual purification involving washing specific body parts with water, essential for prayer and other acts of worship, bringing inner and outer cleanliness.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Concessions",
+    "title": "Permissibility of Wiping Over Footgear",
+    "action_classification": "Concession",
+    "short_rule": "You may wipe over footgear (khuffs) instead of washing your feet during ablution, whether traveling or at home.",
+    "details": "Both men and women are permitted to wipe over their khuffs, whether they are traveling or residing in their homes. The khuffs must cover both ankles, even if they are made of dense wool.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "This ease is a divine gift, simplifying purification for you while maintaining its spiritual essence.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Footgear",
+    "scenario_tags": [
+      "Travel",
+      "Residence",
+      "Ease",
+      "Footwear"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "page 47"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a ritual purification involving washing specific body parts with water, essential for prayer and other acts of worship, bringing inner and outer cleanliness.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Concessions",
+    "title": "Conditions for Valid Wiping Over Footgear",
+    "action_classification": "Condition",
+    "short_rule": "To wipe over khuffs, you must have completed ablution before wearing them.",
+    "details": "To be able to wipe khuffs, you must have completed your ablution before their nullification. However, it is not a condition to complete ablution before wearing the khuffs. If you washed your two feet, wore the khuffs, and then completed your ablution, it would be valid to wipe the khuffs afterwards.",
+    "actionable_steps": [
+      "1. Perform a complete ablution.",
+      "2. Wear your footgear.",
+      "3. When ablution is nullified, wipe over the footgear instead of washing feet."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "These guidelines ensure the integrity of your purification while offering practical flexibility.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Footgear",
+    "scenario_tags": [
+      "Conditions",
+      "Footwear",
+      "Validity"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "page 48"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a ritual purification involving washing specific body parts with water, essential for prayer and other acts of worship, bringing inner and outer cleanliness.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Concessions",
+    "title": "Time Limits for Wiping Over Footgear",
+    "action_classification": "Concession",
+    "short_rule": "Residents may wipe for one day and night, travelers for three days and nights.",
+    "details": "If you are a resident, you may wipe over your khuffs for one complete day and night (24 hours). If you are a traveler, you may wipe for three complete days and nights (72 hours). This time period begins from the moment your ablution is nullified after having worn the khuffs in a state of ritual purity.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "These timeframes are a divine accommodation, allowing you ease in your journeys and daily life.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Clock",
+    "scenario_tags": [
+      "Time Limit",
+      "Travel",
+      "Residence",
+      "Footwear"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "page 48"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a ritual purification involving washing specific body parts with water, essential for prayer and other acts of worship, bringing inner and outer cleanliness.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Concessions",
+    "title": "Permissibility of Wiping Over Casts or Bandages",
+    "action_classification": "Concession",
+    "short_rule": "You may wipe over a cast, bandage, or dressing on a wounded limb for as long as the injury persists.",
+    "details": "If you have a broken or wounded limb, you may wipe its cast, bandage, or dressing for as long as the excuse remains. This is permissible even if the cast was placed on the limb while you were in a state of major or minor ritual impurity. It is not a condition to wipe the entire cast, though wiping most of it is required.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "This is a profound mercy, ensuring your ability to maintain purity and connection to the Divine even during times of physical hardship.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Bandage",
+    "scenario_tags": [
+      "Injury",
+      "Illness",
+      "Ease",
+      "Bandage"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "page 49"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a ritual purification involving washing specific body parts with water, essential for prayer and other acts of worship, bringing inner and outer cleanliness.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Concessions",
+    "title": "No Intention Required for Wiping Over Casts",
+    "action_classification": "Concession",
+    "short_rule": "Wiping over a cast does not require a specific intention.",
+    "details": "Unlike wiping over khuffs, wiping a cast (or bandage/dressing) has the legal ruling of 'washing,' and is hence not deemed a 'replacement.' This means you do not need a specific intention for wiping the cast.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "This ease simplifies the act of purification, allowing you to focus on the broader spiritual meaning of your worship.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Intention",
+    "scenario_tags": [
+      "Injury",
+      "Ease",
+      "Intention"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "page 50, footnote 115"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a ritual purification involving washing specific body parts with water, essential for prayer and other acts of worship, bringing inner and outer cleanliness.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Concessions",
+    "title": "Ablution for Chronic Conditions",
+    "action_classification": "Concession",
+    "short_rule": "If you have a continuous chronic condition, perform ablution at the start of each prayer time.",
+    "details": "If bleeding from dysfunctional uterine bleeding (istihāda), or other continuous conditions like nosebleeds, urinary incontinence, constant diarrhea, or continuous gas release, persists for the duration of an entire prayer time, you are considered to have a chronic excuse. In this case, you must perform ablution at the beginning of each prayer time. This ablution remains valid for the entire prayer time, allowing you to pray any amount of obligatory or voluntary prayers, even if the condition recurs during that time.",
+    "actionable_steps": [
+      "1. At the start of each prayer time, perform ablution.",
+      "2. This ablution is valid for all prayers and acts of worship until the next prayer time begins, even if the condition recurs."
+    ],
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "This divine provision offers profound relief, allowing you to maintain your acts of worship and connection to the Divine despite ongoing health challenges.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Chronic Illness",
+    "scenario_tags": [
+      "Chronic Illness",
+      "Ease",
+      "Prayer Time",
+      "Dysfunctional Bleeding"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "page 58"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a ritual purification involving washing specific body parts with water, essential for prayer and other acts of worship, bringing inner and outer cleanliness.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Concessions",
+    "title": "Establishing a Chronic Excuse",
+    "action_classification": "Condition",
+    "short_rule": "A chronic excuse is established if a condition persists for an entire prayer time, preventing ablution and prayer.",
+    "details": "To establish a chronic excuse, the condition must continue for the duration of an entire prayer time, making it impossible for you to perform ablution and prayer without its occurrence. Once established, you are considered chronically excused and may pray any amount of obligatory or voluntary prayers after performing ablution with this excuse, even if the excuse recurs. This ablution is invalidated only by the expiration of the prayer time.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "This framework ensures that divine mercy is extended to you in your persistent struggles, making worship accessible and alleviating hardship.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Chronic Illness",
+    "scenario_tags": [
+      "Chronic Illness",
+      "Conditions",
+      "Validity"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "page 59"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a ritual purification involving washing specific body parts with water, essential for prayer and other acts of worship, bringing inner and outer cleanliness.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Concessions",
+    "title": "Continuity of a Chronic Excuse",
+    "action_classification": "Condition",
+    "short_rule": "A chronic excuse continues if the condition occurs at least once in every subsequent prayer time.",
+    "details": "For a chronic excuse to remain continuous, the condition must occur at least once within each subsequent prayer time. If this continuity is maintained, you continue to benefit from the concession of performing ablution once per prayer time.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "The continuity of this mercy reflects the enduring compassion of the Divine, supporting you through ongoing challenges.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Chronic Illness",
+    "scenario_tags": [
+      "Chronic Illness",
+      "Conditions",
+      "Continuity"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "page 59"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a ritual purification involving washing specific body parts with water, essential for prayer and other acts of worship, bringing inner and outer cleanliness.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Concessions",
+    "title": "Termination of a Chronic Excuse",
+    "action_classification": "Condition",
+    "short_rule": "A chronic excuse terminates if a prayer time passes without any occurrence of the condition.",
+    "details": "Your chronic excuse is considered terminated, meaning you are no longer excused, if an entire prayer time elapses without a single occurrence of the condition. Once terminated, you must perform ablution normally for each prayer.",
+    "actionable_steps": null,
+    "quran_hadith_evidence": null,
+    "spiritual_wisdom": "This guidance helps you discern when the divine ease is no longer needed, encouraging a return to standard practices when health permits.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Chronic Illness",
+    "scenario_tags": [
+      "Chronic Illness",
+      "Conditions",
+      "Termination"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "page 59"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Washing the Face",
+    "action_classification": "Obligatory",
+    "short_rule": "Wash your entire face, from the top of your forehead to the bottom of your chin, and from one earlobe to the other.",
+    "details": "For those with a thick beard, ensure water reaches the hair that lies on the face. If your beard is thin, water must reach the underlying skin. This complete washing is a fundamental part of your ablution.",
+    "actionable_steps": [
+      "Wash your face from the top of your forehead to the bottom of your chin.",
+      "Extend the wash from one earlobe to the other.",
+      "If you have a thick beard, ensure water flows over the beard on your face.",
+      "If you have a thin beard, ensure water reaches the skin beneath it."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "This act symbolizes cleansing your outward appearance, preparing your entire being to turn towards Allah with purity and sincerity.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Face Wash",
+    "scenario_tags": [
+      "Ablution",
+      "Obligatory",
+      "Face",
+      "Washing"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "42"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Washing the Arms",
+    "action_classification": "Obligatory",
+    "short_rule": "Wash both your arms, including your elbows.",
+    "details": "Ensure that water flows over your entire arm, from your fingertips up to and including your elbows. This is an essential step for the validity of your ablution.",
+    "actionable_steps": [
+      "Wash your right arm, starting from the fingertips.",
+      "Ensure water covers the entire arm, up to and including the elbow.",
+      "Repeat for your left arm."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "Washing your arms signifies purifying your actions and intentions, seeking to use your hands only for good deeds.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Arm Wash",
+    "scenario_tags": [
+      "Ablution",
+      "Obligatory",
+      "Arms",
+      "Washing"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "42"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Wiping a Fourth of the Head",
+    "action_classification": "Obligatory",
+    "short_rule": "Wipe at least a fourth of your head with wet hands.",
+    "details": "The area to be wiped is from above the ears. You may not wipe over hair that hangs below the ears, even if it is tied up above the head. This wiping is a necessary integral for your ablution.",
+    "actionable_steps": [
+      "Place your wet hand onto at least a fourth of your head.",
+      "Ensure the wetness touches the area from above the ears."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "This act symbolizes the cleansing of your thoughts and intentions, seeking divine guidance and wisdom.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Head Wipe",
+    "scenario_tags": [
+      "Ablution",
+      "Obligatory",
+      "Head",
+      "Wiping"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "42"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Washing the Feet",
+    "action_classification": "Obligatory",
+    "short_rule": "Wash both your feet, including your ankles.",
+    "details": "Ensure that water flows over your entire foot, from your toes up to and including your ankles. This complete washing is a fundamental part of your ablution.",
+    "actionable_steps": [
+      "Wash your right foot, starting from the toes.",
+      "Ensure water covers the entire foot, up to and including the ankle.",
+      "Repeat for your left foot."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "Washing your feet represents purifying your path and steps, seeking to walk only in ways that are pleasing to Allah.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Foot Wash",
+    "scenario_tags": [
+      "Ablution",
+      "Obligatory",
+      "Feet",
+      "Washing"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "42"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Intention for Ablution",
+    "action_classification": "Recommended",
+    "short_rule": "Form the intention for ablution in your heart.",
+    "details": "While not an obligatory integral, forming the intention (niyya) in your heart at the beginning of ablution is an emphasized sunna, bringing you closer to the prophetic practice.",
+    "actionable_steps": [
+      "Form the intention in your heart to perform ablution."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "Intention transforms a physical act into an act of worship, connecting your inner purpose with your outward actions, making your ablution more meaningful.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Intention",
+    "scenario_tags": [
+      "Ablution",
+      "Recommended",
+      "Intention"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "42"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Using the Toothstick (Siwak)",
+    "action_classification": "Recommended",
+    "short_rule": "Use a toothstick to clean your mouth.",
+    "details": "Using the toothstick (siwak) is an emphasized sunna, ideally performed before or while rinsing your mouth. If a toothstick is unavailable or cannot be used, you may use your finger and thumb instead.",
+    "actionable_steps": [
+      "Use a toothstick to clean your mouth before or while rinsing it.",
+      "If a toothstick is not available or cannot be used, use your finger and thumb instead."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "The siwak purifies the mouth, which is the gateway for speech and remembrance of Allah, enhancing the spiritual quality of your worship.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Toothstick",
+    "scenario_tags": [
+      "Ablution",
+      "Recommended",
+      "Siwak",
+      "Oral Hygiene"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "42"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Mentioning the Name of Allah (Tasmiya)",
+    "action_classification": "Recommended",
+    "short_rule": "Say 'Bismillah' at the beginning of your ablution.",
+    "details": "Mentioning the Name of Allah (tasmiya), such as 'Bismillahi 'r-Rahmani 'r-Rahim' ('In the Name of Allah, Most Merciful, Most Compassionate'), is an emphasized sunna to begin your ablution.",
+    "actionable_steps": [
+      "Say 'Bismillahi 'r-Rahmani 'r-Rahim' at the onset of your ablution."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "Beginning with Allah's Name invokes His blessings and purifies your intention, transforming a routine act into a sacred one.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Basmala",
+    "scenario_tags": [
+      "Ablution",
+      "Recommended",
+      "Tasmiya",
+      "Invocation"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "42"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Washing Hands to Wrists",
+    "action_classification": "Recommended",
+    "short_rule": "Wash your hands up to and including the wrists at the beginning of ablution.",
+    "details": "This is an emphasized sunna to perform at the very start of your ablution, ensuring initial cleanliness before proceeding with other steps.",
+    "actionable_steps": [
+      "Wash your hands up to and including your wrists at the beginning of ablution."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "This initial washing prepares your hands, the instruments of many actions, for the sacred task of purification.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Hand Wash",
+    "scenario_tags": [
+      "Ablution",
+      "Recommended",
+      "Hands",
+      "Washing"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "42"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Maintaining Correct Order of Limbs",
+    "action_classification": "Recommended",
+    "short_rule": "Follow the order of limbs as listed in Allah's Book.",
+    "details": "While not an obligation, performing ablution by washing the limbs in the order mentioned in the Qur'an (face, arms, head, and feet) is an emphasized sunna. Deviating from this order, though not invalidating ablution, is considered doing wrong (isaa).",
+    "actionable_steps": [
+      "Wash the face.",
+      "Wash the arms.",
+      "Wipe the head.",
+      "Wash the feet."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "Following the prescribed order reflects reverence and submission to divine instruction, bringing greater blessings to your act of worship.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Order of Limbs",
+    "scenario_tags": [
+      "Ablution",
+      "Recommended",
+      "Order",
+      "Limbs"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "43"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Continuity in Washing Limbs",
+    "action_classification": "Recommended",
+    "short_rule": "Wash each limb before the previous one dries.",
+    "details": "Maintaining continuity means washing each limb consecutively without pausing, ensuring that the previous limb does not dry before the next is washed. Some scholars also define it as not engaging in any unrelated act during ablution.",
+    "actionable_steps": [
+      "Wash each limb of ablution in succession, without allowing the previous limb to dry completely."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "This continuity fosters focus and presence of mind, allowing you to fully immerse yourself in the act of purification.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Continuity",
+    "scenario_tags": [
+      "Ablution",
+      "Recommended",
+      "Continuity",
+      "Washing"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "43"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Washing Limbs Three Times",
+    "action_classification": "Recommended",
+    "short_rule": "Wash each limb three complete times.",
+    "details": "It is an emphasized sunna to completely wash each limb three times. This means ensuring the entire limb is thoroughly covered with water in each of the three washes, regardless of how many scoops of water are used.",
+    "actionable_steps": [
+      "Wash your face three complete times.",
+      "Wash your right arm three complete times.",
+      "Wash your left arm three complete times.",
+      "Wash your right foot three complete times.",
+      "Wash your left foot three complete times."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "Repeating the wash three times deepens the cleansing, both physically and spiritually, and reflects the Prophet's practice.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Triple Wash",
+    "scenario_tags": [
+      "Ablution",
+      "Recommended",
+      "Washing",
+      "Repetition"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "43"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Rinsing the Mouth",
+    "action_classification": "Recommended",
+    "short_rule": "Rinse your entire mouth three times.",
+    "details": "This is an emphasized sunna to perform during ablution. Ensure water reaches all parts of your mouth with each of the three rinses.",
+    "actionable_steps": [
+      "Take water into your mouth.",
+      "Rinse your entire mouth thoroughly.",
+      "Expel the water.",
+      "Repeat this process two more times for a total of three rinses."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "Rinsing the mouth cleanses the area used for speech and remembrance, preparing you to utter sacred words with purity.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Mouth Rinse",
+    "scenario_tags": [
+      "Ablution",
+      "Recommended",
+      "Mouth",
+      "Rinsing"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "43"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Rinsing the Nose",
+    "action_classification": "Recommended",
+    "short_rule": "Rinse the soft part of your nose three times.",
+    "details": "This is an emphasized sunna to perform during ablution. Ensure water reaches the soft part of your nose with each of the three rinses.",
+    "actionable_steps": [
+      "Take water into your nose.",
+      "Rinse the soft part of your nose thoroughly.",
+      "Expel the water.",
+      "Repeat this process two more times for a total of three rinses."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "Cleansing the nose purifies the pathway of breath, symbolizing a fresh start and renewed connection with the divine.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Nose Rinse",
+    "scenario_tags": [
+      "Ablution",
+      "Recommended",
+      "Nose",
+      "Rinsing"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "43"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Running Fingers Through Beard",
+    "action_classification": "Recommended",
+    "short_rule": "Run wet fingers through your beard after washing your face.",
+    "details": "After washing your face three times, it is an emphasized sunna to run your wet fingers through your beard. This ensures thorough cleansing and follows the prophetic practice.",
+    "actionable_steps": [
+      "After washing your face, take wet fingers.",
+      "Run them through your beard."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "This act ensures complete purification, reflecting attention to detail and adherence to the sunna.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "Male"
+    ],
+    "ui_icon_concept": "Beard Combing",
+    "scenario_tags": [
+      "Ablution",
+      "Recommended",
+      "Beard",
+      "Washing"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "43"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Running Fingers Between Fingers and Toes",
+    "action_classification": "Recommended",
+    "short_rule": "Run wet fingers between your fingers and toes.",
+    "details": "It is an emphasized sunna to ensure water reaches between your fingers and toes. This can be done by placing your hand or foot under running water, ensuring the skin between them becomes wet.",
+    "actionable_steps": [
+      "Run wet fingers between your fingers.",
+      "Run wet fingers between your toes."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "This thorough cleansing ensures no part is left untouched, symbolizing a complete dedication to purity.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Interdigital Wash",
+    "scenario_tags": [
+      "Ablution",
+      "Recommended",
+      "Fingers",
+      "Toes",
+      "Washing"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "43"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Wiping the Entire Head and Ears",
+    "action_classification": "Recommended",
+    "short_rule": "Wipe your entire head once, and your ears with the same water.",
+    "details": "After wiping a fourth of your head (an obligatory integral), it is an emphasized sunna to wipe the entire head once, and then use the remaining wetness on your hands to wipe your ears. You should not take new water for the ears.",
+    "actionable_steps": [
+      "Wipe your entire head once.",
+      "Using the same water on your hands, wipe your ears."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "This comprehensive wiping signifies a holistic purification of your mind and senses, preparing you for attentive worship.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Head and Ear Wipe",
+    "scenario_tags": [
+      "Ablution",
+      "Recommended",
+      "Head",
+      "Ears",
+      "Wiping"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "43"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Rubbing Limbs While Washing",
+    "action_classification": "Recommended",
+    "short_rule": "Rub the limbs while washing them.",
+    "details": "Rubbing the limbs (dalk) while washing them is an emphasized sunna. This ensures that water reaches all parts of the skin and enhances the cleansing process.",
+    "actionable_steps": [
+      "Gently rub your face while washing it.",
+      "Gently rub your arms while washing them.",
+      "Gently rub your feet while washing them."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "Rubbing the limbs during washing signifies active engagement in purification, ensuring no part of your being is neglected in seeking closeness to Allah.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Rubbing Limbs",
+    "scenario_tags": [
+      "Ablution",
+      "Recommended",
+      "Rubbing",
+      "Washing"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "43"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Starting with the Right Limb",
+    "action_classification": "Recommended",
+    "short_rule": "Begin with the right limb when washing arms and feet.",
+    "details": "It is an emphasized sunna to start with the right arm before the left, and the right foot before the left. This practice follows the prophetic tradition of preferring the right side in acts of purity.",
+    "actionable_steps": [
+      "Wash your right arm before your left arm.",
+      "Wash your right foot before your left foot."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "Preferring the right side in acts of purity reflects a beautiful order and reverence, aligning your actions with prophetic guidance.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Right Side First",
+    "scenario_tags": [
+      "Ablution",
+      "Recommended",
+      "Right Limb",
+      "Order"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "43"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Starting with Tips of Fingers and Toes",
+    "action_classification": "Recommended",
+    "short_rule": "Begin washing arms and feet from their tips.",
+    "details": "When washing your arms and feet, it is an emphasized sunna to start from the tips of your fingers and toes, ensuring a complete and thorough wash.",
+    "actionable_steps": [
+      "Begin washing your arms from the fingertips.",
+      "Begin washing your feet from the tips of your toes."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "Starting from the extremities ensures a comprehensive purification, symbolizing a complete dedication to cleanliness and readiness for worship.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Tips First",
+    "scenario_tags": [
+      "Ablution",
+      "Recommended",
+      "Fingertips",
+      "Toetips",
+      "Washing"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "43"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Starting Head Wipe from Front",
+    "action_classification": "Recommended",
+    "short_rule": "Begin wiping your head from the front.",
+    "details": "When wiping your head, it is an emphasized sunna to start from the front and move towards the back. This follows the prophetic practice and ensures a complete wipe.",
+    "actionable_steps": [
+      "Begin wiping your head from the front hairline."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "This specific motion in wiping the head reflects a complete and orderly purification, aligning with the sunna.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Head Wipe Front",
+    "scenario_tags": [
+      "Ablution",
+      "Recommended",
+      "Head",
+      "Wiping",
+      "Order"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "43"
+  },
+  {
+    "module": "Purification",
+    "topic": "Ablution (Wudu)",
+    "topic_brief": "Ablution is a beautiful act of minor purification, preparing you for worship and drawing you closer to the Divine. It cleanses both your body and spirit, fostering a sense of readiness and inner peace.",
+    "ritual_type": "Minor Purification",
+    "ritual_phase": "Execution",
+    "title": "Wiping the Back of the Neck",
+    "action_classification": "Recommended",
+    "short_rule": "Wipe the back of your neck with the back of your wet fingers.",
+    "details": "After wiping your head, it is a recommended act (mandub) to wipe the back of your neck with the back of your wet fingers, without taking new water. This is a gentle reminder for thoroughness, but not the throat.",
+    "actionable_steps": [
+      "After wiping your head, use the back of your wet fingers.",
+      "Wipe the back of your neck, avoiding the throat."
+    ],
+    "quran_hadith_evidence": "null",
+    "spiritual_wisdom": "This small act of wiping extends the purification to a often-neglected area, symbolizing a complete and holistic cleansing of your being.",
+    "madhhab_applicability": [
+      "Hanafi"
+    ],
+    "gender_applicability": [
+      "All"
+    ],
+    "ui_icon_concept": "Neck Wipe",
+    "scenario_tags": [
+      "Ablution",
+      "Recommended",
+      "Neck",
+      "Wiping"
+    ],
+    "source_book": "Ascent to Felicity",
+    "author": "Abu 'l-Ikhlas al-Shurunbulali",
+    "volume_page": "43"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "name": "Update Docs on Source Change",
+  "description": "When source files (.js, .json config, .md docs) are edited, ask the agent to review the change and update relevant documentation (ARCHITECTURE.md, README, or .kiro/steering files) to stay in sync.",
+  "version": "1",
+  "when": {
+    "type": "fileEdited",
+    "patterns": [
+      "*.js",
+      "*.json",
+      "mobile/src/**/*.js",
+      "data_pipeline/scripts/*.js",
+      "app.json",
+      "package.json",
+      "babel.config.js",
+      "metro.config.js"
+    ]
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "A source file was just edited. Review the change and determine if any project documentation needs updating. Check ARCHITECTURE.md and the .kiro/steering/ files (structure.md, tech.md, product.md, data-workflow.md) for accuracy. If the change affects project structure, commands, dependencies, conventions, or features, update the relevant documentation to reflect the current state. Only make doc changes that are clearly warranted by the source change."
+  }
+}
